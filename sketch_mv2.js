@@ -19,7 +19,7 @@ var padding = 30;
 
 var rad = 10;
 
-var number = 4;
+var number = 2;
 var start = 0;
 //var end = 4;
 //var offset = 0;
@@ -259,7 +259,7 @@ function nextVid() {
   line(0, origin_y-10, width, origin_y-10);
   pop();
 
-  if (start < 28){ //DON'T FORGET TO CHANGE THE NUMBER HERE
+  if (start < 30){ //DON'T FORGET TO CHANGE THE NUMBER HERE
     start += (number);
   } else {
     start = 0;
