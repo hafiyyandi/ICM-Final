@@ -1,0 +1,830 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2007/12/31/nyregion/31stray.html",
+"snippet": "A woman in Irvington, N.J., was killed instantly on Saturday night when a stray bullet crashed through the wall of her bedroom and struck her in the head.",
+"print_page": "4",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Stray Bullet Kills Woman in New Jersey",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Stray Bullet Kills Woman In New Jersey",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Murders and Attempted Murders",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Crime and Criminals",
+"rank": 3,
+"major": null
+}
+],
+"pub_date": "2007-12-31T00:00:00Z",
+"document_type": "article",
+"new_desk": "Metro",
+"byline": {
+"original": "By NATE SCHWEBER and ANDY NEWMAN",
+"person": [
+{
+"firstname": "Nate",
+"middlename": null,
+"lastname": "SCHWEBER",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+},
+{
+"firstname": "Andy",
+"middlename": null,
+"lastname": "NEWMAN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 2
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5489956e38f0d82a671245be",
+"word_count": 301,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/12/30/arts/music/30sann.html",
+"snippet": "The machine that minted a long string of big-name stars, from Snoop Dogg to OutKast, has broken down. What happens now?",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/30/arts/30sann-600.jpg",
+"height": 330,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2007/12/30/arts/30sann-600.jpg",
+"xlargeheight": 330
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/30/arts/30sann-75.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2007/12/30/arts/30sann-75.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The Shrinking Market Is Changing the Face of Hip-Hop",
+"kicker": "Music",
+"content_kicker": "Music",
+"print_headline": "The Shrinking Market Is Changing the Face Of Hip-Hop",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Rap Music",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Dogg, Snoop",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Jay-Z",
+"rank": 3,
+"major": "N"
+},
+{
+"name": "organizations",
+"value": "Wu-Tang Clan",
+"rank": 4,
+"major": "N"
+}
+],
+"pub_date": "2007-12-30T05:00:00+0000",
+"document_type": "article",
+"new_desk": "Arts&Leisure",
+"section_name": "Music",
+"byline": {
+"original": "By KELEFA SANNEH",
+"person": [
+{
+"firstname": "Kelefa",
+"middlename": null,
+"lastname": "SANNEH",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "548973d738f0d82a67124041",
+"word_count": 2200,
+"score": 0,
+"uri": "nyt://article/5990a7ed-2120-5c39-81a7-3b026f91e6d1"
+},
+{
+"web_url": "https://www.nytimes.com/2007/12/25/business/25music.html",
+"snippet": "The rap superstar said Monday that he would end his unusual three-year turn in the corporate suite.",
+"print_page": "3",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/25/business/25music.75.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2007/12/25/business/25music.75.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Jay-Z to Quit His Day Job as President of Def Jam",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Jay-Z to Quit His Day Job As President Of Def Jam",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "organizations",
+"value": "Def Jam",
+"rank": 1,
+"major": null
+},
+{
+"name": "persons",
+"value": "Jay-Z",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Appointments and Executive Changes",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Music",
+"rank": 4,
+"major": null
+}
+],
+"pub_date": "2007-12-25T00:00:00Z",
+"document_type": "article",
+"new_desk": "Business",
+"byline": {
+"original": "By JEFF LEEDS",
+"person": [
+{
+"firstname": "Jeff",
+"middlename": null,
+"lastname": "LEEDS",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5489755b38f0d82a67124080",
+"word_count": 465,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/12/23/arts/music/23pare.html",
+"snippet": "The best of this year’s pop music includes the intricate vamps of Iron and Wine, Lupe Fiasco’s hooks, the architectonic hard-rock of Queens of the Stone Age and the gimmick-free Radiohead.",
+"print_page": "32",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/23/arts/23pare75.1.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2007/12/23/arts/23pare75.1.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Of Radiohead and ‘Rehab,’ ‘1234’ and Calle 13",
+"kicker": "Music",
+"content_kicker": "Music",
+"print_headline": "Of Radiohead and ‘Rehab,’ ‘1234’ and Calle 13",
+"name": null,
+"seo": "Battles - Calle 13 - Feist - Iron and Wine - Lupe Fiasco - Panda Bear - Queens of the Stone Age - Radiohead - Robert Plant and A",
+"sub": "Top Songs ;"
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Music",
+"rank": 1,
+"major": null
+},
+{
+"name": "persons",
+"value": "Feist, Leslie",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Winehouse, Amy",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Plant, Robert",
+"rank": 4,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Radiohead",
+"rank": 5,
+"major": null
+}
+],
+"pub_date": "2007-12-23T00:00:00Z",
+"document_type": "article",
+"new_desk": "Arts&Leisure",
+"section_name": "Music",
+"byline": {
+"original": "By JON PARELES",
+"person": [
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "PARELES",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "List",
+"_id": "547c550e38f0d813efccbf83",
+"word_count": 682,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/12/14/arts/music/14pop.html",
+"snippet": "POP.",
+"print_page": "29",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Pop and Rock Listings",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Pop and Rock Listings",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Rock Music",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2007-12-14T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"section_name": "Music",
+"byline": {
+"original": "By THE NEW YORK TIMES",
+"person": [],
+"organization": "THE NEW YORK TIMES"
+},
+"type_of_material": "Schedule",
+"_id": "54892a3838f0d82a67123439",
+"word_count": 2426,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/12/10/technology/10nokia.html",
+"snippet": "Although it is the largest handset maker in the world, Nokia has languished in the American market, hurt by its refusal to adapt its strategy to the market’s idiosyncrasies.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/10/business/10nokia.600.jpg",
+"height": 330,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2007/12/10/business/10nokia.600.jpg",
+"xlargeheight": "330"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/10/business/10nokia.75.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2007/12/10/business/10nokia.75.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Nokia Pushes to Regain U.S. Sales in Spite of Apple and Google",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Nokia Pushes to Regain U.S. Sales in Spite of Apple and Google",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "organizations",
+"value": "Nokia Corp",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Cellular Telephones",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Wireless Communications",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "iPhone",
+"rank": 4,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Apple Inc",
+"rank": 5,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Google Inc",
+"rank": 6,
+"major": null
+}
+],
+"pub_date": "2007-12-10T00:00:00Z",
+"document_type": "article",
+"new_desk": "Business",
+"byline": {
+"original": "By MARK LANDLER",
+"person": [
+{
+"firstname": "Mark",
+"middlename": null,
+"lastname": "LANDLER",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5488a33238f0d82a67122eba",
+"word_count": 1309,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/12/09/arts/music/09pare.html",
+"snippet": "How Radiohead took the online gamble that could change the record business.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/09/arts/09pare600.1.jpg",
+"height": 300,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2007/12/09/arts/09pare600.1.jpg",
+"xlargeheight": "300"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/09/arts/09pare75.1.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2007/12/09/arts/09pare75.1.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Pay What You Want for This Article",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Pay What You Want For This Article",
+"name": null,
+"seo": "Radiohead - In Rainbows - Music",
+"sub": "How Radiohead Took the Online Gamble That Could Change the Record Business;"
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Music",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Radiohead",
+"rank": 2,
+"major": null
+}
+],
+"pub_date": "2007-12-09T00:00:00Z",
+"document_type": "article",
+"new_desk": "Arts&Leisure",
+"section_name": "Music",
+"byline": {
+"original": "By JON PARELES",
+"person": [
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "PARELES",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "54886fe338f0d8602128f70f",
+"word_count": 2305,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/12/09/arts/music/09play.html",
+"snippet": "The Haitian-born rapper and producer spoke by phone with Winter Miller about what he’s listening to now. ",
+"print_page": "37",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/06/arts/09play75.1.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2007/12/06/arts/09play75.1.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "A Little Bit Country, a Little Bit Everything Else",
+"kicker": "Playlist",
+"content_kicker": "Playlist",
+"print_headline": "A Little Bit Country, a Little Bit Everything Else",
+"name": null,
+"seo": null,
+"sub": "Big & Rich ;"
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Rap Music",
+"rank": 1,
+"major": null
+},
+{
+"name": "persons",
+"value": "Jean, Wyclef",
+"rank": 2,
+"major": null
+}
+],
+"pub_date": "2007-12-09T00:00:00Z",
+"document_type": "article",
+"new_desk": "Arts&Leisure",
+"section_name": "Music",
+"byline": {
+"original": "By WYCLEF JEAN",
+"person": [
+{
+"firstname": "Wyclef",
+"middlename": null,
+"lastname": "JEAN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "54886f7438f0d8602128f706",
+"word_count": 783,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/12/07/arts/music/07gram.html",
+"snippet": "The British soul singer was nominated in all four of the most prestigious categories; Kanye West got eight nominations.",
+"print_page": "2",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/06/arts/NYT2007081517011617C.75.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2007/12/06/arts/NYT2007081517011617C.75.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Grammy Nominations Include Six for Winehouse",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Grammy Nominations Include Six for Winehouse",
+"name": null,
+"seo": "Amy Winehouse - Grammy - Nominations",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Grammy Awards",
+"rank": 1,
+"major": null
+},
+{
+"name": "persons",
+"value": "Winehouse, Amy",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 3,
+"major": null
+}
+],
+"pub_date": "2007-12-07T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"section_name": "Music",
+"byline": {
+"original": "By JEFF LEEDS",
+"person": [
+{
+"firstname": "Jeff",
+"middlename": null,
+"lastname": "LEEDS",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5488890338f0d82a67122c18",
+"word_count": 664,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/12/07/arts/music/06cnd-grammy.html",
+"snippet": "The British soul singer was nominated in all four of the most prestigious categories; Kanye West got eight nominations.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/06/arts/NYT2007081517011617C.75.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2007/12/06/arts/NYT2007081517011617C.75.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Amy Winehouse Draws 6 Grammy Nominations",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Amy Winehouse Draws 6 Grammy Nominations",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Grammy Awards",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Music",
+"rank": 2,
+"major": null
+}
+],
+"pub_date": "2007-12-07T00:00:00Z",
+"document_type": "article",
+"new_desk": "ContinuousNews",
+"section_name": "Music",
+"byline": {
+"original": "By JEFF LEEDS",
+"person": [
+{
+"firstname": "Jeff",
+"middlename": null,
+"lastname": "LEEDS",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5488863138f0d82a67122bd1",
+"word_count": 638,
+"score": 0
+}
+],
+"meta": {
+"hits": 105,
+"offset": 0,
+"time": 67
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 105
+}
+]
+}
+}
+}
+}

@@ -1,0 +1,210 @@
+{"data" : [
+	{
+		"name" 		: "Taylor Swift",
+		"job" 		: "Singer",
+		"type" 		: "N/A",
+		"ig_fol" 	: 104000000,
+		"t_fol" 	: 85700000,
+		"image" 	: "assets/rel_taylor.png"
+	},
+	{
+		"name" 		: "Tom Hiddleston",
+		"job" 		: "Actor",
+		"type" 		: "Ex-Boyfriend",
+		"ig_fol" 	: 3800000,
+		"t_fol" 	: 3400000,
+		"image" 	: "assets/rel_tom.png"
+	},
+	{
+		"name" 		: "Jake Gyllenhaal",
+		"job" 		: "Actor",
+		"type" 		: "Ex-Boyfriend",
+		"ig_fol" 	: 1900000,
+		"t_fol" 	: 0,
+		"image" 	: "assets/rel_jake.png"
+	},
+	{
+		"name" 		: "Calvin Harris",
+		"job" 		: "DJ / Music Producer",
+		"type" 		: "Ex-Boyfriend",
+		"ig_fol" 	: 9400000,
+		"t_fol" 	: 13300000,
+		"image" 	: "assets/rel_calvin.png"
+	},
+	{
+		"name" 		: "Harry Styles",
+		"job" 		: "Singer",
+		"type" 		: "Ex-Boyfriend",
+		"ig_fol" 	: 22500000,
+		"t_fol" 	: 31500000,
+		"image" 	: "assets/rel_harry.png"
+	},
+	{
+		"name" 		: "Kanye West",
+		"job" 		: "Rapper / Music Producer",
+		"type" 		: "Enemy",
+		"ig_fol" 	: 0,
+		"t_fol" 	: 27000000,
+		"image" 	: "assets/rel_kanye.png"
+	},
+	{
+		"name" 		: "Ed Sheeran",
+		"job" 		: "Singer",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 17000000,
+		"t_fol" 	: 20400000,
+		"image" 	: "assets/rel_ed.png"
+	},
+	{
+		"name" 		: "Kim Kardashian",
+		"job" 		: "Reality Personality",
+		"type" 		: "Enemy",
+		"ig_fol" 	: 105000000,
+		"t_fol" 	: 57500000,
+		"image" 	: "assets/rel_kim.png"
+	},
+	{
+		"name" 		: "Katy Perry",
+		"job" 		: "Singer",
+		"type" 		: "Enemy",
+		"ig_fol" 	: 68100000,
+		"t_fol" 	: 107000000,
+		"image" 	: "assets/rel_katy.png"
+	},
+	{
+		"name" 		: "Joe Alwyn",
+		"job" 		: "Actor / Model",
+		"type" 		: "Boyfriend",
+		"ig_fol" 	: 0,
+		"t_fol" 	: 13200,
+		"image" 	: "assets/rel_joe.png"
+	},
+	{
+		"name" 		: "John Mayer",
+		"job" 		: "Singer",
+		"type" 		: "Ex-Boyfriend",
+		"ig_fol" 	: 2600000,
+		"t_fol" 	: 1380000,
+		"image" 	: "assets/rel_john.png"
+	},
+	{
+		"name" 		: "Taylor Lautner",
+		"job" 		: "Actor",
+		"type" 		: "Ex-Boyfriend",
+		"ig_fol" 	: 4000000,
+		"t_fol" 	: 0,
+		"image" 	: "assets/rel_lautner.png"
+	},
+	{
+		"name" 		: "Lucas Till",
+		"job" 		: "Actor",
+		"type" 		: "Ex-Boyfriend",
+		"ig_fol" 	: 157000,
+		"t_fol" 	: 184000,
+		"image" 	: "assets/rel_lucas.png"
+	},
+	{
+		"name" 		: "Joe Jonas",
+		"job" 		: "Singer",
+		"type" 		: "Ex-Boyfriend",
+		"ig_fol" 	: 6600000,
+		"t_fol" 	: 9700000,
+		"image" 	: "assets/rel_jonas.png"
+	},
+	{
+		"name" 		: "Selena Gomez",
+		"job" 		: "Singer",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 131000000,
+		"t_fol" 	: 55400000,
+		"image" 	: "assets/rel_selena.png"
+	},
+	{
+		"name" 		: "Lena Dunham",
+		"job" 		: "Actress",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 3200000,
+		"t_fol" 	: 5720000,
+		"image" 	: "assets/rel_lena.png"
+	},
+	{
+		"name" 		: "Gigi Hadid",
+		"job" 		: "Model",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 37000000,
+		"t_fol" 	: 7840000,
+		"image" 	: "assets/rel_gigi.png"
+	},
+	{
+		"name" 		: "Cara Delevingne",
+		"job" 		: "Model / Actress",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 40800000,
+		"t_fol" 	: 10100000,
+		"image" 	: "assets/rel_cara.png"
+	},
+	{
+		"name" 		: "Karlie Kloss",
+		"job" 		: "Model",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 7000000,
+		"t_fol" 	: 5490000,
+		"image" 	: "assets/rel_karlie.png"
+	},
+	{
+		"name" 		: "Lily Aldridge",
+		"job" 		: "Model",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 5200000,
+		"t_fol" 	: 915000,
+		"image" 	: "assets/rel_lily.png"
+	},
+	{
+		"name" 		: "Martha Hunt",
+		"job" 		: "Model",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 2800000,
+		"t_fol" 	: 393000,
+		"image" 	: "assets/rel_martha.png"
+	},
+	{
+		"name" 		: "Lorde",
+		"job" 		: "Singer",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 5800000,
+		"t_fol" 	: 6850000,
+		"image" 	: "assets/rel_lorde.png"
+	},
+	{
+		"name" 		: "Alana Haim",
+		"job" 		: "Musician",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 395000,
+		"t_fol" 	: 306000,
+		"image" 	: "assets/rel_alana.png"
+	},
+	{
+		"name" 		: "Serayah",
+		"job" 		: "Actress",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 1300000,
+		"t_fol" 	: 150000,
+		"image" 	: "assets/rel_serayah.png"
+	},
+	{
+		"name" 		: "Ellie Goulding",
+		"job" 		: "Singer",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 14200000,
+		"t_fol" 	: 7280000,
+		"image" 	: "assets/rel_ellie.png"
+	},
+	{
+		"name" 		: "Hailee Steinfeld",
+		"job" 		: "Singer",
+		"type" 		: "Squad Member",
+		"ig_fol" 	: 7200000,
+		"t_fol" 	: 861000,
+		"image" 	: "assets/rel_hailee.png"
+	}
+]}

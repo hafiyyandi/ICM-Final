@@ -1,0 +1,486 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2009/10/22/spike-jonze-explains-his-kanye-west-mini-movie-we-were-once-a-fairytale/",
+"snippet": "The short film has offered a fictional depiction of an unlikeable, antisocial Mr. West that eerily anticipates his real-life actions, while providing Mr. Jonze with a lesson in how digital distribution works (or doesn’t work).",
+"abstract": "The short film has offered a fictional depiction of an unlikeable, antisocial Mr. West that eerily anticipates his real-life actions, while providing Mr. Jonze with a lesson in how digital distribution works (or doesn’t work).",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Spike Jonze Explains His Kanye West Mini-Movie, ‘We Were Once a Fairytale’",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2009-10-22T21:34:11Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAVE ITZKOFF",
+"person": [
+{
+"firstname": "Dave",
+"middlename": null,
+"lastname": "ITZKOFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd398078eb7c8105d8d1c23",
+"word_count": 896,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2009/10/20/kanye-west-spike-jonze-collaboration-is-pulled-from-web-site/",
+"snippet": "“We Were Once a Fairytale,” a graphic short film depicting a fictional version of Mr. West acting drunkenly and misbehaving in a club, was taken down from his official Web site.",
+"abstract": "“We Were Once a Fairytale,” a graphic short film depicting a fictional version of Mr. West acting drunkenly and misbehaving in a club, was taken down from his official Web site.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Kanye West-Spike Jonze Film Is Pulled From Web Site",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2009-10-20T11:30:04Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAVE ITZKOFF",
+"person": [
+{
+"firstname": "Dave",
+"middlename": null,
+"lastname": "ITZKOFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd397c78eb7c8105d8d1273",
+"word_count": 176,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2009/10/15/lady-gaga-sets-dates-for-new-kanye-less-tour/",
+"snippet": "The reworked Lady Gaga tour, to be called the Monster Ball, will start on Nov. 27 at the Bell Center in Montreal and finish on Jan. 20 and 21 at Radio City Music Hall in New York.",
+"abstract": "The reworked Lady Gaga tour, to be called the Monster Ball, will start on Nov. 27 at the Bell Center in Montreal and finish on Jan. 20 and 21 at Radio City Music Hall in New York.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Lady Gaga, Without Kanye West, Sets Dates for Tour",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2009-10-15T13:41:12Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAVE ITZKOFF",
+"person": [
+{
+"firstname": "Dave",
+"middlename": null,
+"lastname": "ITZKOFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd397878eb7c8105d8d08dc",
+"word_count": 126,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2009/10/12/kanye-west-absent-from-bet-hip-hop-awards/",
+"snippet": "Kanye West let the BET Hip-Hop Awards finish without interruption on Saturday by abstaining from the event.",
+"abstract": "Kanye West let the BET Hip-Hop Awards finish without interruption on Saturday by abstaining from the event.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Kanye West Absent From BET Hip-Hop Awards",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2009-10-12T10:54:09Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAVE ITZKOFF",
+"person": [
+{
+"firstname": "Dave",
+"middlename": null,
+"lastname": "ITZKOFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd397418eb7c8105d8cfcc5",
+"word_count": 160,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2009/10/01/kanye-westlady-gaga-tour-is-canceled/",
+"snippet": "If you were planning to see Kanye West and Lady Gaga together, better hope you saved that recording of the MTV Video Music Awards on your TiVo.",
+"abstract": "If you were planning to see Kanye West and Lady Gaga together, better hope you saved that recording of the MTV Video Music Awards on your TiVo.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Kanye West/Lady Gaga Tour Is Canceled",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2009-10-01T19:28:53Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAVE ITZKOFF",
+"person": [
+{
+"firstname": "Dave",
+"middlename": null,
+"lastname": "ITZKOFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd3975c8eb7c8105d8d00c9",
+"word_count": 134,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2009/09/23/jay-z-still-on-top/",
+"snippet": "For a second week Jay-Z has the No. 1 album on the Billboard chart.",
+"abstract": "For a second week Jay-Z has the No. 1 album on the Billboard chart.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Jay-Z Still on Top",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2009-09-23T15:25:18Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BEN SISARIO",
+"person": [
+{
+"firstname": "Ben",
+"middlename": null,
+"lastname": "SISARIO",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd397ba8eb7c8105d8d10aa",
+"word_count": 253,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2009/09/20/emmy-award-countdown/",
+"snippet": "The 61st annual prime-time Emmys are tonight and we’re watching them with you.",
+"abstract": "The 61st annual prime-time Emmys are tonight and we’re watching them with you.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Live Blog: ‘Mad Men’ and ’30 Rock’ Repeat",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2009-09-20T19:00:35Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BRIAN STELTER",
+"person": [
+{
+"firstname": "Brian",
+"middlename": null,
+"lastname": "STELTER",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd397ba8eb7c8105d8d10a8",
+"word_count": 3797,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2009/09/17/latin-grammy-nominations-favor-calle-13-bet-hip-hop-nominations-favorkanye-west/",
+"snippet": "The Puerto Rican hip-hop and reggaetón duo Calle 13 received five nominations for the 10th annual Latin Grammy Awards, while Mr. West was nominated nine times for the third annual BET Hip-Hop Awards.",
+"abstract": "The Puerto Rican hip-hop and reggaetón duo Calle 13 received five nominations for the 10th annual Latin Grammy Awards, while Mr. West was nominated nine times for the third annual BET Hip-Hop Awards.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Latin Grammy Nominations Favor Calle 13; BET Hip-Hop Nominations Favor…Kanye West",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2009-09-17T14:20:14Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BEN SISARIO",
+"person": [
+{
+"firstname": "Ben",
+"middlename": null,
+"lastname": "SISARIO",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd397ba8eb7c8105d8d10a3",
+"word_count": 300,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2009/09/15/taylor-swift-on-kanye-wests-outburst-ouch/",
+"snippet": "In an interview Tuesday on “The View,” Taylor Swift said that she had not yet heard directly from Kanye West after he interrupted her acceptance speech Sunday at the MTV Video Music Awards.",
+"abstract": "In an interview Tuesday on “The View,” Taylor Swift said that she had not yet heard directly from Kanye West after he interrupted her acceptance speech Sunday at the MTV Video Music Awards.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Taylor Swift on Kanye West’s Outburst: ‘Ouch’",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2009-09-15T12:00:49Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAVE ITZKOFF",
+"person": [
+{
+"firstname": "Dave",
+"middlename": null,
+"lastname": "ITZKOFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd397328eb7c8105d8cfacc",
+"word_count": 298,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2009/09/16/the-president-sounds-off-on-kanye-west/",
+"snippet": "Count President Obama as one more American who had something to say about Kanye West’s behavior on the MTV Video Music Awards on Sunday night.",
+"abstract": "Count President Obama as one more American who had something to say about Kanye West’s behavior on the MTV Video Music Awards on Sunday night.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "The President Sounds Off on Kanye West",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2009-09-16T06:04:51Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By THE NEW YORK TIMES",
+"person": [],
+"organization": "The New York Times"
+},
+"type_of_material": "Blog",
+"_id": "4fd397668eb7c8105d8d02dd",
+"word_count": 97,
+"score": 0
+}
+],
+"meta": {
+"hits": 227,
+"offset": 0,
+"time": 23
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 226
+},
+{
+"term": "International Herald Tribune",
+"count": 1
+}
+]
+}
+}
+}
+}

@@ -1,0 +1,1100 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2010/07/29/a-preview-of-kanye-wests-power-apocalyptic-in-a-very-personal-way/",
+"snippet": "Marco Brambilla discusses a video work he was commissioned to create for Mr. West’s single, a decadent commentary on the rapper’s ideas of celebrity and notoriety.",
+"abstract": "Marco Brambilla discusses a video work he was commissioned to create for Mr. West’s single, a decadent commentary on the rapper’s ideas of celebrity and notoriety.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "A Preview of Kanye West’s ‘Power': ‘Apocalyptic in a Very Personal Way’",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2010-07-29T10:26:36Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAVE ITZKOFF",
+"person": [
+{
+"firstname": "Dave",
+"middlename": null,
+"lastname": "ITZKOFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd39bda8eb7c8105d8daf29",
+"word_count": 729,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/31/arts/31forward.html",
+"snippet": "Critics and reporters at The Times choose projects and shows they are eager to see in the coming months.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/31/arts/31forward/31forward-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2010/12/31/arts/31forward/31forward-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/31/arts/31TOMMASINI-span/TOMMASINI-1-articleLarge.jpg",
+"height": 315,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2010/12/31/arts/31TOMMASINI-span/TOMMASINI-1-articleLarge.jpg",
+"xlargeheight": "315"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/31/arts/31forward/31forward-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/31/arts/31forward/31forward-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Time to Turn the Cultural Page",
+"kicker": "Looking Ahead",
+"content_kicker": "Looking Ahead",
+"print_headline": "Time to Turn the Page",
+"name": null,
+"seo": "Looking Ahead to Theater, Dance and Music in 2011",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Dancing",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Cunningham, Merce, Dance Co",
+"rank": 15,
+"major": null
+},
+{
+"name": "persons",
+"value": "Cage, Nicolas",
+"rank": 17,
+"major": null
+},
+{
+"name": "subject",
+"value": "Theater",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Movies",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Computer and Video Games",
+"rank": 4,
+"major": null
+},
+{
+"name": "subject",
+"value": "Opera",
+"rank": 5,
+"major": null
+},
+{
+"name": "subject",
+"value": "Classical Music",
+"rank": 6,
+"major": null
+},
+{
+"name": "subject",
+"value": "Jazz",
+"rank": 7,
+"major": null
+},
+{
+"name": "persons",
+"value": "Bedford, Brian",
+"rank": 8,
+"major": null
+},
+{
+"name": "persons",
+"value": "Parker, Trey",
+"rank": 9,
+"major": null
+},
+{
+"name": "persons",
+"value": "Stone, Matt",
+"rank": 10,
+"major": null
+}
+],
+"pub_date": "2010-12-31T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"byline": {
+"original": "By CHARLES ISHERWOOD, BEN BRANTLEY, SCOTT HELLER, ERIK PIPENBURG, ALISTAIR MACAULAY, SETH SCHIESEL, NEIL GENZLINGER, MIKE HALE, ANTHONY TOMMASINI, BEN RATLIFF and JULIE BLOOM",
+"person": [
+{
+"firstname": "Charles",
+"middlename": null,
+"lastname": "ISHERWOOD",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+},
+{
+"firstname": "Ben",
+"middlename": null,
+"lastname": "BRANTLEY",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 2
+},
+{
+"firstname": "Scott",
+"middlename": null,
+"lastname": "HELLER",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 3
+},
+{
+"firstname": "Erik",
+"middlename": null,
+"lastname": "PIPENBURG",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 4
+},
+{
+"firstname": "Alistair",
+"middlename": null,
+"lastname": "MACAULAY",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 5
+},
+{
+"firstname": "Seth",
+"middlename": null,
+"lastname": "SCHIESEL",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 6
+},
+{
+"firstname": "Neil",
+"middlename": null,
+"lastname": "GENZLINGER",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 7
+},
+{
+"firstname": "Mike",
+"middlename": null,
+"lastname": "HALE",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 8
+},
+{
+"firstname": "Anthony",
+"middlename": null,
+"lastname": "TOMMASINI",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 9
+},
+{
+"firstname": "Ben",
+"middlename": null,
+"lastname": "RATLIFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 10
+},
+{
+"firstname": "Julie",
+"middlename": null,
+"lastname": "BLOOM",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 11
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5421c60438f0d83c6e5b7391",
+"word_count": 4634,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/30/fashion/30Year.html",
+"snippet": "From Chelsea Clinton’s wedding to Willow Smith’s “Whip My Hair” video, here are the top topics on the minds of New Yorkers this year.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/30/fashion/30yearspan/30yearspan-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2010/12/30/fashion/30yearspan/30yearspan-articleLarge.jpg",
+"xlargeheight": 400
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/30/fashion/30yearspan/30yearspan-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2010/12/30/fashion/30yearspan/30yearspan-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The 110 Things New Yorkers Talked About in 2010",
+"kicker": "",
+"content_kicker": "",
+"print_headline": "The 110 Things New Yorkers Talked About in 2010",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Gossip",
+"rank": 1,
+"major": "N"
+}
+],
+"pub_date": "2010-12-29T17:57:51+0000",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By STUART EMMRICH",
+"person": [
+{
+"firstname": "Stuart",
+"middlename": null,
+"lastname": "EMMRICH",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "List",
+"_id": "5400b43538f0d841b2f38487",
+"word_count": 1255,
+"score": 0,
+"uri": "nyt://article/dda1bb0a-a74b-53e1-bc77-d6cc6055e44d"
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/26/sports/basketball/26lakers.html",
+"snippet": "It was billed as the game of the season, with the league’s brightest stars squaring off, Kobe Bryant versus LeBron James. But it didn’t take long for the holiday face-off to turn ugly.",
+"print_page": "5",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/26/sports/nyt-lakers-floater/nyt-lakers-floater-articleLarge.jpg",
+"height": 330,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2010/12/26/sports/nyt-lakers-floater/nyt-lakers-floater-articleLarge.jpg",
+"xlargeheight": "330"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/26/sports/nyt-lakers-floater/nyt-lakers-floater-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/26/sports/nyt-lakers-floater/nyt-lakers-floater-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Heat Steals Show in Los Angeles",
+"kicker": "Heat 96, Lakers 80",
+"content_kicker": "Heat 96, Lakers 80",
+"print_headline": "James Dominates in a Showdown That Isn’t a Great Show",
+"name": null,
+"seo": "Heat Routs Lakers, 96-80, in Los Angeles",
+"sub": "James Subdues Lakers With a Triple-Double ;"
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Basketball",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Los Angeles Lakers",
+"rank": 2,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Miami Heat",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Bryant, Kobe",
+"rank": 4,
+"major": null
+},
+{
+"name": "persons",
+"value": "James, LeBron",
+"rank": 5,
+"major": null
+}
+],
+"pub_date": "2010-12-26T00:00:00Z",
+"document_type": "article",
+"new_desk": "Sports",
+"section_name": "Pro Basketball",
+"byline": {
+"original": "By JON GOLD",
+"person": [
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "GOLD",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5421ac0838f0d83c6e5b713f",
+"word_count": 799,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2010/12/23/popcast-the-year-in-pop-and-jazz-part-ii/",
+"snippet": "New York Times pop and jazz critics Jon Pareles, Jon Caramanica, Ben Ratliff and Nate Chinen discuss their favorite singles of 2010.",
+"abstract": "New York Times pop and jazz critics Jon Pareles, Jon Caramanica, Ben Ratliff and Nate Chinen discuss their favorite singles of 2010.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Popcast: The Year in Pop and Jazz Part II",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2010-12-23T10:18:14Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By THE NEW YORK TIMES",
+"person": [],
+"organization": "THE NEW YORK TIMES"
+},
+"type_of_material": "Blog",
+"_id": "4fd39db48eb7c8105d8df81d",
+"word_count": 253,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2010/12/17/chart-the-best-albums-of-2010/",
+"snippet": "The artist Andrew Kuo charts his five top albums of 2010.",
+"abstract": "The artist Andrew Kuo charts his five top albums of 2010.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Chart: The Best Albums of 2010",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2010-12-17T09:25:56Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By ANDREW KUO",
+"person": [
+{
+"firstname": "Andrew",
+"middlename": null,
+"lastname": "KUO",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd39e2f8eb7c8105d8e0813",
+"word_count": 19,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/19/arts/television/19stanley.html",
+"snippet": "Scripted television had some high points this year, but the more arresting scenes popped up in real life, or at least on reality series and talk shows.",
+"print_page": "16",
+"blog": {},
+"source": "",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/19/arts/STANLEY-1/STANLEY-1-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2010/12/19/arts/STANLEY-1/STANLEY-1-articleLarge.jpg",
+"xlargeheight": "400"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/19/arts/STANLEY-1/STANLEY-1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/19/arts/STANLEY-1/STANLEY-1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Unexpected, Unfiltered, Unbelievable, Unctuous",
+"kicker": null,
+"content_kicker": "Year in Culture",
+"print_headline": "Unexpected, Unfiltered, Unbelievable, Unctuous",
+"name": null,
+"seo": "TV in 2010 - ‘Sarah Palin’s Alaska,’ Kanye West, Bill Clinton",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Television",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "AMC",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Winfrey, Oprah",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Palin, Sarah",
+"rank": 4,
+"major": null
+},
+{
+"name": "persons",
+"value": "Palin, Bristol",
+"rank": 5,
+"major": null
+},
+{
+"name": "persons",
+"value": "Lauer, Matt",
+"rank": 6,
+"major": null
+},
+{
+"name": "persons",
+"value": "Clinton, Bill",
+"rank": 7,
+"major": null
+},
+{
+"name": "persons",
+"value": "Colbert, Stephen",
+"rank": 8,
+"major": null
+}
+],
+"pub_date": "2010-12-19T00:00:00Z",
+"document_type": "article",
+"new_desk": "0",
+"section_name": "Television",
+"byline": {
+"original": "By ALESSANDRA STANLEY",
+"person": [
+{
+"firstname": "Alessandra",
+"middlename": null,
+"lastname": "STANLEY",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5421540238f0d81f7a60153d",
+"word_count": 881,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/19/arts/music/19chinen.html",
+"snippet": "Jason Moran and Mary Halvorson had stellar jazz albums this year, while Kanye West and Marnie Stern among others delivered fine rap and alt-rock CDs.",
+"print_page": "22",
+"blog": {},
+"source": "",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/19/arts/CHINEN-1/CHINEN-1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/19/arts/CHINEN-1/CHINEN-1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Renewal, the Sensual and Fraught Candor",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Renewal, the Sensual And Fraught Candor",
+"name": null,
+"seo": "Top 2010 Pop and Jazz: Jason Moran, Kanye West",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Music",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Jazz",
+"rank": 2,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Blue Note",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Moran, Jason",
+"rank": 4,
+"major": null
+},
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 5,
+"major": null
+},
+{
+"name": "persons",
+"value": "Mateen, Tarus",
+"rank": 6,
+"major": null
+}
+],
+"pub_date": "2010-12-19T00:00:00Z",
+"document_type": "article",
+"new_desk": "0",
+"section_name": "Music",
+"byline": {
+"original": "By NATE CHINEN",
+"person": [
+{
+"firstname": "Nate",
+"middlename": null,
+"lastname": "CHINEN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "List",
+"_id": "5421533838f0d81f7a60152a",
+"word_count": 627,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/19/arts/music/19caramanica.html",
+"snippet": "Of pop note in 2010: A new hip-hop hero, a Taylor Swift juggernaut, Kanye West’s new album and more.",
+"print_page": "21",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/19/arts/CARAMANICA-2/CARAMANICA-2-articleLarge.jpg",
+"height": 290,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2010/12/19/arts/CARAMANICA-2/CARAMANICA-2-articleLarge.jpg",
+"xlargeheight": "290"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/19/arts/CARAMANICA-1/CARAMANICA-1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/19/arts/CARAMANICA-1/CARAMANICA-1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The Purpler the Bruise, the Sweeter the Song",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "The Purpler the Bruise, The Sweeter the Song",
+"name": null,
+"seo": "Pop Top 10, Rick Ross, Kanye West, Taylor Swift and More",
+"sub": null
+},
+"keywords": [
+{
+"name": "persons",
+"value": "Drake",
+"rank": 5,
+"major": null
+},
+{
+"name": "subject",
+"value": "Music",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Titus Andronicus (Music Group)",
+"rank": 8,
+"major": null
+},
+{
+"name": "persons",
+"value": "Fabolous",
+"rank": 6,
+"major": null
+},
+{
+"name": "persons",
+"value": "Bieber, Justin",
+"rank": 7,
+"major": null
+},
+{
+"name": "persons",
+"value": "Swift, Taylor",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Rap and Hip-Hop",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 4,
+"major": null
+}
+],
+"pub_date": "2010-12-19T00:00:00Z",
+"document_type": "article",
+"new_desk": "0",
+"section_name": "Music",
+"byline": {
+"original": "By JON CARAMANICA",
+"person": [
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "CARAMANICA",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "List",
+"_id": "537a0c7038f0d805525a3559",
+"word_count": 716,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/19/arts/music/19pareles.html",
+"snippet": "Some of the more striking albums of 2010: Arcade Fire’s “Suburbs,” Janelle Monáe’s “ArchAndroid,” Joanna Newsom’s “Have One on Me” and more.",
+"print_page": "20",
+"blog": {},
+"source": "",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/19/arts/PARELES-1/PARELES-1-articleLarge-v2.jpg",
+"height": 474,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2010/12/19/arts/PARELES-1/PARELES-1-articleLarge-v2.jpg",
+"xlargeheight": "474"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/19/arts/COVERILLOjpg/COVERILLOjpg-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/19/arts/COVERILLOjpg/COVERILLOjpg-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "2010 Anthems: From a Kiss-Off to Jolts of Hope",
+"kicker": "The Year in Culture",
+"content_kicker": "The Year in Culture",
+"print_headline": "2010 Anthems: From a Kiss-Off To Jolts of Hope",
+"name": null,
+"seo": "Top Pop 2010: Arcade Fire, Janelle Monáe and More",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Music",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Arcade Fire",
+"rank": 2,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Drag City",
+"rank": 3,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Sparklehorse",
+"rank": 4,
+"major": null
+},
+{
+"name": "persons",
+"value": "Stevens, Sufjan",
+"rank": 5,
+"major": null
+},
+{
+"name": "persons",
+"value": "Ade, King Sunny",
+"rank": 6,
+"major": null
+},
+{
+"name": "persons",
+"value": "Sade",
+"rank": 7,
+"major": null
+},
+{
+"name": "persons",
+"value": "Danger Mouse",
+"rank": 8,
+"major": null
+},
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 9,
+"major": null
+}
+],
+"pub_date": "2010-12-19T00:00:00Z",
+"document_type": "article",
+"new_desk": "0",
+"section_name": "Music",
+"byline": {
+"original": "By JON PARELES",
+"person": [
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "PARELES",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "List",
+"_id": "542153d938f0d81f7a601539",
+"word_count": 651,
+"score": 0
+}
+],
+"meta": {
+"hits": 204,
+"offset": 0,
+"time": 69
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 196
+},
+{
+"term": "",
+"count": 5
+},
+{
+"term": "International Herald Tribune",
+"count": 3
+}
+]
+}
+}
+}
+}

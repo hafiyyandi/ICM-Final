@@ -1,0 +1,371 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://cityroom.blogs.nytimes.com/2008/05/07/keeping-the-bloom-on-a-rose-of-many-other-colors/",
+"snippet": "Lord & Taylor is transforming its brand from “Breakfast at Tiffany’s” to “Sex and the City” with a competition to update its classic rose logo. Hey, some changed imagery hasn’t hurt Burberry.",
+"abstract": "Lord & Taylor is transforming its brand from “Breakfast at Tiffany’s” to “Sex and the City” with a competition to update its classic rose logo. Hey, some changed imagery hasn’t hurt Burberry.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Keeping the Bloom on a Rose of Many Other Colors",
+"kicker": "City Room"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "type_of_material",
+"value": "News"
+}
+],
+"pub_date": "2008-05-07T10:09:43Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By AMANDA M. FAIRBANKS"
+},
+"type_of_material": "Blog",
+"_id": "4fd36b4a8eb7c8105d8bfc17",
+"word_count": 664,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2008/12/24/taylor-swift-still-at-no-1/",
+"snippet": "Taylor Swift’s “Fearless” remains at No. 1 on this week’s Billboard album chart. In second place is “A Different Me” by Keyshia Cole.",
+"abstract": "Taylor Swift’s “Fearless” remains at No. 1 on this week’s Billboard album chart. In second place is “A Different Me” by Keyshia Cole.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Taylor Swift Still at No. 1",
+"kicker": "ArtsBeat"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "type_of_material",
+"value": "News"
+}
+],
+"pub_date": "2008-12-24T14:23:55Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "Blog",
+"_id": "4fd393078eb7c8105d8c61b1",
+"word_count": 140,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2008/12/17/taylor-swift-dethrones-britney/",
+"snippet": "Taylor Swift and Britney Spears swapped places on the top of the Billboard album chart this week.",
+"abstract": "Taylor Swift and Britney Spears swapped places on the top of the Billboard album chart this week.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Taylor Swift Dethrones Britney",
+"kicker": "ArtsBeat"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "type_of_material",
+"value": "News"
+}
+],
+"pub_date": "2008-12-17T13:53:20Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "Blog",
+"_id": "4fd393248eb7c8105d8c64e6",
+"word_count": 159,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2008/12/03/live-grammy-nominations-are-announced/",
+"snippet": "Live updates on the Grammy Award nomination announcements.",
+"abstract": "Live updates on the Grammy Award nomination announcements.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Grammy Nominations Are Announced",
+"kicker": "ArtsBeat"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "type_of_material",
+"value": "News"
+}
+],
+"pub_date": "2008-12-03T20:45:17Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAVE ITZKOFF"
+},
+"type_of_material": "Blog",
+"_id": "4fd393368eb7c8105d8c67b2",
+"word_count": 1370,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2008/11/19/digital-sales-help-taylor-swift-hit-no-1/",
+"snippet": "Taylor Swift, the 18-year-old country star, easily reached No. 1 on the Billboard album chart this week with her second release, “Fearless.”",
+"abstract": "Taylor Swift, the 18-year-old country star, easily reached No. 1 on the Billboard album chart this week with her second release, “Fearless.”",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Digital Sales Help Taylor Swift Hit No. 1",
+"kicker": "ArtsBeat"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "type_of_material",
+"value": "News"
+}
+],
+"pub_date": "2008-11-19T13:39:23Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "Blog",
+"_id": "4fd392b98eb7c8105d8c5806",
+"word_count": 127,
+"score": 0
+},
+{
+"web_url": "https://slapshot.blogs.nytimes.com/2008/12/27/saturdays-junior-report-11/",
+"snippet": "News, notes, results and more from the world of junior hockey.",
+"abstract": "News, notes, results and more from the world of junior hockey.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Saturday's Junior Report",
+"kicker": "Slap Shot"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "type_of_material",
+"value": "News"
+}
+],
+"pub_date": "2008-12-27T11:08:43Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By MARK PARGAS"
+},
+"type_of_material": "Blog",
+"_id": "4fd393498eb7c8105d8c6ad7",
+"word_count": 398,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/12/25/arts/music/25arts-TAYLORSWIFTS_BRF.html",
+"snippet": "&#8220;Fearless&#8221; (Big Machine), the latest album by Taylor Swift, above, remains at No. 1 on this week&#8217;s Billboard album chart with 330,000 in sales, according to Nielsen SoundScan, the album&#8217;s third time atop the chart in six we...",
+"print_page": "2",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Taylor Swift Stays at Top",
+"print_headline": "Taylor Swift Stays at Top"
+},
+"keywords": [],
+"pub_date": "2008-12-25T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By BEN SISARIO; Compiled by DAVE ITZKOFF"
+},
+"type_of_material": "Brief",
+"_id": "5475d35d38f0d8119c6b01b6",
+"word_count": 147,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/12/24/arts/music/24jazm.html",
+"snippet": "At S.O.B.’s on Monday night Jazmine Sullivan kept her fangs largely hidden, instead giving herself over to the often gorgeous vintage soul that dominates her debut album.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2008/12/24/arts/24jasmine_600.JPG",
+"height": 331,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2008/12/24/arts/24jasmine_600.JPG",
+"xlargeheight": "331"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2008/12/24/arts/24jasmine_75.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2008/12/24/arts/24jasmine_75.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Singing That Sweet Soul Music, Keeping the Fangs Hidden",
+"kicker": "Music Review",
+"print_headline": "Singing That Sweet Soul Music, Keeping the Fangs Hidden"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Grammy Awards"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Sullivan, Jazmine"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "Swift, Taylor"
+}
+],
+"pub_date": "2008-12-24T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By JON CARAMANICA"
+},
+"type_of_material": "Review",
+"_id": "5475ca2a38f0d8119c6b00ea",
+"word_count": 599,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/12/21/arts/music/21cara.html",
+"snippet": "New music by Jamey Johnson, the Cool Kids, the Gaslight Anthem, Taylor Swift and Lil Wayne top this list of best rock and pop releases.",
+"print_page": "33",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Sounds of Swagger and Sob Stories",
+"print_headline": "Sounds of Swagger And Sob Stories"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Swift, Taylor"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Lil Wayne"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "organizations",
+"value": "Bon Iver"
+}
+],
+"pub_date": "2008-12-21T00:00:00Z",
+"document_type": "article",
+"new_desk": "Arts&Leisure",
+"section_name": "Music",
+"byline": {
+"original": "By JON CARAMANICA"
+},
+"type_of_material": "List",
+"_id": "5475899c38f0d8119c6afaee",
+"word_count": 570,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/12/18/arts/music/18arts-BRITNEYISDET_BRF.html",
+"snippet": "Taylor Swift and Britney Spears swapped places on the top of the Billboard album chart this week. Ms. Swift, whose &#8220;Fearless&#8221; (Big Machine) reached No. 1 five weeks ago and has been hovering in the Top 5 since, returns with 249,000 cop...",
+"print_page": "2",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Britney Is Dethroned",
+"print_headline": "Britney Is Dethroned"
+},
+"keywords": [],
+"pub_date": "2008-12-18T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By BEN SISARIO; Compiled by Dave Itzkoff"
+},
+"type_of_material": "Brief",
+"_id": "5475968a38f0d8119c6afc31",
+"word_count": 103,
+"score": 0
+}
+],
+"meta": {
+"hits": 65,
+"offset": 0,
+"time": 24
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 65
+}
+]
+}
+}
+}
+}

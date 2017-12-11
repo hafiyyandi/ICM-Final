@@ -1,0 +1,688 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2014/12/31/arts/television/whats-on-tv-wednesday.html",
+"snippet": "Television highlights.",
+"print_page": "9",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "What&#8217;s On TV Wednesday",
+"print_headline": "What’s On TV Wednesday"
+},
+"keywords": [],
+"pub_date": "2014-12-31T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Television",
+"byline": {
+"original": "By KATHRYN SHATTUCK"
+},
+"type_of_material": "Schedule",
+"_id": "54a387c538f0d80267d294c7",
+"word_count": 686,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2014/12/30/opinion/2014-the-year-in-questions-quiz-answers.html",
+"snippet": "The answers for our ninth annual Op-Ed quiz.",
+"print_page": "19",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/12/30/opinion/30schott/30schott-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/12/30/opinion/30schott/30schott-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/12/30/opinion/30schott/30schott-articleLarge.jpg",
+"height": 589,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2014/12/30/opinion/30schott/30schott-articleLarge.jpg",
+"xlargeheight": "589"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/12/30/opinion/30schott/30schott-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2014/12/30/opinion/30schott/30schott-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "2014: The Year in Questions – Quiz Answers",
+"print_headline": "Answers to \"The Year in Questions\""
+},
+"keywords": [],
+"pub_date": "2014-12-30T00:00:00Z",
+"document_type": "article",
+"new_desk": "OpEd",
+"byline": {
+"original": "By BEN SCHOTT"
+},
+"type_of_material": "Op-Ed",
+"_id": "54a1e1ac38f0d85064bfc666",
+"word_count": 588,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2014/12/28/technology/amazon-offers-all-you-can-eat-books-authors-turn-up-noses.html",
+"snippet": "Some self-published writers say their income has seen a large and rapid decrease under Amazon’s Kindle Unlimited program, and argue that the system is unfair.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/12/28/business/28Amazonjp/28Amazonjp-articleLarge.jpg",
+"height": 414,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2014/12/28/business/28Amazonjp/28Amazonjp-articleLarge.jpg",
+"xlargeheight": 414
+}
+},
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/12/28/business/28Amazonjp/28Amazonjp-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/12/28/business/28Amazonjp/28Amazonjp-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/12/28/business/28Amazonjp/28Amazonjp-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2014/12/28/business/28Amazonjp/28Amazonjp-thumbStandard.jpg",
+"thumbnailwidth": 75
+}
+}
+],
+"headline": {
+"main": "Amazon Offers All-You-Can-Eat Books. Authors Turn Up Noses. ",
+"kicker": "",
+"print_headline": "Amazon Offers All-You-Can-Eat Books. Authors Turn Up Noses."
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "subject",
+"value": "E-Books and Readers"
+},
+{
+"isMajor": "N",
+"rank": 2,
+"name": "organizations",
+"value": "Amazon.com Inc"
+},
+{
+"isMajor": "N",
+"rank": 3,
+"name": "subject",
+"value": "Book Trade and Publishing"
+},
+{
+"isMajor": "N",
+"rank": 4,
+"name": "subject",
+"value": "Writing and Writers"
+}
+],
+"pub_date": "2014-12-27T18:47:23+0000",
+"document_type": "article",
+"new_desk": "Business",
+"byline": {
+"original": "By DAVID STREITFELD"
+},
+"type_of_material": "News",
+"_id": "549efebd38f0d824d7b8e292",
+"word_count": 1325,
+"score": 0,
+"uri": "nyt://article/7410669e-6d94-5c03-8ff4-2525ff0233c5"
+},
+{
+"web_url": "https://www.nytimes.com/2014/12/28/nyregion/they-say-art-is-dead-in-new-york-theyre-wrong.html",
+"snippet": "The supremacy of real estate and capital that so many carp about has actually helped define a new aesthetic for the city and forced new artistic centers to grow.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/12/28/nyregion/28BESTEVER3SUB/28BESTEVER3SUB-articleLarge.jpg",
+"height": 397,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2014/12/28/nyregion/28BESTEVER3SUB/28BESTEVER3SUB-articleLarge.jpg",
+"xlargeheight": 397
+}
+},
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/12/28/nyregion/28BESTEVER3SUB/28BESTEVER3SUB-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/12/28/nyregion/28BESTEVER3SUB/28BESTEVER3SUB-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/12/28/nyregion/28BESTEVER3SUB/28BESTEVER3SUB-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2014/12/28/nyregion/28BESTEVER3SUB/28BESTEVER3SUB-thumbStandard.jpg",
+"thumbnailwidth": 75
+}
+}
+],
+"headline": {
+"main": "They Say Art Is Dead in New York. They&#8217;re Wrong.",
+"kicker": "Year-End Culture",
+"print_headline": "They Say Art Is Dead in New York. They’re Wrong."
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "subject",
+"value": "Art"
+},
+{
+"isMajor": "N",
+"rank": 2,
+"name": "glocations",
+"value": "New York City"
+},
+{
+"isMajor": "N",
+"rank": 3,
+"name": "subject",
+"value": "Culture (Arts)"
+},
+{
+"isMajor": "N",
+"rank": 4,
+"name": "subject",
+"value": "Gentrification"
+},
+{
+"isMajor": "N",
+"rank": 5,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": "N",
+"rank": 6,
+"name": "subject",
+"value": "Parties (Social)"
+}
+],
+"pub_date": "2014-12-26T09:18:46+0000",
+"document_type": "article",
+"new_desk": "Metro",
+"byline": {
+"original": "By ALAN FEUER"
+},
+"type_of_material": "News",
+"_id": "549d27fa38f0d8754689119e",
+"word_count": 2594,
+"score": 0,
+"uri": "nyt://article/7af00b98-498e-56c8-aa94-8a1e53f55262"
+},
+{
+"web_url": "https://www.nytimes.com/2014/12/26/arts/spare-times-listings-for-dec-26-jan-1.html",
+"snippet": "A selected guide to readings, exhibitions, walking tours and other cultural events in New York City.",
+"print_page": "32",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Spare Times Listings for Dec. 26-Jan. 1",
+"print_headline": "Spare TImes"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Culture (Arts)"
+}
+],
+"pub_date": "2014-12-26T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"byline": {
+"original": "By MEGHAN RICE and ANNE MANCUSO"
+},
+"type_of_material": "Schedule",
+"_id": "549c9be338f0d875468910d7",
+"word_count": 3006,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2014/12/26/arts/music/laura-benanti-takes-on-54-below-and-her-career.html",
+"snippet": "Laura Benanti, singing cabaret on New Year&#8217;s Eve at 54 Below, is becoming known for her unguarded, often self-deprecating wit.",
+"abstract": "Actress Laura Benanti, who will perform her cabaret act on New Years Eve at 54 Below, has small but dedicated following.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/12/26/arts/26BENANTI/26BENANTI-thumbWide-v2.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/12/26/arts/26BENANTI/26BENANTI-thumbWide-v2.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/12/26/arts/26BENANTI/26BENANTI-articleLarge.jpg",
+"height": 450,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2014/12/26/arts/26BENANTI/26BENANTI-articleLarge.jpg",
+"xlargeheight": "450"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/12/26/arts/26BENANTI/26BENANTI-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2014/12/26/arts/26BENANTI/26BENANTI-thumbStandard-v2.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Working for the People on New Year&#8217;s Eve",
+"print_headline": "Working for the People on New Year’s Eve"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Benanti, Laura"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "54 Below (Manhattan, NY, Restaurant)"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Music"
+}
+],
+"pub_date": "2014-12-26T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"section_name": "Music",
+"byline": {
+"original": "By DAVE ITZKOFF"
+},
+"type_of_material": "News",
+"_id": "549c7af738f0d8754689109e",
+"word_count": 1491,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2014/12/24/the-battle-for-2014s-top-selling-album-taylor-swift-vs-frozen/",
+"snippet": "With just one week of sales left in the year, the race is tight.",
+"abstract": "With just one week of sales left in the year, the race is tight.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "The Battle for 2014's Top-Selling Album: Taylor Swift vs. 'Frozen'",
+"kicker": "ArtsBeat",
+"print_headline": "Madonna Song Leaks, the Second Wave"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Swift, Taylor"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+}
+],
+"pub_date": "2014-12-24T16:26:09Z",
+"document_type": "blogpost",
+"new_desk": "Culture",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "Blog",
+"_id": "549b2fd238f0d845e1a76c28",
+"word_count": 354,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2014/12/25/fashion/for-nick-jonas-showing-off-is-paying-off.html",
+"snippet": "The former Jonas Brothers band member is a newly minted sex symbol.",
+"abstract": "Nick Jonas, musician and younger of two Jonas Brothers, has come into his own as sex symbol, having transitioned from teen idol to pop provocateur.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/12/25/fashion/25SUBJONAS/25SUBJONAS-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/12/25/fashion/25SUBJONAS/25SUBJONAS-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/12/25/fashion/25SUBJONAS/25SUBJONAS-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2014/12/25/fashion/25SUBJONAS/25SUBJONAS-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/12/25/fashion/25SUBJONAS/25SUBJONAS-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2014/12/25/fashion/25SUBJONAS/25SUBJONAS-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "For Nick Jonas, Showing Off Is Paying Off",
+"print_headline": "The Beefcake Little Brother"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Jonas, Nick"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Jonas Brothers"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Actors and Actresses"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "Rock Music"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "subject",
+"value": "Celebrities"
+}
+],
+"pub_date": "2014-12-25T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By ALEX HAWGOOD"
+},
+"type_of_material": "News",
+"_id": "549b2bad38f0d845e1a76c20",
+"word_count": 1651,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2014/12/24/business/media/sony-weighed-sale-of-music-publishing-arm-emails-show.html",
+"snippet": "Under pressure to sell assets and anxious about streaming, Sony has considered selling some or all of a huge portfolio of publishing rights, hacked emails show.",
+"abstract": "Hacked emails reveal that Sony has considered selling its vast music-publishing business, Sony/ATV; news amounts to startling development in sleepy but profitable $2.2 billion industry, of which Sony controls an estimated 30 percent market share.",
+"print_page": "2",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Sony Weighed Sale of Music-Publishing Arm, Emails Show",
+"print_headline": "Sony Weighed Sale of Music-Publishing Arm, Emails Show"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "Sony Corporation"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Cyberwarfare"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Cyberattacks and Hackers"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "Royalties"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "subject",
+"value": "Mergers, Acquisitions and Divestitures"
+}
+],
+"pub_date": "2014-12-24T00:00:00Z",
+"document_type": "article",
+"new_desk": "Business",
+"section_name": "Media",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "News",
+"_id": "549a170638f0d879a541772b",
+"word_count": 573,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/video/movies/100000003327716/glen-campbell-ill-be-me.html",
+"snippet": "The film features those who know and love Glen, including Bruce Springsteen, Bill Clinton, The Edge, Paul McCartney, Jay Leno, Vince Gil, Jimmy Web, Blake Shelton, Sheryl Crow, Keith Urban, Brad Paisley, Steve Martin, Chad Smith and Taylor Swift a...",
+"blog": {},
+"source": "Internet Video Archive",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/10/30/movies/video-glen-campbell-ill-be-me/video-glen-campbell-ill-be-me-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/10/30/movies/video-glen-campbell-ill-be-me/video-glen-campbell-ill-be-me-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/10/30/movies/video-glen-campbell-ill-be-me/video-glen-campbell-ill-be-me-articleLarge.jpg",
+"height": 338,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2014/10/30/movies/video-glen-campbell-ill-be-me/video-glen-campbell-ill-be-me-articleLarge.jpg",
+"xlargeheight": "338"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/10/30/movies/video-glen-campbell-ill-be-me/video-glen-campbell-ill-be-me-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2014/10/30/movies/video-glen-campbell-ill-be-me/video-glen-campbell-ill-be-me-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Glen Campbell I'll Be Me"
+},
+"keywords": [],
+"pub_date": "2014-12-23T19:43:14Z",
+"document_type": "multimedia",
+"new_desk": "Movies",
+"byline": {
+"original": "PCH Films"
+},
+"type_of_material": "Video",
+"_id": "54e45b4f38f0d860468cc0f2",
+"word_count": 40,
+"score": 0
+}
+],
+"meta": {
+"hits": 209,
+"offset": 0,
+"time": 35
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 196
+},
+{
+"term": "Reuters",
+"count": 11
+},
+{
+"term": "",
+"count": 1
+},
+{
+"term": "Internet Video Archive",
+"count": 1
+}
+]
+}
+}
+}
+}

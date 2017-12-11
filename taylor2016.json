@@ -1,0 +1,1139 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2016/12/09/arts/music/playlist-zayn-taylor-swift-jesus-mary-chain.html",
+"snippet": "The new tracks that caught our pop critics’ attention this week, from Ms. Swift’s surprise song with ZAYN to a new song from At the Drive-In.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/12/10/arts/10playlist-sub/10playlist-sub-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/12/10/arts/10playlist-sub/10playlist-sub-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/12/10/arts/10playlist-sub/10playlist-sub-articleLarge.jpg",
+"height": 420,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/12/10/arts/10playlist-sub/10playlist-sub-articleLarge.jpg",
+"xlargeheight": "420"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/12/10/arts/10playlist-sub/10playlist-sub-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/12/10/arts/10playlist-sub/10playlist-sub-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "The Playlist: Taylor Swift and the Jesus and Mary Chain Offer Different Shades of Teases"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Video Recordings, Downloads and Streaming"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "At the Drive-In"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "organizations",
+"value": "Hurray for the Riff Raff (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "organizations",
+"value": "Jesus and Mary Chain (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "persons",
+"value": "Swift, Taylor"
+}
+],
+"pub_date": "2016-12-09T18:56:44+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By JON PARELES, JON CARAMANICA and NATE CHINEN"
+},
+"type_of_material": "News",
+"_id": "584afe7295d0e03926075271",
+"word_count": 1285,
+"score": 0.000017670267
+},
+{
+"web_url": "https://www.nytimes.com/2016/12/09/arts/taylor-swift-releases-a-surprise-single-with-zayn-malik.html",
+"snippet": "The R&B-tinged “I Don’t Wanna Live Forever” will be featured on the movie soundtrack for the sequel to “Fifty Shades of Grey.”",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/12/09/arts/music/09swift_web1/09swift_web1-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/12/09/arts/music/09swift_web1/09swift_web1-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/12/09/arts/music/09swift_web1/09swift_web1-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/12/09/arts/music/09swift_web1/09swift_web1-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/12/09/arts/music/09swift_web1/09swift_web1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/12/09/arts/music/09swift_web1/09swift_web1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Taylor Swift Releases a Surprise Single With Zayn Malik"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Swift, Taylor"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Malik, Zayn"
+}
+],
+"pub_date": "2016-12-09T05:25:55+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"byline": {
+"original": "By JOE COSCARELLI"
+},
+"type_of_material": "News",
+"_id": "584a406a95d0e03926075006",
+"word_count": 387,
+"score": 0.000013172914
+},
+{
+"web_url": "https://www.nytimes.com/2016/12/03/fashion/how-teens-use-the-word-mom-online.html",
+"snippet": "When teenagers (and those of us who talk like them) call celebrities and their besties ‘Mom’ — explained.",
+"print_page": "2",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/12/04/fashion/COMDZMOM/COMDZMOM-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/12/04/fashion/COMDZMOM/COMDZMOM-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/12/04/fashion/COMDZMOM/COMDZMOM-articleLarge.jpg",
+"height": 206,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/12/04/fashion/COMDZMOM/COMDZMOM-articleLarge.jpg",
+"xlargeheight": "206"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/12/04/fashion/COMDZMOM/COMDZMOM-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/12/04/fashion/COMDZMOM/COMDZMOM-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "On the Internet, to Be ‘Mom’ Is to Be Queen",
+"kicker": "Command Z",
+"print_headline": "To Be ‘Mom’ Is to Be Queen"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Language and Languages"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Social Media"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Slang"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "Knowles, Beyonce"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Kardashian, Kim"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "persons",
+"value": "Blanchard, Rowan (2001- )"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "persons",
+"value": "Swift, Taylor"
+},
+{
+"isMajor": null,
+"rank": 8,
+"name": "persons",
+"value": "Obama, Barack"
+}
+],
+"pub_date": "2016-12-03T10:23:11+0000",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By JESSICA BENNETT"
+},
+"type_of_material": "News",
+"_id": "58429d1795d0e03926073dfc",
+"word_count": 1355,
+"score": 0.0000042342413
+},
+{
+"web_url": "https://www.nytimes.com/2016/12/03/sports/autoracing/making-a-grand-prix-more-grand-taylor-swift-doesnt-hurt.html",
+"snippet": "Leaders of the racing venues in Mexico and Texas share ideas on growing the audience and the experience for fans.",
+"print_page": "15",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/12/03/automobiles/03QNA3-INYT/03QNA3-INYT-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/12/03/automobiles/03QNA3-INYT/03QNA3-INYT-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/12/03/automobiles/03QNA3-INYT/03QNA3-INYT-articleLarge.jpg",
+"height": 236,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/12/03/automobiles/03QNA3-INYT/03QNA3-INYT-articleLarge.jpg",
+"xlargeheight": "236"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/12/03/automobiles/03QNA3-INYT/03QNA3-INYT-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/12/03/automobiles/03QNA3-INYT/03QNA3-INYT-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Making a Grand Prix More Grand: Taylor Swift Doesn’t Hurt",
+"print_headline": "‘It’s just about delivering a fun weekend’ for fans"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Automobile Racing"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Epstein, Robert A (1965- )"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Soberon, Alejandro"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "United States Grand Prix (Auto Race)"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "organizations",
+"value": "Circuit of the Americas (Austin, Tex)"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "organizations",
+"value": "Formula One"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "glocations",
+"value": "Austin (Tex)"
+},
+{
+"isMajor": null,
+"rank": 8,
+"name": "glocations",
+"value": "Mexico City (Mexico)"
+}
+],
+"pub_date": "2016-12-03T05:01:18+0000",
+"document_type": "article",
+"new_desk": "SpecialSections",
+"section_name": "Auto Racing",
+"byline": {
+"original": "By BRAD SPURGEON"
+},
+"type_of_material": "Question",
+"_id": "584251a695d0e03926073db3",
+"word_count": 1137,
+"score": 0.0000029810894
+},
+{
+"web_url": "https://www.nytimes.com/2016/12/25/arts/music/vinyl-record-manufacturer-in-nashville-is-said-to-be-expanding.html",
+"snippet": "It was reported in The Nashville Scene and Billboard that the United Record Pressing plant will expand to a new facility.",
+"print_page": "3",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/12/26/arts/26unitedpressing-item/26unitedpressing-item-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/12/26/arts/26unitedpressing-item/26unitedpressing-item-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/12/26/arts/26unitedpressing-item/26unitedpressing-item-articleLarge.jpg",
+"height": 414,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/12/26/arts/26unitedpressing-item/26unitedpressing-item-articleLarge.jpg",
+"xlargeheight": "414"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/12/26/arts/26unitedpressing-item/26unitedpressing-item-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/12/26/arts/26unitedpressing-item/26unitedpressing-item-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Vinyl Record Manufacturer in Nashville Is Said to Be Expanding",
+"print_headline": "Vinyl Record Maker Said to Be Expanding"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "organizations",
+"value": "United Record Pressing"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "Billboard (Magazine)"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "glocations",
+"value": "Nashville (Tenn)"
+}
+],
+"pub_date": "2016-12-25T22:56:03+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By RYAN BURLESON"
+},
+"type_of_material": "News",
+"_id": "58604e8b95d0e03926077c23",
+"word_count": 236,
+"score": 0.0000021314386
+},
+{
+"web_url": "https://www.nytimes.com/2016/12/30/arts/music/ludovico-einaudi.html",
+"snippet": "The Italian composer and pianist talks about his sold-out concerts, his African influences and playing in the Arctic.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/12/30/arts/31einaudi-web/31einaudi-web-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/12/30/arts/31einaudi-web/31einaudi-web-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/12/30/arts/31einaudi-web/31einaudi-web-articleLarge.jpg",
+"height": 399,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/12/30/arts/31einaudi-web/31einaudi-web-articleLarge.jpg",
+"xlargeheight": "399"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/12/30/arts/31einaudi-web/31einaudi-web-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/12/30/arts/31einaudi-web/31einaudi-web-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Ludovico Einaudi, a Classical Artist for the YouTube Age"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Einaudi, Ludovico"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Classical Music"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Mozart, Wolfgang Amadeus"
+}
+],
+"pub_date": "2016-12-30T13:21:08+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By STEPHEN HEYMAN"
+},
+"type_of_material": "Question",
+"_id": "58665f4d95d0e03926078577",
+"word_count": 1031,
+"score": 0.0000014953656
+},
+{
+"web_url": "https://www.nytimes.com/2016/12/22/arts/music/apple-music-platform-promoter-both.html",
+"snippet": "Apple executives Jimmy Iovine and Larry Jackson discuss its place in the music ecosystem and how it has built a one-stop shop for the streaming age.",
+"print_page": "22",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/12/25/arts/25APPLE1/25APPLE1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2016/12/25/arts/25APPLE1/25APPLE1-thumbStandard.jpg",
+"thumbnailwidth": 75
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/12/25/arts/25APPLE1/25APPLE1-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2016/12/25/arts/25APPLE1/25APPLE1-articleLarge.jpg",
+"xlargeheight": 400
+}
+},
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/12/25/arts/25APPLE1/25APPLE1-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/12/25/arts/25APPLE1/25APPLE1-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+}
+}
+],
+"headline": {
+"main": "Apple Music: Platform? Promoter? Both.",
+"print_headline": "Platform? Promoter? Both."
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "subject",
+"value": "Audio Recordings, Downloads and Streaming"
+},
+{
+"isMajor": "N",
+"rank": 2,
+"name": "subject",
+"value": "Rap and Hip-Hop"
+},
+{
+"isMajor": "N",
+"rank": 3,
+"name": "subject",
+"value": "Pop and Rock Music"
+},
+{
+"isMajor": "N",
+"rank": 4,
+"name": "organizations",
+"value": "Apple Music"
+},
+{
+"isMajor": "N",
+"rank": 5,
+"name": "organizations",
+"value": "Spotify"
+},
+{
+"isMajor": "N",
+"rank": 6,
+"name": "organizations",
+"value": "Tidal (Aspiro AB)"
+},
+{
+"isMajor": "N",
+"rank": 7,
+"name": "creative_works",
+"value": "Views (Album)"
+},
+{
+"isMajor": "N",
+"rank": 8,
+"name": "creative_works",
+"value": "Blonde (Album)"
+},
+{
+"isMajor": "N",
+"rank": 9,
+"name": "persons",
+"value": "Drake (Rapper)"
+},
+{
+"isMajor": "N",
+"rank": 10,
+"name": "subject",
+"value": "Video Recordings, Downloads and Streaming"
+},
+{
+"isMajor": "N",
+"rank": 11,
+"name": "persons",
+"value": "Ocean, Frank"
+},
+{
+"isMajor": "N",
+"rank": 12,
+"name": "persons",
+"value": "West, Kanye"
+},
+{
+"isMajor": "N",
+"rank": 13,
+"name": "persons",
+"value": "Iovine, Jimmy"
+},
+{
+"isMajor": "N",
+"rank": 14,
+"name": "persons",
+"value": "Jackson, Larry (Music Executive)"
+},
+{
+"isMajor": "N",
+"rank": 15,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": "N",
+"rank": 16,
+"name": "organizations",
+"value": "Apple Inc"
+}
+],
+"pub_date": "2016-12-22T11:00:27+0000",
+"document_type": "article",
+"new_desk": "Arts&Leisure",
+"section_name": "Music",
+"byline": {
+"original": "By JOE COSCARELLI"
+},
+"type_of_material": "News",
+"_id": "585bb24f95d0e0392607757c",
+"word_count": 2367,
+"score": 9.5140524e-7
+},
+{
+"web_url": "https://www.nytimes.com/2016/12/18/business/media/by-attacking-the-press-donald-trump-may-be-doing-it-a-favor.html",
+"snippet": "While biting tweets backfire and fake news abounds, subscriptions are on the rise in what could be journalism’s finest hour.",
+"abstract": "Jim Rutenberg Mediator column thanks Pres-elect Trump for rescuing news industry from slump; notes pres-elect's attacks on media and misleading statements are increasing public's support for journalism.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/12/19/business/19RUTENBERG/19RUTENBERG-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/12/19/business/19RUTENBERG/19RUTENBERG-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/12/19/business/19RUTENBERG/19RUTENBERG-articleLarge.jpg",
+"height": 399,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/12/19/business/19RUTENBERG/19RUTENBERG-articleLarge.jpg",
+"xlargeheight": "399"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/12/19/business/19RUTENBERG/19RUTENBERG-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/12/19/business/19RUTENBERG/19RUTENBERG-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "By Attacking the Press, Donald Trump May Be Doing It a Favor",
+"kicker": "Mediator",
+"print_headline": "By Attacking the News Media,  Trump May Be Doing It a Favor"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Trump, Donald J"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "News and News Media"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Magazines"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Newspapers"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "United States Politics and Government"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "organizations",
+"value": "Vanity Fair"
+}
+],
+"pub_date": "2016-12-19T00:59:57+0000",
+"document_type": "article",
+"new_desk": "Business",
+"section_name": "Media",
+"byline": {
+"original": "By JIM RUTENBERG"
+},
+"type_of_material": "News",
+"_id": "5857311695d0e03926076b0c",
+"word_count": 1365,
+"score": 9.0647194e-7
+},
+{
+"web_url": "https://www.nytimes.com/2016/12/20/arts/music/rock-roll-hall-fame-inductees-2017.html",
+"snippet": "The Class of 2017 also includes Journey, Electric Light Orchestra and Yes, and a special honor goes to Chic’s Nile Rodgers.",
+"print_page": "3",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/12/20/arts/21ROCKHALL-TUPAC-1482185311003/21ROCKHALL-TUPAC-1482185311003-articleLarge.jpg",
+"height": 453,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2016/12/20/arts/21ROCKHALL-TUPAC-1482185311003/21ROCKHALL-TUPAC-1482185311003-articleLarge.jpg",
+"xlargeheight": 453
+}
+},
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/12/20/arts/21ROCKHALL-TUPAC-1482185311003/21ROCKHALL-TUPAC-1482185311003-thumbWide-v2.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/12/20/arts/21ROCKHALL-TUPAC-1482185311003/21ROCKHALL-TUPAC-1482185311003-thumbWide-v2.jpg",
+"widewidth": 190,
+"wideheight": 126
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/12/20/arts/21ROCKHALL-TUPAC-1482185311003/21ROCKHALL-TUPAC-1482185311003-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2016/12/20/arts/21ROCKHALL-TUPAC-1482185311003/21ROCKHALL-TUPAC-1482185311003-thumbStandard-v2.jpg",
+"thumbnailwidth": 75
+}
+}
+],
+"headline": {
+"main": "Pearl Jam, Tupac Shakur and Joan Baez Will Join the Rock and Roll Hall of Fame",
+"print_headline": "Pearl Jam, Shakur and Baez to Join Rock Hall of Fame"
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "subject",
+"value": "Pop and Rock Music"
+},
+{
+"isMajor": "N",
+"rank": 2,
+"name": "organizations",
+"value": "Rock and Roll Hall of Fame and Museum"
+},
+{
+"isMajor": "N",
+"rank": 3,
+"name": "persons",
+"value": "Baez, Joan"
+},
+{
+"isMajor": "N",
+"rank": 4,
+"name": "persons",
+"value": "Rodgers, Nile"
+},
+{
+"isMajor": "N",
+"rank": 5,
+"name": "persons",
+"value": "Shakur, Tupac"
+},
+{
+"isMajor": "N",
+"rank": 6,
+"name": "organizations",
+"value": "Journey (Music Group)"
+},
+{
+"isMajor": "N",
+"rank": 7,
+"name": "organizations",
+"value": "Pearl Jam (Music Group)"
+},
+{
+"isMajor": "N",
+"rank": 8,
+"name": "organizations",
+"value": "Chic (Music Group)"
+},
+{
+"isMajor": "N",
+"rank": 9,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": "N",
+"rank": 10,
+"name": "organizations",
+"value": "Electric Light Orchestra (Music Group)"
+},
+{
+"isMajor": "N",
+"rank": 11,
+"name": "organizations",
+"value": "Yes (Music Group)"
+}
+],
+"pub_date": "2016-12-20T13:00:17+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "News",
+"_id": "58592b6595d0e03926076f57",
+"word_count": 908,
+"score": 8.8896445e-7,
+"uri": "nyt://article/c673873b-06cd-5552-b671-68c128a898c3"
+},
+{
+"web_url": "https://www.nytimes.com/2016/12/17/sports/new-york-knicks-rangers-yankees-mets-championship.html",
+"snippet": "With nothing to show from the area’s 13 pro teams since the Giants’ Super Bowl win in 2012, this has become a drought of epic proportions, by our spoiled-rotten standards.",
+"print_page": "8",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/12/18/sports/18BONDY/18BONDY-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2016/12/18/sports/18BONDY/18BONDY-thumbStandard.jpg",
+"thumbnailwidth": 75
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/12/18/sports/18BONDY/18BONDY-articleLarge.jpg",
+"height": 422,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2016/12/18/sports/18BONDY/18BONDY-articleLarge.jpg",
+"xlargeheight": 422
+}
+},
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/12/18/sports/18BONDY/18BONDY-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/12/18/sports/18BONDY/18BONDY-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+}
+}
+],
+"headline": {
+"main": "Five Years Without a Pro Title? Oh, Woe Is the New York Sports Fan",
+"kicker": "Essay",
+"print_headline": "The Champagne Has Run Dry"
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "organizations",
+"value": "New York Knicks"
+},
+{
+"isMajor": "N",
+"rank": 2,
+"name": "organizations",
+"value": "New York Giants"
+},
+{
+"isMajor": "N",
+"rank": 3,
+"name": "organizations",
+"value": "New York Mets"
+},
+{
+"isMajor": "N",
+"rank": 4,
+"name": "organizations",
+"value": "New York Rangers"
+},
+{
+"isMajor": "N",
+"rank": 5,
+"name": "organizations",
+"value": "New York Yankees"
+},
+{
+"isMajor": "N",
+"rank": 6,
+"name": "glocations",
+"value": "New York Metropolitan Area"
+},
+{
+"isMajor": "N",
+"rank": 7,
+"name": "subject",
+"value": "Baseball"
+},
+{
+"isMajor": "N",
+"rank": 8,
+"name": "subject",
+"value": "Football"
+},
+{
+"isMajor": "N",
+"rank": 9,
+"name": "subject",
+"value": "Basketball"
+},
+{
+"isMajor": "N",
+"rank": 10,
+"name": "subject",
+"value": "Hockey, Ice"
+},
+{
+"isMajor": "N",
+"rank": 11,
+"name": "subject",
+"value": "Athletics and Sports"
+},
+{
+"isMajor": "N",
+"rank": 12,
+"name": "glocations",
+"value": "New York City"
+}
+],
+"pub_date": "2016-12-17T19:58:36+0000",
+"document_type": "article",
+"new_desk": "Sports",
+"byline": {
+"original": "By FILIP BONDY"
+},
+"type_of_material": "News",
+"_id": "585598f395d0e03926076964",
+"word_count": 848,
+"score": 8.4611816e-7
+}
+],
+"meta": {
+"hits": 219,
+"offset": 0,
+"time": 31
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 183
+},
+{
+"term": "",
+"count": 33
+},
+{
+"term": "Internet Video Archive",
+"count": 3
+}
+]
+}
+}
+}
+}

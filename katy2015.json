@@ -1,0 +1,892 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2015/12/31/nyregion/a-lively-little-girl-needs-a-kidney-donor.html",
+"snippet": "Edgar Campos and his wife, Amalia, learned in April that their daughter, Maria, 4, had kidney failure, and neither can donate to her.",
+"abstract": "Catholic Charities, one of seven agencies supported by New York Times Neediest Cases Fund, provides financial support to family of Edgar Campos of East Harlem as he struggles with hardships and seeks kidney transplant for his four-year-old daughter, Maria. ",
+"print_page": "20",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/31/nyregion/31neediest/31neediest-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/31/nyregion/31neediest/31neediest-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/31/nyregion/31neediest/31neediest-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/31/nyregion/31neediest/31neediest-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/31/nyregion/31neediest/31neediest-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/31/nyregion/31neediest/31neediest-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "A Lively Little Girl Needs a Kidney Donor",
+"kicker": "The Neediest Cases",
+"print_headline": "A Lively Little Girl Who Needs a Kidney Transplant"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "organizations",
+"value": "New York Times Neediest Cases Fund"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Philanthropy"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Catholic Charities"
+}
+],
+"pub_date": "2015-12-31T00:00:00Z",
+"document_type": "article",
+"new_desk": "Metro",
+"byline": {
+"original": "By JONATHAN WOLFE"
+},
+"type_of_material": "News",
+"_id": "5684757238f0d83cec270ec2",
+"word_count": 767,
+"score": 8.617762e-25
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/28/arts/music/review-in-feel-the-bernhard-sandra-feels-less-menacing.html",
+"snippet": "Ms. Bernhard remains a fascinating, charismatic entertainer who shares with her devotees a love-hate relationship with popular culture.",
+"abstract": "Stephen Holden reviews musical performance Feel the Bernhard, by singer and comedian Sandra Bernhard, at Joe's Pub. ",
+"print_page": "3",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Review: In ‘Feel the Bernhard,’ Sandra Feels Less Menacing",
+"print_headline": "Monologues Now More Mellow Than Menacing"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Theater"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Joe's Pub"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "creative_works",
+"value": "Feel the Bernhard (Play)"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Bernhard, Sandra"
+}
+],
+"pub_date": "2015-12-28T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By STEPHEN HOLDEN"
+},
+"type_of_material": "Review",
+"_id": "56806a4f38f0d86cf39b1787",
+"word_count": 464,
+"score": 6.4306556e-25
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/09/t-magazine/art/deborah-kass-no-kidding-paul-kasmin.html",
+"snippet": "The mixed-media works in Deborah Kass’s new show “No Kidding” are both cynical and droll, and draw from over 100 years of pop culture.",
+"abstract": "Artist Deborah Kass exhibition No Kidding at Paul Kasmin Gallery embraces pop culture.",
+"print_page": "3",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Art as Social Critique — With a Little Help From the Rolling Stones and Katy Perry",
+"kicker": "On View",
+"print_headline": "Cynical Notes"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Art"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "Paul Kasmin Gallery"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Kass, Deborah"
+}
+],
+"pub_date": "2015-12-09T00:00:00Z",
+"document_type": "article",
+"new_desk": "TStyle",
+"section_name": "Art",
+"byline": {
+"original": "By ALEXANDRIA SYMONDS"
+},
+"type_of_material": "News",
+"_id": "5668ab5b38f0d8298f04ffb8",
+"word_count": 750,
+"score": 2.4367615e-25
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/16/movies/review-the-emperors-new-clothes-a-documentary-about-income-inequality.html",
+"snippet": "This film from Russell Brand and Michael Winterbottom opens Wednesday, Dec. 16.",
+"abstract": "Stephen Holden reviews Russell Brand and Michael Winterbottom documentary film The Emperor's New Clothes.",
+"print_page": "4",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/16/arts/16EMPEROR/16EMPEROR-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/16/arts/16EMPEROR/16EMPEROR-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/16/arts/16EMPEROR/16EMPEROR-articleLarge.jpg",
+"height": 251,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/16/arts/16EMPEROR/16EMPEROR-articleLarge.jpg",
+"xlargeheight": "251"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/16/arts/16EMPEROR/16EMPEROR-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/16/arts/16EMPEROR/16EMPEROR-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Review: ‘The Emperor’s New Clothes,’ a Documentary About Income Inequality",
+"print_headline": "A Lesson on Income Inequality"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Movies"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Brand, Russell"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Winterbottom, Michael"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Documentary Films and Programs"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "Income Inequality"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "creative_works",
+"value": "The Emperor's New Clothes (Movie)"
+}
+],
+"pub_date": "2015-12-15T23:26:50+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"byline": {
+"original": "By STEPHEN HOLDEN"
+},
+"type_of_material": "Review",
+"_id": "5670a1bc38f0d803bb110c73",
+"word_count": 460,
+"score": 1.0505688e-25
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/13/fashion/quartersnacks-skateboard-blog-turns-10.html",
+"snippet": "Quartersnacks, the chronicle of the New York skate scene, celebrates its 10th anniversary with a new book.",
+"abstract": "Quartersnacks, blog that chronicles New York skateboarding scene, will celebrate 10th anniversary with book TF at 1: Ten Years of Quartersnacks, which will be published by PowerHouse Books.",
+"print_page": "18",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/13/fashion/13QUARTER3/13QUARTER3-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/13/fashion/13QUARTER3/13QUARTER3-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/13/fashion/13QUARTER3/13QUARTER3-articleLarge.jpg",
+"height": 843,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/13/fashion/13QUARTER3/13QUARTER3-articleLarge.jpg",
+"xlargeheight": "843"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/13/fashion/13QUARTER3/13QUARTER3-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/13/fashion/13QUARTER3/13QUARTER3-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "A Downtown Skateboard Blog Turns 10",
+"print_headline": "A Decade Later, Still Shredding"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Books and Literature"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Skateboarding"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Blogs and Blogging (Internet)"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "glocations",
+"value": "New York City"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "glocations",
+"value": "Tompkins Square Park (Manhattan, NY)"
+}
+],
+"pub_date": "2015-12-13T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By NOAH JOHNSON"
+},
+"type_of_material": "News",
+"_id": "566b234b38f0d804c3f4bbf2",
+"word_count": 880,
+"score": 4.6163746e-26
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2015/12/03/coldplay-and-multiple-acts-will-play-super-bowl-50-halftime-show/",
+"snippet": "Fresh off the release of “A Head Full of Dreams,” Chris Martin’s band will play the biggest stage in sports on Feb. 7.",
+"abstract": "Fresh off the release of “A Head Full of Dreams,” Chris Martin’s band will play the biggest stage in sports on Feb. 7.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/04/arts/04ARTSBEATCOLDPLAY/04ARTSBEATCOLDPLAY-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/04/arts/04ARTSBEATCOLDPLAY/04ARTSBEATCOLDPLAY-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/04/arts/04ARTSBEATCOLDPLAY/04ARTSBEATCOLDPLAY-articleLarge.jpg",
+"height": 399,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/04/arts/04ARTSBEATCOLDPLAY/04ARTSBEATCOLDPLAY-articleLarge.jpg",
+"xlargeheight": "399"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/04/arts/04ARTSBEATCOLDPLAY/04ARTSBEATCOLDPLAY-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/04/arts/04ARTSBEATCOLDPLAY/04ARTSBEATCOLDPLAY-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Coldplay Will Play Super Bowl 50 Halftime Show",
+"kicker": "ArtsBeat"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Martin, Chris (1977- )"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "organizations",
+"value": "Coldplay (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "Levi's Stadium (Santa Clara, Calif)"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Football"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Super Bowl"
+}
+],
+"pub_date": "2015-12-03T17:13:36Z",
+"document_type": "blogpost",
+"new_desk": "Culture",
+"byline": {
+"original": "By JOE COSCARELLI"
+},
+"type_of_material": "Blog",
+"_id": "5660bf0c38f0d84320270dc2",
+"word_count": 223,
+"score": 1.9456231e-26
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/13/sports/readers-ultimate-sports-wish-list.html",
+"snippet": "A collection of sports-related dream gifts, from the simple (Super Bowl tickets) to the fanciful (time travel to long-ago eras) to the downright impossible (joy for Browns fans).",
+"abstract": "Readers of The New York Times share their sports-related dream gifts with editors. ",
+"print_page": "6",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/11/25/sports/sports-gift/sports-gift-thumbWide-v2.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/11/25/sports/sports-gift/sports-gift-thumbWide-v2.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/11/25/sports/sports-gift/sports-gift-articleLarge-v2.jpg",
+"height": 348,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/11/25/sports/sports-gift/sports-gift-articleLarge-v2.jpg",
+"xlargeheight": "348"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/11/25/sports/sports-gift/sports-gift-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/11/25/sports/sports-gift/sports-gift-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Readers Make Their Presents Known",
+"print_headline": "A Time Machine, and Gifts That Are Less Realistic"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Athletics and Sports"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Gifts"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Christmas"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Hanukkah"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Christmas"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Hanukkah"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Gifts"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "organizations",
+"value": "Augusta National Golf Club"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "Masters Golf Tournament"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "subject",
+"value": "Golf"
+}
+],
+"pub_date": "2015-12-13T00:00:00Z",
+"document_type": "article",
+"new_desk": "Sports",
+"byline": {
+"original": "By READERS OF THE NEW YORK TIMES"
+},
+"type_of_material": "News",
+"_id": "566af39838f0d857ec8b0be5",
+"word_count": 5156,
+"score": 1.857941e-26
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/04/fashion/mens-style/the-post-split-hairstyle.html",
+"snippet": "Some fellows are changing their hair after fizzled romances.",
+"abstract": "Several male celebrities have been spotted with brightly dyed hair after breakups, offering sign that men are increasingly embracing idea of drastically changing their appearance after a romance ends.",
+"print_page": "18",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/04/fashion/mens-style/04HAIRCUT-COMBO/04HAIRCUT-COMBO-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/04/fashion/mens-style/04HAIRCUT-COMBO/04HAIRCUT-COMBO-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/04/fashion/mens-style/04HAIRCUT-COMBO/04HAIRCUT-COMBO-articleLarge.jpg",
+"height": 392,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/04/fashion/mens-style/04HAIRCUT-COMBO/04HAIRCUT-COMBO-articleLarge.jpg",
+"xlargeheight": "392"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/04/fashion/mens-style/04HAIRCUT-COMBO/04HAIRCUT-COMBO-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/04/fashion/mens-style/04HAIRCUT-COMBO/04HAIRCUT-COMBO-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "The Post-Split Hairstyle for Men",
+"kicker": "MIRROR",
+"print_headline": "A Fix for Splits and Ends"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Hair"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Dating and Relationships"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Dyes and Dyestuffs"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Men and Boys"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "Celebrities"
+}
+],
+"pub_date": "2015-12-04T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"section_name": "Men’s Style",
+"byline": {
+"original": "By MAX BERLINGER"
+},
+"type_of_material": "News",
+"_id": "565ccc7138f0d83cebcef29e",
+"word_count": 500,
+"score": 1.22599454e-26
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/03/fashion/how-to-wear-lingerie-outside-the-bedroom.html",
+"snippet": "Boudoir looks were all over the spring 2016 runways. You’ll need to make a few adjustments to translate them into real life.",
+"abstract": "Slip dresses that resemble lingerie are latest trend in women's clothing.",
+"print_page": "17",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "How to Wear Lingerie Outside the Bedroom (Hint: Own It)",
+"print_headline": "Pursuing Inside-Out Strategies"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Fashion and Apparel"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Lingerie and Underwear"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Dresses"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Pajamas"
+}
+],
+"pub_date": "2015-12-03T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By SUSAN JOY"
+},
+"type_of_material": "News",
+"_id": "565f61c038f0d80f6038b29d",
+"word_count": 447,
+"score": 1.2200489e-26
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/04/sports/football/lions-packers-coldplay-at-super-bowl-and-more-nfl-news.html",
+"snippet": "Aaron Rodgers threw a 61-yard touchdown pass to tight end Richard Rodgers with no time left to give the Packers a 27-23 victory in Detroit.",
+"abstract": "NFL Roundup; Green Bay Packers defeat Detroit Lions, 27-23; other football news noted.",
+"print_page": "16",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Packers Stun Lions on a Rodgers-to-Rodgers Hail Mary",
+"kicker": "N.F.L. Roundup",
+"print_headline": "Packers Stun Lions on a Rodgers-to-Rodgers Hail Mary "
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Football"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Super Bowl"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Coldplay (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "organizations",
+"value": "National Football League"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Foles, Nick"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "organizations",
+"value": "Green Bay Packers"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "organizations",
+"value": "Detroit Lions"
+}
+],
+"pub_date": "2015-12-04T00:00:00Z",
+"document_type": "article",
+"new_desk": "Sports",
+"section_name": "Pro Football",
+"byline": {
+"original": "By THE ASSOCIATED PRESS"
+},
+"type_of_material": "News",
+"_id": "5660d68438f0d84320270e15",
+"word_count": 804,
+"score": 1.0310839e-26
+}
+],
+"meta": {
+"hits": 131,
+"offset": 0,
+"time": 25
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 127
+},
+{
+"term": "",
+"count": 2
+},
+{
+"term": "Reuters",
+"count": 2
+}
+]
+}
+}
+}
+}

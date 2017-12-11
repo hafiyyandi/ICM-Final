@@ -1,0 +1,772 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://offthedribble.blogs.nytimes.com/2010/06/06/live-analysis-of-game-2-of-the-n-b-a-finals/",
+"snippet": "Live analysis of Game 2 of the N.B.A. finals between the Lakers and the Celtics.",
+"abstract": "Live analysis of Game 2 of the N.B.A. finals between the Lakers and the Celtics.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Live Analysis of Game 2 of the N.B.A. Finals",
+"kicker": "Off the Dribble",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2010-06-06T19:53:08Z",
+"document_type": "blogpost",
+"section_name": "N.B.A.",
+"byline": {
+"original": "By JONATHAN ABRAMS",
+"person": [
+{
+"firstname": "Jonathan",
+"middlename": null,
+"lastname": "ABRAMS",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd39bc78eb7c8105d8daabf",
+"word_count": 2338,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/30/fashion/30Year.html",
+"snippet": "From Chelsea Clinton’s wedding to Willow Smith’s “Whip My Hair” video, here are the top topics on the minds of New Yorkers this year.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/30/fashion/30yearspan/30yearspan-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2010/12/30/fashion/30yearspan/30yearspan-articleLarge.jpg",
+"xlargeheight": 400
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/30/fashion/30yearspan/30yearspan-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2010/12/30/fashion/30yearspan/30yearspan-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The 110 Things New Yorkers Talked About in 2010",
+"kicker": "",
+"content_kicker": "",
+"print_headline": "The 110 Things New Yorkers Talked About in 2010",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Gossip",
+"rank": 1,
+"major": "N"
+}
+],
+"pub_date": "2010-12-29T17:57:51+0000",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By STUART EMMRICH",
+"person": [
+{
+"firstname": "Stuart",
+"middlename": null,
+"lastname": "EMMRICH",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "List",
+"_id": "5400b43538f0d841b2f38487",
+"word_count": 1255,
+"score": 0,
+"uri": "nyt://article/dda1bb0a-a74b-53e1-bc77-d6cc6055e44d"
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/30/fashion/30STELLA.html",
+"snippet": "With Stella Schnabel’s role in the film “You Wont Miss Me,” she seems to be stepping out of the downtown haute bohemian scene to embark on a serious career.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/30/fashion/30STELLA-2/Z-JP-STELLA-articleLarge.jpg",
+"height": 350,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2010/12/30/fashion/30STELLA-2/Z-JP-STELLA-articleLarge.jpg",
+"xlargeheight": "350"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/30/fashion/30STELLA-1/Z-STELLA-P1-L-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/30/fashion/30STELLA-1/Z-STELLA-P1-L-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The Many Faces of Stella",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "The Many Faces of Stella",
+"name": null,
+"seo": "The Many Faces of Stella Schnabel",
+"sub": null
+},
+"keywords": [
+{
+"name": "persons",
+"value": "Schnabel, Stella",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Actors and Actresses",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Movies",
+"rank": 3,
+"major": null
+}
+],
+"pub_date": "2010-12-30T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By RUTH LA FERLA",
+"person": [
+{
+"firstname": "Ruth",
+"middlename": null,
+"lastname": "LA FERLA",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5421beb338f0d83c6e5b72e2",
+"word_count": 1120,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/19/sports/basketball/19nets.html",
+"snippet": "Though the Nets may be second to last in the league in scoring, players like Kris Humphries, who has been romantically linked to Kim Kardashian, compete with the best when it comes to WAGs, wives and girlfriends.",
+"print_page": "4",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/19/sports/19DOGNETS2/19DOGNETS2-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/19/sports/19DOGNETS2/19DOGNETS2-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Nets Bringing a Touch of TMZ to the N.B.A.",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Nets Bringing a Touch Of TMZ to the N.B.A.",
+"name": null,
+"seo": "Kardashian and Friends Help Give the Nets Some Buzz",
+"sub": null
+},
+"keywords": [
+{
+"name": "organizations",
+"value": "New Jersey Nets",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Celebrities",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Kardashian, Kim",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Basketball",
+"rank": 5,
+"major": null
+}
+],
+"pub_date": "2010-12-19T00:00:00Z",
+"document_type": "article",
+"new_desk": "Sports",
+"section_name": "Pro Basketball",
+"byline": {
+"original": "By KAREN CROUSE",
+"person": [
+{
+"firstname": "Karen",
+"middlename": null,
+"lastname": "CROUSE",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "542177ce38f0d81f7a601856",
+"word_count": 604,
+"score": 0
+},
+{
+"web_url": "https://dealbook.nytimes.com/2010/12/16/retailer-bonobos-raises-18-5-million/",
+"snippet": "The fashion retailer favored by young Wall Street bankers has attracted venture capital funding from Lightspeed and Accel Partners.",
+"abstract": "The fashion retailer favored by young Wall Street bankers has attracted venture capital funding from Lightspeed and Accel Partners.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Bonobos, a Web Retailer, Raises $18.5 Million",
+"kicker": "DealBook",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Fashion and Apparel",
+"rank": 4,
+"major": null
+},
+{
+"name": "subject",
+"value": "E-Commerce",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Kardashian, Kim",
+"rank": 2,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Accel Partners",
+"rank": 5,
+"major": null
+},
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Bonobos.com",
+"rank": 6,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Groupon",
+"rank": 7,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Zappos",
+"rank": 8,
+"major": null
+}
+],
+"pub_date": "2010-12-16T10:00:40Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By EVELYN M. RUSLI",
+"person": [
+{
+"firstname": null,
+"middlename": null,
+"lastname": null,
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd39df48eb7c8105d8dff29",
+"word_count": 607,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/12/business/12every.html",
+"snippet": "Apps like Instapaper and Flipboard encourage people browsing the Web to save long articles to read later.",
+"print_page": "7",
+"blog": {},
+"source": "",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/12/business/EVERY/EVERY-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/12/business/EVERY/EVERY-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Feel Free to Read This Later, on Your Phone",
+"kicker": "Everybody’s Business",
+"content_kicker": "Everybody’s Business",
+"print_headline": "Feel Free to Read This Later, on Your Phone",
+"name": null,
+"seo": "Instapaper and Flipboard Let Users Save Articles for Later",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "News and News Media",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Mobile Applications",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Computers and the Internet",
+"rank": 5,
+"major": null
+},
+{
+"name": "subject",
+"value": "iPad",
+"rank": 6,
+"major": null
+}
+],
+"pub_date": "2010-12-12T00:00:00Z",
+"document_type": "article",
+"new_desk": "SundayBusiness",
+"byline": {
+"original": "By DAMON DARLIN",
+"person": [
+{
+"firstname": "Damon",
+"middlename": null,
+"lastname": "DARLIN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "54213ae638f0d81f7a601308",
+"word_count": 1020,
+"score": 0
+},
+{
+"web_url": "https://tmagazine.blogs.nytimes.com/2010/12/09/growing-up-kardashian/",
+"snippet": "Kim Kardashian discusses growing up in Beverly Hills in an audio excerpt from her latest book.",
+"abstract": "Kim Kardashian discusses growing up in Beverly Hills in an audio excerpt from her latest book.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Growing Up Kardashian",
+"kicker": "T Magazine",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2010-12-09T13:00:46Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By T MAGAZINE",
+"person": [
+{
+"firstname": null,
+"middlename": null,
+"lastname": null,
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd39de68eb7c8105d8dfd70",
+"word_count": 59,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/09/fashion/09CRITIC.html",
+"snippet": "The Kardashian sisters have opened Dash, a SoHo boutique and an extension of their fashion mini-empire.",
+"print_page": "4",
+"blog": {},
+"source": "",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/09/fashion/Z-CRITIC-A/Z-CRITIC-A-articleLarge.jpg",
+"height": 355,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2010/12/09/fashion/Z-CRITIC-A/Z-CRITIC-A-articleLarge.jpg",
+"xlargeheight": "355"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2010/12/09/fashion/Z-CRITIC-B/Z-CRITIC-B-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/09/fashion/Z-CRITIC-B/Z-CRITIC-B-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Any Kardashians in Your Closet?",
+"kicker": "Critical Shopper | Dash",
+"content_kicker": "Critical Shopper | Dash",
+"print_headline": "Any Kardashians In Your Closet?",
+"name": null,
+"seo": "Kardashian Fashion for Non-Celebrities: Critical Shopper",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Shopping and Retail",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Fashion and Apparel",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Kardashian, Kim",
+"rank": 3,
+"major": null
+}
+],
+"pub_date": "2010-12-09T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By JON CARAMANICA",
+"person": [
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "CARAMANICA",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Review",
+"_id": "542122f338f0d81f7a6010d2",
+"word_count": 921,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/06/business/media/06dailymail.html",
+"snippet": "Mail Online, the Web site of The Daily Mail, has been the most prominent example of the free approach in the hypercompetitive British newspaper market.",
+"print_page": "",
+"blog": {},
+"source": "International Herald Tribune",
+"multimedia": [],
+"headline": {
+"main": "British Newspaper Finds Readers Flocking Online",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "British Newspaper Finds Readers Flocking Online",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "News and News Media",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Newspapers",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Murdoch, Rupert",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Computers and the Internet",
+"rank": 4,
+"major": null
+}
+],
+"pub_date": "2010-12-06T00:00:00Z",
+"document_type": "article",
+"new_desk": "Business",
+"section_name": "Media",
+"byline": {
+"original": "By ERIC PFANNER",
+"person": [
+{
+"firstname": "Eric",
+"middlename": null,
+"lastname": "PFANNER",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "54223d0e38f0d83c6e5b7d5e",
+"word_count": 1249,
+"score": 0
+},
+{
+"web_url": "https://tmagazine.blogs.nytimes.com/2010/12/04/the-wild-bunch/",
+"snippet": "Keeping up with the Kardashian Jenner clan is no small feat.",
+"abstract": "Keeping up with the Kardashian Jenner clan is no small feat.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "The Wild Bunch",
+"kicker": "T Magazine",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2010-12-04T09:00:29Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAPHNE MERKIN",
+"person": [
+{
+"firstname": "Daphne",
+"middlename": null,
+"lastname": "MERKIN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd39df48eb7c8105d8dff00",
+"word_count": 2056,
+"score": 0
+}
+],
+"meta": {
+"hits": 65,
+"offset": 0,
+"time": 26
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 62
+},
+{
+"term": "",
+"count": 2
+},
+{
+"term": "International Herald Tribune",
+"count": 1
+}
+]
+}
+}
+}
+}
