@@ -50,7 +50,7 @@ function loadVideos(videos){ //load 3 videos first
 }
 
 function setup() {
-  createCanvas(windowWidth,windowHeight);
+  createCanvas(1200,600);
   background("black");
   ellipseMode(CENTER);
   //rectMode(CENTER);
