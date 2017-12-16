@@ -93,7 +93,7 @@ function loadFaces(relations){
 
 function setup() { 
 
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(1200, 600);
   //console.log(songs.data[0].title);
   ellipseMode(CENTER);
   //ellipseMode(RADIUS);
