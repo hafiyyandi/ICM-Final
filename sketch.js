@@ -57,7 +57,7 @@ function loadArt(songs){
 
 function setup() { 
 
-  createCanvas(1200,400);
+  createCanvas(1200,600);
   //console.log(songs.data[0].title);
   ellipseMode(CENTER);
   //ellipseMode(RADIUS);
