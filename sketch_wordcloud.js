@@ -13,7 +13,7 @@ function preload(){
 
 function setup() { 
 
-  createCanvas(1200,1200);
+  createCanvas(1200,800);
   background('black');
   //console.log(songs.data[0].title);
   ellipseMode(CENTER);
