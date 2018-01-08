@@ -38,7 +38,7 @@ function setup() {
     //console.log("count of " + word + " is " + freq[word]);
     textSize(freq[word]*0.4);
     text(word, xcount*x_space, ycount*y_space);
-    if (xcount< 35) {
+    if (xcount< 50) {
       xcount++;
     } else {
       xcount = 2;
