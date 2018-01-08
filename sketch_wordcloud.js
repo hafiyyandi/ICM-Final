@@ -13,7 +13,7 @@ function preload(){
 
 function setup() { 
 
-  createCanvas(windowWidth,1200);
+  createCanvas(1000,1200);
   background('black');
   //console.log(songs.data[0].title);
   ellipseMode(CENTER);
@@ -27,7 +27,7 @@ function setup() {
   }
 
   var x_space = 30;
-  var y_space = 30;
+  var y_space = 15;
   var xcount = 2;
   var ycount = 2;
 
@@ -38,7 +38,7 @@ function setup() {
     //console.log("count of " + word + " is " + freq[word]);
     textSize(freq[word]*0.4);
     text(word, xcount*x_space, ycount*y_space);
-    if (xcount< 50) {
+    if (xcount< 35) {
       xcount++;
     } else {
       xcount = 2;
