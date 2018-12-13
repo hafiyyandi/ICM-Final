@@ -291,7 +291,7 @@ function draw() {
 function mousePressed() {
 
     if (!isContext){
-        Tone.context.resume()
+        Tone.context.resume();
         isContext = true;
     }
 
