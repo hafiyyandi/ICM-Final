@@ -237,6 +237,7 @@ var START_COLOR2;
 var END_COLOR2;
 var tiles = [];
 var tiles2 = [];
+var isContext = false;
 
 //HAFI's MODIF
 var selectedBlock = 1;
