@@ -13,7 +13,8 @@
 // limitations under the License.
 
 
-
+//ORIGINAL CODE BY TORIN BLANKENSMITH https://github.com/googlecreativelab/melody-mixer/tree/master/demo_3
+//MODIFICATIONS BY HAFI: (1) EACH TILE IS ITS OWN LOOP (2) MELODY & BASELINE SYNTHS VIA TONE.JS
 
 //Play with this to get back a larger or smaller blend of melodies
 var numInterpolations = 8; //numInterpolations containing 32 notes
@@ -39,12 +40,13 @@ var melodiesModelCheckPoint = './data/mel_small';
 // Input needs to be the the same format
 var NUM_STEPS = 32; // DO NOT CHANGE.
 var interpolatedNoteSequences; //!-- MIGHT NEED TO DO SEVERAL OF THESE
-var interpolatedNoteSequences2;
+//var interpolatedNoteSequences2;
 
 var sequencesArray = []; //stores interpolated sequences into a format friendly for Tone.part
 var sequencesArray2 = [];
 
 //!------ SYNTHS ------!\\
+//synth 1 is baseline
 var synth1 = new Tone.MembraneSynth({
             "pitchDecay" : 0.008,
             "octaves" : 2,
@@ -55,17 +57,19 @@ var synth1 = new Tone.MembraneSynth({
             }
         }).toMaster();
 
+//synth 2 is melody
 var synth2 = new Tone.PolySynth(6, Tone.Synth, {
     "oscillator" : {
         "partials" : [0, 2, 4, 6],
     }
 }).toMaster();
 
-synth2.set("volume", -6);
+//synth2.set("volume", -6);
 
-//!------ PREDECLARE Tone.Part? ------!\\
-var toneParts = []; //do multiple for multiple rows?
-var toneParts2 = [];
+//!------ PREDECLARE Tone.Part ------!\\
+//Tone.Part is used because each Part has its own timeline / can be its own loop
+var toneParts = []; //for top row
+var toneParts2 = []; //bottom row (baseline)
 
 ///////////////////////////////
 //TONE.js setup for audio play back
@@ -78,21 +82,22 @@ var isPartsInitialized = false;
 var isPartsInitialized2 = false;
 
 //!--Player: play a note using sample
-for (var i = MIDI_START_NOTE; i < NUM_NOTES + MIDI_START_NOTE; i++) {
-  samples[i] = samplesPath + i + '.mp3';
-}
+//!--NOTE USED IN THIS APPLICATION; UNCOMMENT TO PLAY USING PIANO SAMPLES
+// for (var i = MIDI_START_NOTE; i < NUM_NOTES + MIDI_START_NOTE; i++) {
+//   samples[i] = samplesPath + i + '.mp3';
+// }
 
-var players = new Tone.Players(samples, function onPlayersLoaded(){
-    console.log("Tone.js players loaded");
-}).toMaster();
+// var players = new Tone.Players(samples, function onPlayersLoaded(){
+//     console.log("Tone.js players loaded");
+// }).toMaster();
 
 //!--CUSTOM FUNCTION CALLED BY TONE.PART, TO PLAY PLAYER
-function h_playNote(midiNote, startTime, duration){
-    var player = players.get(midiNote);
-    player.fadeOut = 0.05;
-    player.fadeIn = 0.01;
-    player.start(Tone.now(), 0, duration);
-}
+// function h_playNote(midiNote, startTime, duration){
+//     var player = players.get(midiNote);
+//     player.fadeOut = 0.05;
+//     player.fadeIn = 0.01;
+//     player.start(Tone.now(), 0, duration);
+// }
 
 //variables needed to adjust duration in playback
 var totalPlayTime = (Tone.Transport.bpm.value * NUM_STEPS * numInterpolations) / 1000;
@@ -110,7 +115,8 @@ new musicvae.MusicVAE(melodiesModelCheckPoint)
         return musicVAE.interpolate([MELODY1, MELODY2], numInterpolations);
     })
     .then(function(noteSequences) {
-        var text = 'Click to Play a blend from Melody 1 to Melody 2 in ' + numInterpolations + ' interpolations';
+        //var text = 'Click to Play a blend from Melody 1 to Melody 2 in ' + numInterpolations + ' interpolations';
+        var text = 'Click Tiles to Play';
         document.querySelector('.loading').innerHTML = text;
         interpolatedNoteSequences = noteSequences;
 
@@ -118,28 +124,11 @@ new musicvae.MusicVAE(melodiesModelCheckPoint)
         console.log("interpolating 1");
         console.log(interpolatedNoteSequences);
         storeIntoArray(1,interpolatedNoteSequences);
-        //Tone.Transport.start();
-    });
+        storeIntoArray(2,interpolatedNoteSequences);
 
-new musicvae.MusicVAE(melodiesModelCheckPoint)
-    .initialize()
-    .then(function(musicVAE) {
-        //blends between the given two melodies and returns numInterpolations note sequences
-        // MELODY1 = musicVAE.sample(1, 0.5)[0]; //generates 1 new melody with 0.5 temperature. More temp means crazier melodies
-        return musicVAE.interpolate([MELODY1, MELODY2], numInterpolations);
-    })
-    .then(function(noteSequences) {
-        var text = 'Click to Play a blend from Melody 1 to Melody 2 in ' + numInterpolations + ' interpolations 2';
-        document.querySelector('.loading').innerHTML = text;
-        interpolatedNoteSequences2 = noteSequences;
-
-        //!-- HAFI's addition
-        console.log("interpolating 2");
-        console.log(interpolatedNoteSequences2);
-        storeIntoArray(2,interpolatedNoteSequences2);
+        //Tone.Transport holds the global timeline
         Tone.Transport.start();
     });
-
 
 
 //!-- PARSE INTERPOLATED SEQUENCES INTO A FORMAT FRIENDLY FOR TONE.PART
@@ -152,9 +141,9 @@ function storeIntoArray(index, inter_array){
                 var pitch = inter_array[i].notes[j].pitch;
                 var time = oneNoteDur * inter_array[i].notes[j].quantizedStartStep;
                 var duration = oneNoteDur * ((inter_array[i].notes[j].quantizedEndStep - inter_array[i].notes[j].quantizedStartStep) || 1);
-            } else if (index == 2) { // 2 is... baseline?
+            } else if (index == 2) { // 2 is baseline
                 var pitch = inter_array[i].notes[j].pitch;
-                var time = 2 * oneNoteDur * inter_array[i].notes[j].quantizedStartStep;
+                var time = 2 * oneNoteDur * inter_array[i].notes[j].quantizedStartStep; //baseline tempo is twice as slow
                 var duration = 2 * oneNoteDur * ((inter_array[i].notes[j].quantizedEndStep - inter_array[i].notes[j].quantizedStartStep) || 1);     
             }
 
@@ -239,7 +228,7 @@ var tiles = [];
 var tiles2 = [];
 var isContext = false;
 
-//HAFI's MODIF
+//HAFI's INTERFACE ADDITION
 var selectedBlock = 1;
 
 function setup() {
@@ -253,8 +242,7 @@ function setup() {
 }
 
 function draw() {
-    //console.log( mouseX+ " , " + mouseY);
-    //Draw Tiles + Notes
+
     //Drawing Tiles + notes
     background(0);
     for(var i = 0; i < numInterpolations; i++){
@@ -276,13 +264,9 @@ function draw() {
         }
 
         fill('white');
-        if(interpolatedNoteSequences){
+        if(interpolatedNoteSequences){ //draw notes
             drawNotes(interpolatedNoteSequences[i].notes, tiles[i].x, tiles[i].y, TILE_SIZE, TILE_SIZE);
-        }
-
-        fill('white');
-        if(interpolatedNoteSequences2){
-            drawNotes(interpolatedNoteSequences2[i].notes, tiles2[i].x, tiles2[i].y, TILE_SIZE, TILE_SIZE);
+            drawNotes(interpolatedNoteSequences[i].notes, tiles2[i].x, tiles2[i].y, TILE_SIZE, TILE_SIZE);
         }
 
     }
@@ -291,12 +275,13 @@ function draw() {
 
 function mousePressed() {
 
+    //Tone.context is required to play audio in the new chrome
     if (!isContext){
         Tone.context.resume();
         isContext = true;
     }
 
-    if(!interpolatedNoteSequences && !interpolatedNoteSequences2) {
+    if(!interpolatedNoteSequences) {
         return;
     }
 
