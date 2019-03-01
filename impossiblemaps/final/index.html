@@ -445,6 +445,8 @@
     var revMasterVal = 1;
     var assetMasterVal = 0;
 
+    var popup;
+
     var orgs_data = (function() {
         var orgs_data = null;
         $.ajax({
@@ -752,7 +754,7 @@
 
         });
 
-        map.on('click', 'orgs-2D', function(e) {
+        map.on('mouseenter', 'orgs-2D', function(e) {
             var feature = e.features[0];
 
             if (!feature) {
@@ -763,7 +765,7 @@
             var exp = feature.properties['totalExpenses'].toLocaleString();
             var asset = feature.properties['totalNetAssets'].toLocaleString();
 
-            var popup = new mapboxgl.Popup()
+            popup = new mapboxgl.Popup()
                 .setLngLat(feature.geometry.coordinates)
                 .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'> ' +
                     'Name: ' + feature.properties['charityName'] + ' <br/>' +
@@ -777,6 +779,12 @@
                     'Liabilities/Assets: ' + feature.properties['liabilitiesToAssetsRatio'] + ' </div>')
                 .addTo(map);
 
+        });
+
+        map.on('mouseleave', 'orgs-2D', function() {
+            //console.log('HELLO');
+            map.getCanvas().style.cursor = '';
+            popup.remove();
         });
 
     }
