@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Shimomura Bot</title>
+    <script src="libraries/ml5.min.js"></script>
+    <script language="javascript" type="text/javascript" src="libraries/p5.js"></script>
+    <script src="../build/Tone.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+</head>
+
+<body>
+    <script src="sketch.js"></script>
+    <script src="MIDIreader.js"></script>
+    <script src="drawShapes.js"></script>
+    <div id="title">
+        <h1>Shimomura Bot</h1>
+    </div>
+    <div id="status">WAITING</div>
+    <div id="panel">
+        <!--<h2>Do a duet with Shimomura Bot!</h2>-->
+        <h3>Connect a MIDI controller, or use your keyboard!</h3>
+        <div id="keyboard">
+            <div class="keydiv"><button id="A" class="key">A</button></div>
+            <div class="keydiv"><button id="W" class="key black">W</button></div>
+            <div class="keydiv"><button id="S" class="key">S</button></div>
+            <div class="keydiv"><button id="E" class="key black">E</button></div>
+            <div class="keydiv"><button id="D" class="key end">D</button></div>
+            <div class="keydiv"><button id="F" class="key">F</button></div>
+            <div class="keydiv"><button id="T" class="key black">T</button></div>
+            <div class="keydiv"><button id="G" class="key">G</button></div>
+            <div class="keydiv"><button id="Y" class="key black">Y</button></div>
+            <div class="keydiv"><button id="H" class="key">H</button></div>
+            <div class="keydiv"><button id="U" class="key black">U</button></div>
+            <div class="keydiv"><button id="J" class="key end">J</button></div>
+            <div class="keydiv"><button id="K" class="key">K</button></div>
+            <div class="keydiv"><button id="O" class="key black">O</button></div>
+            <div class="keydiv"><button id="L" class="key">L</button></div>
+            <div class="keydiv"><button id="P" class="key black">P</button></div>
+            <div class="keydiv"><button id=";" class="key end">;</button></div>
+        </div>
+        <div id="switchbox">
+            <div class="switchtitle">bot response: </div>
+            <div class="switchlabel">melody</div>
+            <label class="switch">
+                <input type="checkbox" name="mel_harm" onchange="toggleResp()">
+                <span class="slider"></span>
+            </label>
+            <div class="switchlabel">harmony</div>
+        </div>
+    </div>
+</body>
+
+</html>
