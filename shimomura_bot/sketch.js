@@ -33,7 +33,7 @@ var key_note_map = [
     ['W', 87, 'C#5', false],
     ['S', 83, 'D5', false],
     ['E', 69, 'D#5', false],
-    ['D', 68, 'D5', false],
+    ['D', 68, 'E5', false],
     ['F', 70, 'F5', false],
     ['T', 84, 'F#5', false],
     ['G', 71, 'G5', false],
