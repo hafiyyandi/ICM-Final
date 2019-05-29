@@ -5,7 +5,7 @@ body {
     /**background-color: #efebd4;**/
     /*padding: 30px;*/
     background-color: #c2b59b;
-    font-size: 2em !important;
+    /*font-size: 2em !important;*/
     text-align:center;
 }
 
@@ -13,11 +13,12 @@ h1 {
 	font-weight: 700 !important;
 	text-transform: uppercase;
 	letter-spacing:1px;
-	/*font-size: 3.0em !important;*/
+	/*font-size: 1.0em !important;*/
 }
 
 h2 {
 	letter-spacing: : 1px;
+    /*font-size: 1.0em !important;*/
 }
 
 p {
@@ -38,7 +39,7 @@ p {
 
 .paragraph_wrapper {
 	margin-top:40px;
-	width:80%;
+	width:60%;
 	left:auto;
 	text-align: left;
     display: inline-block;
