@@ -25,6 +25,17 @@ p {
 	font-weight:300;
 }
 
+.highlight {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+::selection {
+  background: #fff; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #fff; /* Gecko Browsers */
+}
+
 #intro{
 	position:absolute;
 	width:100%;
