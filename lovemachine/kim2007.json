@@ -1,0 +1,467 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2007/12/02/arts/television/02stan.html",
+"snippet": "While sitcoms and dramatic series drum up tension by assaulting social barriers, most reality shows take them for granted and leave them untouched.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/12/02/arts/02stan-75.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2007/12/02/arts/02stan-75.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The Classless Utopia of Reality TV",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "The Classless Utopia Of Reality TV",
+"name": null,
+"seo": "Reality TV and Class Distinctions - TV",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Reality Television",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "MTV Networks",
+"rank": 2,
+"major": null
+},
+{
+"name": "organizations",
+"value": "CW Television Network",
+"rank": 3,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Fox Broadcasting Co",
+"rank": 4,
+"major": null
+}
+],
+"pub_date": "2007-12-02T00:00:00Z",
+"document_type": "article",
+"new_desk": "0",
+"section_name": "Television",
+"byline": {
+"original": "By ALESSANDRA STANLEY",
+"person": [
+{
+"firstname": "Alessandra",
+"middlename": null,
+"lastname": "STANLEY",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "54882c2138f0d8602128f0b5",
+"word_count": 1375,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/10/13/arts/television/13bell.html",
+"snippet": "The Kardashian show is purely about some desperate women climbing to the margins of fame, and yet the E! venture still does not deliver the willies inflicted by “A Shot at Love With Tila Tequila.”",
+"print_page": "16",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "The All-Too-Easy Route to Stardom",
+"kicker": "Television Review | 'Keeping Up With the Kardashians' and 'A Shot at Love With Tila Tequila'",
+"content_kicker": "Television Review | 'Keeping Up With the Kardashians' and 'A Shot at Love With Tila Tequila'",
+"print_headline": "The All-Too-Easy Route to Stardom",
+"name": null,
+"seo": "Keeping Up With the Kardashians - Shot at Love With Tila Tequila - TV - Review",
+"sub": null
+},
+"keywords": [
+{
+"name": "persons",
+"value": "Tequila, Tila",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Television",
+"rank": 4,
+"major": null
+},
+{
+"name": "organizations",
+"value": "E! Entertainment Television",
+"rank": 5,
+"major": null
+},
+{
+"name": "organizations",
+"value": "MTV Networks",
+"rank": 6,
+"major": null
+},
+{
+"name": "persons",
+"value": "Simmons, Gene",
+"rank": 7,
+"major": null
+}
+],
+"pub_date": "2007-10-13T04:00:00+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Television",
+"byline": {
+"original": "By GINIA BELLAFANTE",
+"person": [
+{
+"firstname": "Ginia",
+"middlename": null,
+"lastname": "BELLAFANTE",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Review",
+"_id": "54861c4a38f0d8164e21de3c",
+"word_count": 796,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/10/07/fashion/07kids.html",
+"snippet": "Do two mop-haired kids belong in the dark world of Hollywood’s paparazzi?",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/10/07/fashion/07kid600.1.jpg",
+"height": 300,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2007/10/07/fashion/07kid600.1.jpg",
+"xlargeheight": "300"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/10/07/fashion/07kid75.1.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2007/10/07/fashion/07kid75.1.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Just One More Before Bedtime!",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Just One More Before Bedtime!",
+"name": null,
+"seo": null,
+"sub": " ;"
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Photography",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Children and Youth",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Celebrities",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Families and Family Life",
+"rank": 4,
+"major": null
+}
+],
+"pub_date": "2007-10-07T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By MAYRAV SAAR",
+"person": [
+{
+"firstname": "Mayrav",
+"middlename": null,
+"lastname": "SAAR",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5485de6938f0d8164e21d6d3",
+"word_count": 1687,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/09/06/arts/television/06heff.html",
+"snippet": "If the name Shar Jackson doesn’t even faintly vibrate your phone, then you know right off that “Chelsea Lately,” the late-night talk show on E! that started in July, holds nothing for you.",
+"print_page": "3",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/09/06/arts/chelseaspan.jpg",
+"height": 280,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2007/09/06/arts/chelseaspan.jpg",
+"xlargeheight": "280"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/09/06/arts/chelsea75.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2007/09/06/arts/chelsea75.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "A Pop Savant, Up Late and Armed With Wit",
+"kicker": "Television Review | 'Chelsea Lately '",
+"content_kicker": "Television Review | 'Chelsea Lately '",
+"print_headline": "A Pop Savant, Up Late And Armed With Wit",
+"name": null,
+"seo": "Chelsea Lately - TV - Review",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Celebrities",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "E! Entertainment Television",
+"rank": 3,
+"major": null
+},
+{
+"name": "organizations",
+"value": "YouTube.com",
+"rank": 4,
+"major": null
+}
+],
+"pub_date": "2007-09-06T04:00:00+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Television",
+"byline": {
+"original": "By VIRGINIA HEFFERNAN",
+"person": [
+{
+"firstname": "Virginia",
+"middlename": null,
+"lastname": "HEFFERNAN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Review",
+"_id": "5484e6ae38f0d84e18ddf865",
+"word_count": 539,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2007/08/26/fashion/26boite.html",
+"snippet": "Ibiza is the first Washington night spot in about five years to claim the megaclub title, recently joining the old (some might say obsolete) standards Fur and Love.",
+"print_page": "8",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/08/26/fashion/26boite600.1.jpg",
+"height": 300,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2007/08/26/fashion/26boite600.1.jpg",
+"xlargeheight": "300"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2007/08/26/fashion/26boite75.1.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2007/08/26/fashion/26boite75.1.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Big, Bigger, Biggest",
+"kicker": "BoÎte",
+"content_kicker": "BoÎte",
+"print_headline": "Big, Bigger, Biggest",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Nightclubs and Cabarets",
+"rank": 1,
+"major": null
+},
+{
+"name": "glocations",
+"value": "Washington (DC)",
+"rank": 2,
+"major": null
+}
+],
+"pub_date": "2007-08-26T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By HELENA ANDREWS",
+"person": [
+{
+"firstname": "Helena",
+"middlename": null,
+"lastname": "ANDREWS",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5484869938f0d80df4fa5615",
+"word_count": 453,
+"score": 0
+}
+],
+"meta": {
+"hits": 5,
+"offset": 0,
+"time": 53
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 5
+}
+]
+}
+}
+}
+}

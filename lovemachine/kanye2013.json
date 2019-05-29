@@ -1,0 +1,1218 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2013/12/31/opinion/the-year-that-will-be.html",
+"snippet": "A precap of news sure to happen in 2014.",
+"print_page": "25",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/31/opinion/31funt/31funt-articleLarge.jpg",
+"height": 420,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2013/12/31/opinion/31funt/31funt-articleLarge.jpg",
+"xlargeheight": 420
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/31/opinion/31funt/31funt-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2013/12/31/opinion/31funt/31funt-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/31/opinion/31funt/31funt-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2013/12/31/opinion/31funt/31funt-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The Year That Will Be",
+"kicker": "Op-Ed Contributor",
+"content_kicker": "Op-Ed Contributor",
+"print_headline": "The Year That Will Be",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Two Thousand Fourteen",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "New Year",
+"rank": 3,
+"major": "N"
+}
+],
+"pub_date": "2013-12-30T11:38:22+0000",
+"document_type": "article",
+"new_desk": "OpEd",
+"byline": {
+"original": "By PETER FUNT",
+"person": [
+{
+"firstname": "Peter",
+"middlename": null,
+"lastname": "FUNT",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Op-Ed",
+"_id": "52c15b3938f0d82ddfa162d5",
+"word_count": 656,
+"score": 0,
+"uri": "nyt://article/1c76f812-f855-51db-a9a7-79827590aacd"
+},
+{
+"web_url": "https://www.nytimes.com/2013/12/30/arts/music/a-year-of-concerts-with-staying-power.html",
+"snippet": "The pop and jazz critics of The New York Times reflect on their most fondly remembered live performances of 2013.",
+"abstract": "New York Times pop and jazz critics reflect on their most fondly remembered live performances of 2013.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/30/arts/popfavsintro1/popfavsintro1-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2013/12/30/arts/popfavsintro1/popfavsintro1-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/30/arts/jppopfavs1/jppopfavs1-articleLarge.jpg",
+"height": 396,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2013/12/30/arts/jppopfavs1/jppopfavs1-articleLarge.jpg",
+"xlargeheight": "396"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/30/arts/jppopfavs4/jppopfavs4-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2013/12/30/arts/jppopfavs4/jppopfavs4-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "A Year of Concerts With Staying Power",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "A Year of Concerts With Staying Power",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Music",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Jazz",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Rap and Hip-Hop",
+"rank": 3,
+"major": null
+}
+],
+"pub_date": "2013-12-30T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By JON PARELES, BEN RATLIFF, JON CARAMANICA and NATE CHINEN",
+"person": [
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "PARELES",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+},
+{
+"firstname": "Ben",
+"middlename": null,
+"lastname": "RATLIFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 2
+},
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "CARAMANICA",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 3
+},
+{
+"firstname": "Nate",
+"middlename": null,
+"lastname": "CHINEN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 4
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "52c0a5f838f0d82ddfa16153",
+"word_count": 2497,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2013/12/27/popcast-the-year-in-pop/",
+"snippet": "Jon Pareles, Jon Caramanica and Ben Ratliff discuss the dominant ideas and themes in pop in 2013.",
+"abstract": "Jon Pareles, Jon Caramanica and Ben Ratliff discuss the dominant ideas and themes in pop in 2013.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/26/arts/popcast-mack/popcast-mack-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2013/12/26/arts/popcast-mack/popcast-mack-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/26/arts/popcast-mack/popcast-mack-articleLarge.jpg",
+"height": 399,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2013/12/26/arts/popcast-mack/popcast-mack-articleLarge.jpg",
+"xlargeheight": "399"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/26/arts/popcast-mack/popcast-mack-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2013/12/26/arts/popcast-mack/popcast-mack-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Popcast: The Year in Pop",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "persons",
+"value": "Cyrus, Miley",
+"rank": 1,
+"major": null
+},
+{
+"name": "persons",
+"value": "Jay-Z",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Knowles, Beyonce",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Lewis, Ryan",
+"rank": 4,
+"major": null
+},
+{
+"name": "persons",
+"value": "Thicke, Robin",
+"rank": 5,
+"major": null
+},
+{
+"name": "persons",
+"value": "Timberlake, Justin",
+"rank": 6,
+"major": null
+},
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 7,
+"major": null
+},
+{
+"name": "subject",
+"value": "Music",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2013-12-27T10:00:32Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BEN RATLIFF",
+"person": [
+{
+"firstname": "Ben",
+"middlename": null,
+"lastname": "RATLIFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "52bd964b38f0d8377a7ad7d8",
+"word_count": 214,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2013/12/27/arts/music/pop-picks-for-new-years-eve-in-new-york.html",
+"snippet": "Critics and writers for The New York Times recommend New Year’s Eve pop music events in the city.",
+"abstract": "New York Times writers offer suggestions for New Year's Eve concerts.",
+"print_page": "11",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/27/arts/27EVE01/27EVE01-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2013/12/27/arts/27EVE01/27EVE01-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/27/arts/27EVE01/27EVE01-articleLarge.jpg",
+"height": 399,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2013/12/27/arts/27EVE01/27EVE01-articleLarge.jpg",
+"xlargeheight": "399"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/27/arts/27EVE01/27EVE01-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2013/12/27/arts/27EVE01/27EVE01-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Music for Final Hours, Set to Primal Beats",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Music for Final Hours, Set to Primal Beats",
+"name": null,
+"seo": "Pop Picks for New Year’s Eve in New York",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "New Year",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Music",
+"rank": 2,
+"major": null
+}
+],
+"pub_date": "2013-12-27T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"section_name": "Music",
+"byline": {
+"original": "By JON CARAMANICA, NATE CHINEN, JON PARELES, BEN RATLIFF, MEGAN ANGELO and STACEY ANDERSON",
+"person": [
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "CARAMANICA",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+},
+{
+"firstname": "Nate",
+"middlename": null,
+"lastname": "CHINEN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 2
+},
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "PARELES",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 3
+},
+{
+"firstname": "Ben",
+"middlename": null,
+"lastname": "RATLIFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 4
+},
+{
+"firstname": "Megan",
+"middlename": null,
+"lastname": "ANGELO",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 5
+},
+{
+"firstname": "Stacey",
+"middlename": null,
+"lastname": "ANDERSON",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 6
+}
+],
+"organization": null
+},
+"type_of_material": "Schedule",
+"_id": "52bcb7b738f0d8377a7ad5f0",
+"word_count": 3496,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2013/12/27/arts/design/folk-art-museum-quilts-show-has-new-perspective-on-form.html",
+"snippet": "The Folk Art Museum show &#8220;alt_quilts: Sabrina Gschwandtner, Luke Haynes, Stephen Sollins&#8221; shows just how personal quilt making can be.",
+"abstract": "Karen Rosenberg reviews exhibits alt-quilts: Sabrina Gschwandtner, Luke Haynes, Stephen Sollins at the American Folk Art Museum.",
+"print_page": "28",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/27/arts/27QUILTS_SPAN/27QUILTS-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2013/12/27/arts/27QUILTS_SPAN/27QUILTS-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/27/arts/27QUILTS_SPAN/27QUILTS-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2013/12/27/arts/27QUILTS_SPAN/27QUILTS-articleLarge.jpg",
+"xlargeheight": "400"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/27/arts/27QUILTS_SPAN/27QUILTS-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2013/12/27/arts/27QUILTS_SPAN/27QUILTS-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Memories, Stitched Together, for Gallery Walls",
+"kicker": "Last Chance | Art",
+"content_kicker": "Last Chance",
+"print_headline": "Memories, Stitched Together, for Gallery Walls",
+"name": null,
+"seo": "Folk Art Museum Quilts Show Has New Perspective on Form",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Quilts",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Art",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "American Folk Art Museum",
+"rank": 2,
+"major": null
+}
+],
+"pub_date": "2013-12-27T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"section_name": "Art & Design",
+"byline": {
+"original": "By KAREN ROSENBERG",
+"person": [
+{
+"firstname": "Karen",
+"middlename": null,
+"lastname": "ROSENBERG",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Review",
+"_id": "52bca2cc38f0d8377a7ad5c5",
+"word_count": 878,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2013/12/25/kanye-west-faces-lawsuit-over-song-sample/",
+"snippet": "The soul singer Ricky Spicer is suing Mr. West for what he says is the unauthorized use of his voice on the track “Bound 2.”",
+"abstract": "The soul singer Ricky Spicer is suing Mr. West for what he says is the unauthorized use of his voice on the track “Bound 2.”",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/25/arts/25ABkanye/25ABkanye-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2013/12/25/arts/25ABkanye/25ABkanye-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/25/arts/25ABkanye/25ABkanye-articleLarge.jpg",
+"height": 458,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2013/12/25/arts/25ABkanye/25ABkanye-articleLarge.jpg",
+"xlargeheight": "458"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/25/arts/25ABkanye/25ABkanye-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2013/12/25/arts/25ABkanye/25ABkanye-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Kanye West Faces Lawsuit Over Song Sample",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": "Kanye West Is Sued Over Song Sample",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Music",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Copyrights and Copyright Violations",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 4,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Hollywood Reporter",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2013-12-25T12:02:59Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAVE ITZKOFF",
+"person": [
+{
+"firstname": "Dave",
+"middlename": null,
+"lastname": "ITZKOFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "52bb109a38f0d849b07ff933",
+"word_count": 191,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2013/12/22/fashion/Millenials-Millennials-Generation-Y.html",
+"snippet": "Young adults do not think and act alike, as it turns out. In fact, some do not want to be called millennials at all.",
+"abstract": "There appear to be some differences between younger and older millennials, generation of 80-million-plus young adults born roughly between 1980 and 1996, despite marketers' claim that the group is bound by common values.",
+"print_page": "16",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/22/fashion/22CULTURALSTUDIES2/22CULTURALSTUDIES2-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2013/12/22/fashion/22CULTURALSTUDIES2/22CULTURALSTUDIES2-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/22/fashion/22CULTURALSTUDIES1_SPAN/22CULTURALSTUDIES1-articleLarge.jpg",
+"height": 412,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2013/12/22/fashion/22CULTURALSTUDIES1_SPAN/22CULTURALSTUDIES1-articleLarge.jpg",
+"xlargeheight": "412"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/22/fashion/22CULTURALSTUDIES2/22CULTURALSTUDIES2-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2013/12/22/fashion/22CULTURALSTUDIES2/22CULTURALSTUDIES2-thumbStandard-v2.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "For Millennials, a Generational Divide",
+"kicker": "Cultural Studies",
+"content_kicker": "Cultural Studies",
+"print_headline": "A Generational Divide",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Age, Chronological",
+"rank": 5,
+"major": null
+},
+{
+"name": "subject",
+"value": "Youth",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Social Conditions and Trends",
+"rank": 4,
+"major": null
+},
+{
+"name": "subject",
+"value": "Advertising and Marketing",
+"rank": 6,
+"major": null
+}
+],
+"pub_date": "2013-12-22T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By SHEILA MARIKAR",
+"person": [
+{
+"firstname": "Sheila",
+"middlename": null,
+"lastname": "MARIKAR",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "52b4be1a38f0d85dafc4e844",
+"word_count": 1003,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2013/12/22/fashion/Pop-Up-Stores-Storefront.html",
+"snippet": "Storefront connects pop-up stores in need of space with landlords seeking short-term tenants.",
+"abstract": "Storefront, rapidly growing online start-up, connects store owners and landlords in New York and San Francisco with retail spaces they wish to rent out for short terms with artists, brands and boutiques in need of temporary quarters.",
+"print_page": "11",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/22/fashion/22NOTED_SPAN/22NOTED_SPAN-thumbWide-v2.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2013/12/22/fashion/22NOTED_SPAN/22NOTED_SPAN-thumbWide-v2.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/22/fashion/22NOTED_SPAN/22NOTED-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2013/12/22/fashion/22NOTED_SPAN/22NOTED-articleLarge.jpg",
+"xlargeheight": "400"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/22/fashion/22NOTED_SPAN/22NOTED_SPAN-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2013/12/22/fashion/22NOTED_SPAN/22NOTED_SPAN-thumbStandard-v2.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "No Space Too Small, No Lease Too Short",
+"kicker": "Noted",
+"content_kicker": "Noted",
+"print_headline": "No Space Too Small, No Lease Too Short",
+"name": null,
+"seo": "Pop-Up Stores Find Short-Term Rentals With Storefront Website",
+"sub": null
+},
+"keywords": [
+{
+"name": "glocations",
+"value": "San Francisco (Calif)",
+"rank": 5,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Storefront Inc",
+"rank": 3,
+"major": null
+},
+{
+"name": "glocations",
+"value": "New York City",
+"rank": 6,
+"major": null
+},
+{
+"name": "subject",
+"value": "Pop-Up Stores and Restaurants",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Real Estate (Commercial)",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Renting and Leasing (Real Estate)",
+"rank": 4,
+"major": null
+}
+],
+"pub_date": "2013-12-22T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By JOSHUA DAVID STEIN",
+"person": [
+{
+"firstname": "Joshua",
+"middlename": "David",
+"lastname": "STEIN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "52b4b8d938f0d8536750db8f",
+"word_count": 635,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2013/12/22/automobiles/autoreviews/what-i-discovered-on-my-flash-drive.html",
+"snippet": "A man who has mostly owned old Jeeps and Volvos gets to spend time with the 2013 Lamborghini Aventador LP 700-4 Roadster. The experience, he writes, is an itch he can get used to scratching.",
+"abstract": "Behind the Wheel column review of Lamborghini Aventador LP 700-4 Roadster.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/22/automobiles/WHEEL1/WHEEL1-thumbWide-v2.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2013/12/22/automobiles/WHEEL1/WHEEL1-thumbWide-v2.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/22/automobiles/WHEEL1/WHEEL1-articleLarge.jpg",
+"height": 277,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2013/12/22/automobiles/WHEEL1/WHEEL1-articleLarge.jpg",
+"xlargeheight": "277"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2013/12/22/automobiles/WHEEL1/WHEEL1-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2013/12/22/automobiles/WHEEL1/WHEEL1-thumbStandard-v2.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "What I Discovered on My Flash Drive",
+"kicker": "Behind the Wheel | Lamborghini Aventador LP 700-4 Roadster",
+"content_kicker": "Behind the Wheel Lamborghini Aventador LP 700-4 Roadster",
+"print_headline": "What I Discovered on My Flash Drive",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "glocations",
+"value": "New Jersey",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Automobiles",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Automobili Lamborghini SpA",
+"rank": 2,
+"major": null
+}
+],
+"pub_date": "2013-12-22T00:00:00Z",
+"document_type": "article",
+"new_desk": "Automobiles",
+"section_name": "New Cars",
+"byline": {
+"original": "By DWIGHT GARNER",
+"person": [
+{
+"firstname": "Dwight",
+"middlename": null,
+"lastname": "GARNER",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Review",
+"_id": "52b4aa7838f0d8536750db45",
+"word_count": 1935,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2013/12/18/arts/television/whats-on-wednesday.html",
+"snippet": "Television highlights.",
+"print_page": "8",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "What’s on Wednesday",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "What’s On Wednesday",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [],
+"pub_date": "2013-12-18T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Television",
+"byline": {
+"original": "By KATHRYN SHATTUCK",
+"person": [
+{
+"firstname": "Kathryn",
+"middlename": null,
+"lastname": "SHATTUCK",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Schedule",
+"_id": "52b139e938f0d807ba62f0c5",
+"word_count": 677,
+"score": 0
+}
+],
+"meta": {
+"hits": 186,
+"offset": 0,
+"time": 55
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 183
+},
+{
+"term": "International Herald Tribune",
+"count": 2
+},
+{
+"term": "",
+"count": 1
+}
+]
+}
+}
+}
+}

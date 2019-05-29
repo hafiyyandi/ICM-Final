@@ -1,0 +1,1333 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2015/12/03/fashion/kim-kardashian-push-present-politics.html",
+"snippet": "Kim Kardashian wants a million-dollar necklace as a “push present” for giving birth to her second baby. At that rate, few of us could afford families.",
+"abstract": "So-called push present, gift offered to women after giving birth, is becoming popular trend among wealthy couples.",
+"print_page": "24",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-articleLarge.jpg",
+"height": 416,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-articleLarge.jpg",
+"xlargeheight": "416"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "First Comes Baby, Then Comes Push Present? ",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Here’s Your Baby … Where’s My Present?  ",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Pregnancy and Childbirth",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Gifts",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Jewels and Jewelry",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Kardashian, Kim",
+"rank": 4,
+"major": null
+}
+],
+"pub_date": "2015-12-06T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By UNA LAMARCHE",
+"person": [
+{
+"firstname": "Una",
+"middlename": null,
+"lastname": "LAMARCHE",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5660745438f0d80f6038b62c",
+"word_count": 642,
+"score": 6.717854e-28
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/11/t-magazine/fashion/jonathan-saunders-dior-winona-marc-jacobs-fashion-news.html",
+"snippet": "Jonathan Saunders no more, Winona Ryder for Marc Jacobs and Adidas robots.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/11/t-magazine/11tmag-chic/11tmag-chic-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2015/12/11/t-magazine/11tmag-chic/11tmag-chic-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/11/t-magazine/11tmag-chic/11tmag-chic-articleLarge.jpg",
+"height": 314,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/11/t-magazine/11tmag-chic/11tmag-chic-articleLarge.jpg",
+"xlargeheight": "314"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/11/t-magazine/11tmag-chic/11tmag-chic-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/11/t-magazine/11tmag-chic/11tmag-chic-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The Fashion News to Know This Week",
+"kicker": null,
+"content_kicker": "Chic in Review",
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Fashion and Apparel",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Goop.com",
+"rank": 2,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Marc Jacobs International LLC",
+"rank": 3,
+"major": null
+},
+{
+"name": "organizations",
+"value": "adidas AG",
+"rank": 4,
+"major": null
+},
+{
+"name": "persons",
+"value": "Paltrow, Gwyneth",
+"rank": 5,
+"major": null
+},
+{
+"name": "persons",
+"value": "Rihanna",
+"rank": 6,
+"major": null
+},
+{
+"name": "persons",
+"value": "Saunders, Jonathan",
+"rank": 7,
+"major": null
+}
+],
+"pub_date": "2015-12-11T00:00:00Z",
+"document_type": "article",
+"new_desk": "TStyle",
+"section_name": "Fashion & Beauty",
+"byline": {
+"original": "By HILARY MOSS",
+"person": [
+{
+"firstname": "Hilary",
+"middlename": null,
+"lastname": "MOSS",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "566b0f3638f0d804c3f4bb94",
+"word_count": 322,
+"score": 9.4756746e-29
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/11/magazine/the-murky-meaning-of-the-killer-selfie.html",
+"snippet": "What is it that we find so uniquely horrifying about people dying as they take pictures of themselves?",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/11/magazine/11-selfies/11-selfies-articleLarge.jpg",
+"height": 600,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2015/12/11/magazine/11-selfies/11-selfies-articleLarge.jpg",
+"xlargeheight": 600
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/11/magazine/11-selfies/11-selfies-thumbWide-v3.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2015/12/11/magazine/11-selfies/11-selfies-thumbWide-v3.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/11/magazine/11-selfies/11-selfies-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2015/12/11/magazine/11-selfies/11-selfies-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The Murky Meaning of the Killer Selfie",
+"kicker": "Notebook",
+"content_kicker": "Notebook",
+"print_headline": "The Murky Meaning of the Killer Selfie",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Traffic Accidents and Safety",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Falls",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Narcissism",
+"rank": 3,
+"major": "N"
+}
+],
+"pub_date": "2015-12-11T18:05:38+0000",
+"document_type": "article",
+"new_desk": "Magazine",
+"byline": {
+"original": "By AVI STEINBERG",
+"person": [
+{
+"firstname": "Avi",
+"middlename": null,
+"lastname": "STEINBERG",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "566b107738f0d804c3f4bb9b",
+"word_count": 1272,
+"score": 5.479711e-29,
+"uri": "nyt://article/0d46fd4b-8807-50a3-a9ef-73e069f8bf75"
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/06/books/review/resistance-is-futile.html",
+"snippet": "For people who have grown cynical about self-help, new books teach you how to toughen up, ignore the haters and know your league. Brace yourself.",
+"abstract": "Molly Young reviews selection of self-help books from 2015. ",
+"print_page": "87",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/06/books/review/06HelpDesk/06HelpDesk-thumbWide-v2.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2015/12/06/books/review/06HelpDesk/06HelpDesk-thumbWide-v2.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/06/books/review/06HelpDesk/06HelpDesk-articleLarge-v2.jpg",
+"height": 599,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/06/books/review/06HelpDesk/06HelpDesk-articleLarge-v2.jpg",
+"xlargeheight": "599"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/06/books/review/06HelpDesk/06HelpDesk-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/06/books/review/06HelpDesk/06HelpDesk-thumbStandard-v2.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Resistance Is Futile",
+"kicker": "Help Desk",
+"content_kicker": "Help Desk",
+"print_headline": "Resistance Is Futile",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Books and Literature",
+"rank": 1,
+"major": null
+},
+{
+"name": "creative_works",
+"value": "Works Well with Others: An Outsider's Guide to Shaking Hands, Shutting Up, Handling Jerks, and Other Crucial Skills in Business That No One Ever Teaches You (Book)",
+"rank": 11,
+"major": null
+},
+{
+"name": "creative_works",
+"value": "____ Feelings: One Shrink's Practical Advice for Managing All Life's Impossible Problems (Book)",
+"rank": 12,
+"major": null
+},
+{
+"name": "persons",
+"value": "Knight, Sarah A (1978- )",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Rose, Amber (1983- )",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Pfeffer, Jeffrey",
+"rank": 4,
+"major": null
+},
+{
+"name": "persons",
+"value": "McCammon, Ross (1974- )",
+"rank": 5,
+"major": null
+},
+{
+"name": "persons",
+"value": "Bennett, Michael I (1945- )",
+"rank": 6,
+"major": null
+},
+{
+"name": "persons",
+"value": "Bennett, Sarah B (1978- )",
+"rank": 7,
+"major": null
+},
+{
+"name": "creative_works",
+"value": "The Life-Changing Magic of Not Giving a _____ : How to Stop Spending Time You Don't Have With People You Don't Like Doing Things You Don't Want to Do (Book)",
+"rank": 8,
+"major": null
+},
+{
+"name": "creative_works",
+"value": "How to Be a Bad Bitch (Book)",
+"rank": 9,
+"major": null
+},
+{
+"name": "creative_works",
+"value": "Leadership BS: Fixing Workplaces and Careers One Truth at a Time (Book)",
+"rank": 10,
+"major": null
+}
+],
+"pub_date": "2015-12-06T00:00:00Z",
+"document_type": "article",
+"new_desk": "BookReview",
+"section_name": "Sunday Book Review",
+"byline": {
+"original": "By MOLLY YOUNG",
+"person": [
+{
+"firstname": "Molly",
+"middlename": null,
+"lastname": "YOUNG",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5661da8938f0d87104c913bc",
+"word_count": 1367,
+"score": 2.004206e-29
+},
+{
+"web_url": "https://learning.blogs.nytimes.com/2015/12/08/farewell-2015-a-year-end-special-news-quiz/",
+"snippet": "Say goodbye to 2015 by taking our special news quiz. You can fill in the blanks with your own guesses, or choose from a scrambled list of words that were removed.",
+"abstract": "Say goodbye to 2015 by taking our special news quiz. You can fill in the blanks with your own guesses, or choose from a scrambled list of words that were removed.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/07/learning/quiztriptych2015LN/quiztriptych2015LN-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2015/12/07/learning/quiztriptych2015LN/quiztriptych2015LN-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/08/07/us/RepublicanDebate-slide-QF8U-LN/RepublicanDebate-slide-QF8U-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/08/07/us/RepublicanDebate-slide-QF8U-LN/RepublicanDebate-slide-QF8U-articleLarge.jpg",
+"xlargeheight": "400"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/07/learning/quiztriptych2015LN/quiztriptych2015LN-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/07/learning/quiztriptych2015LN/quiztriptych2015LN-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Farewell, 2015 | A Year-End Special News Quiz",
+"kicker": "The Learning Network",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [],
+"pub_date": "2015-12-08T08:20:19Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By KATHERINE SCHULTEN and MICHAEL GONCHAR",
+"person": [
+{
+"firstname": "Katherine",
+"middlename": null,
+"lastname": "SCHULTEN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+},
+{
+"firstname": "Michael",
+"middlename": null,
+"lastname": "GONCHAR",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 2
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "5666d9ec38f0d84cb15f733c",
+"word_count": 3131,
+"score": 1.885042e-29
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/03/arts/international/carrara-marble-taken-to-new-dimensions.html",
+"snippet": "Gualtiero Vanelli is using robotic technology to transform his family quarry business.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/01/arts/03iht-rartmarble-1/03iht-rartmarble-1-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2015/12/01/arts/03iht-rartmarble-1/03iht-rartmarble-1-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/01/arts/03iht-rartmarble-1/03iht-rartmarble-1-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/01/arts/03iht-rartmarble-1/03iht-rartmarble-1-articleLarge.jpg",
+"xlargeheight": "400"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/12/01/arts/03iht-rartmarble-1/03iht-rartmarble-1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/01/arts/03iht-rartmarble-1/03iht-rartmarble-1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Carrara Marble, Taken to New Dimensions",
+"kicker": null,
+"content_kicker": "The Art of Collecting",
+"print_headline": "Carrara Marble, Taken to New Dimensions",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Sculpture",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Robots and Robotics",
+"rank": 2,
+"major": null
+},
+{
+"name": "glocations",
+"value": "Italy",
+"rank": 3,
+"major": null
+}
+],
+"pub_date": "2015-12-03T11:30:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "International Arts",
+"byline": {
+"original": "By GINANNE BROWNELL MITIC",
+"person": [
+{
+"firstname": "Ginanne",
+"middlename": "Brownell",
+"lastname": "MITIC",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Special Report",
+"_id": "565eecfd38f0d8640ffa0b67",
+"word_count": 1469,
+"score": 1.6464172e-29
+},
+{
+"web_url": "https://www.nytimes.com/2015/11/26/movies/hey-are-you-looking-at-me-good-now-buzz-off.html",
+"snippet": "The recent tradition of the look-at-me-don’t-look-at-me stunts has become a rite for modern celebrities.",
+"abstract": "Wesley Morris Critic's Notebook observes growing trend of self-reference and narcissism among celebrities, specifically Shia LaBeouf, Angelina Jolie and Brad Pitt, whose latest projects seem to mock their status and fame; cites singer Adele as refreshing exception for providing audiences with her vast talent without presumptions. ",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/26/arts/26FAME/26FAME-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2015/11/26/arts/26FAME/26FAME-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/26/arts/26FAME/26FAME-articleLarge.jpg",
+"height": 283,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/11/26/arts/26FAME/26FAME-articleLarge.jpg",
+"xlargeheight": "283"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/26/arts/26FAME/26FAME-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/11/26/arts/26FAME/26FAME-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Hey, Are You Looking at Me? Good. Now, Buzz Off.",
+"kicker": "Critic's Notebook",
+"content_kicker": "Critic's Notebook",
+"print_headline": "Hey, Are You Looking at Me? Good. Now, Buzz Off.",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Movies",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Celebrities",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Pitt, Brad",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Jolie, Angelina",
+"rank": 4,
+"major": null
+},
+{
+"name": "persons",
+"value": "LaBeouf, Shia",
+"rank": 5,
+"major": null
+},
+{
+"name": "subject",
+"value": "Music",
+"rank": 6,
+"major": null
+},
+{
+"name": "subject",
+"value": "Privacy",
+"rank": 7,
+"major": null
+},
+{
+"name": "subject",
+"value": "Performance Art",
+"rank": 8,
+"major": null
+},
+{
+"name": "creative_works",
+"value": "By the Sea (Movie)",
+"rank": 9,
+"major": null
+},
+{
+"name": "persons",
+"value": "Adele (Singer)",
+"rank": 10,
+"major": null
+}
+],
+"pub_date": "2015-11-26T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"byline": {
+"original": "By WESLEY MORRIS",
+"person": [
+{
+"firstname": "Wesley",
+"middlename": null,
+"lastname": "MORRIS",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "565631d138f0d8310210dcc1",
+"word_count": 1214,
+"score": 3.340822e-30
+},
+{
+"web_url": "https://www.nytimes.com/2015/11/19/fashion/jen-atkin-kardashian-is-this-the-most-influential-hairstylist-in-the-world.html",
+"snippet": "As Jen Atkin styles celebrities like the Kardashians, millions follow her, and her empire grows.",
+"abstract": "Hairstylist Jen Atkin has in just five years built business empire that includes ManeAddicts.com, Mane University, and host of celebrity clients; is set to launch line of hair-care products called Ouai.",
+"print_page": "6",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/19/fashion/19ATKINS/19ATKINS-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2015/11/19/fashion/19ATKINS/19ATKINS-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/19/fashion/19ATKINS/19ATKINS-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/11/19/fashion/19ATKINS/19ATKINS-articleLarge.jpg",
+"xlargeheight": "400"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/19/fashion/19ATKINS/19ATKINS-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/11/19/fashion/19ATKINS/19ATKINS-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Is This the Most Influential Hairstylist in the World?",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Is This the Most Influential Hairstylist in the World?",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "persons",
+"value": "Atkin, Jen",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Hair",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Shampoos and Hair Products",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Celebrities",
+"rank": 4,
+"major": null
+}
+],
+"pub_date": "2015-11-19T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By BEE SHAPIRO",
+"person": [
+{
+"firstname": "Bee",
+"middlename": null,
+"lastname": "SHAPIRO",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "564bb4f238f0d86974392fac",
+"word_count": 1009,
+"score": 2.1558644e-30
+},
+{
+"web_url": "https://www.nytimes.com/2015/11/20/arts/design/an-ellsworth-kelly-for-football-fans.html",
+"snippet": "A sculpture by Mr. Kelly will greet fans at the main entrance to the Cowboys’ AT&T Stadium.",
+"abstract": "Robin Pogrebin Inside Art column; Ellsworth Kelly sculpture White Form will be placed at main entrance to Dallas Cowboys' AT&T Stadium; Public Art Fund will temporarily install Isa Genzken sculpture Two Orchids at Central Park's Fifth Avenue entrance; Robert Levin's candid photographs of Andy Warhol will go on view at Maison Gerard gallery locations in December.",
+"print_page": "24",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/20/arts/20INSIDERART2/20INSIDERART2-thumbWide-v3.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2015/11/20/arts/20INSIDERART2/20INSIDERART2-thumbWide-v3.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/20/arts/20INSIDERART2/20INSIDERART2-articleLarge-v3.jpg",
+"height": 900,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/11/20/arts/20INSIDERART2/20INSIDERART2-articleLarge-v3.jpg",
+"xlargeheight": "900"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/20/arts/20INSIDERART2/20INSIDERART2-thumbStandard-v3.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/11/20/arts/20INSIDERART2/20INSIDERART2-thumbStandard-v3.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "An Ellsworth Kelly for Football Fans",
+"kicker": "Inside Art",
+"content_kicker": "Inside Art",
+"print_headline": "An Ellsworth Kelly for Football Fans",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Art",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Sculpture",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Kelly, Ellsworth",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Warhol, Andy",
+"rank": 4,
+"major": null
+},
+{
+"name": "persons",
+"value": "Genzken, Isa",
+"rank": 6,
+"major": null
+},
+{
+"name": "subject",
+"value": "Photography",
+"rank": 7,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Dallas Cowboys",
+"rank": 8,
+"major": null
+},
+{
+"name": "persons",
+"value": "Levin, Robert J",
+"rank": 9,
+"major": null
+}
+],
+"pub_date": "2015-11-20T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"section_name": "Art & Design",
+"byline": {
+"original": "By ROBIN POGREBIN and HILARIE M. SHEETS",
+"person": [
+{
+"firstname": "Robin",
+"middlename": null,
+"lastname": "POGREBIN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+},
+{
+"firstname": "Hilarie",
+"middlename": null,
+"lastname": null,
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 2
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "564e562438f0d84d3be11119",
+"word_count": 841,
+"score": 1.4213727e-30
+},
+{
+"web_url": "https://www.nytimes.com/2015/11/19/fashion/fall-fashion-too-warm-to-be-cool.html",
+"snippet": "Yes, there are fears that Greenland is melting away. But for some, the impact of climate change is more personal and more immediate: Will they ever get to wear their winter clothes again?",
+"abstract": "Warmer fall temperatures attributed to climate change have profound affect on fashion as New Yorkers continue wearing lightweight clothing and stores rely on 'seasonless' articles to offset unpredictable seasonal buying.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/19/fashion/19ECODEPRESSION_COVER/19ECODEPRESSION_COVER-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2015/11/19/fashion/19ECODEPRESSION_COVER/19ECODEPRESSION_COVER-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/19/fashion/19ECODEPRESSION_COVER/19ECODEPRESSION_COVER-articleLarge.jpg",
+"height": 399,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/11/19/fashion/19ECODEPRESSION_COVER/19ECODEPRESSION_COVER-articleLarge.jpg",
+"xlargeheight": "399"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2015/11/19/fashion/19ECODEPRESSION_COVER/19ECODEPRESSION_COVER-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/11/19/fashion/19ECODEPRESSION_COVER/19ECODEPRESSION_COVER-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Fall Fashion: Too Warm to Be Cool",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Too Warm to Be Cool  ",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Fashion and Apparel",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Global Warming",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Autumn (Season)",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Seasons and Months",
+"rank": 4,
+"major": null
+},
+{
+"name": "glocations",
+"value": "New York City",
+"rank": 5,
+"major": null
+}
+],
+"pub_date": "2015-11-19T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By MIRANDA PURVES",
+"person": [
+{
+"firstname": "Miranda",
+"middlename": null,
+"lastname": "PURVES",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "564cdfa738f0d81eb3cecfa9",
+"word_count": 1521,
+"score": 8.505914e-31
+}
+],
+"meta": {
+"hits": 150,
+"offset": 0,
+"time": 10
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 139
+},
+{
+"term": "Reuters",
+"count": 8
+},
+{
+"term": "",
+"count": 3
+}
+]
+}
+}
+}
+}

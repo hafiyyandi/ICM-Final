@@ -1,0 +1,1040 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2016/12/02/fashion/galas-unicef-phoenix-house-the-alvin-ailey-american-dance-theater-native-son-awards.html",
+"snippet": "Galas were held last week for Unicef, Phoenix House, the Alvin Ailey American Dance Theater and the Native Son Awards.",
+"print_page": "17",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Pre-Holiday Spirit",
+"kicker": "Party Coverage: Scene City",
+"print_headline": "That Old Giving Spirit"
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "subject",
+"value": "Parties (Social)"
+},
+{
+"isMajor": "N",
+"rank": 2,
+"name": "subject",
+"value": "Philanthropy"
+},
+{
+"isMajor": "N",
+"rank": 3,
+"name": "organizations",
+"value": "Ailey, Alvin, American Dance Theater"
+},
+{
+"isMajor": "N",
+"rank": 4,
+"name": "organizations",
+"value": "Phoenix House"
+},
+{
+"isMajor": "N",
+"rank": 5,
+"name": "organizations",
+"value": "United Nations Children's Fund"
+}
+],
+"pub_date": "2016-12-02T20:49:37+0000",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By DENNY LEE"
+},
+"type_of_material": "News",
+"_id": "5841de6695d0e03926073ce9",
+"word_count": 88,
+"score": 0.0000011061061
+},
+{
+"web_url": "https://www.nytimes.com/2016/12/09/arts/whats-on-tv-friday-madonna-rebel-heart-tour-and-mozart-in-the-jungle.html",
+"snippet": "Madonna takes the world by storm in her “Rebel Heart” world tour. And “Mozart in the Jungle” travels to Italy as Season 3 begins.",
+"print_page": "17",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/12/09/arts/09TV1/09TV1-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/12/09/arts/09TV1/09TV1-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/12/09/arts/09TV1/09TV1-articleLarge.jpg",
+"height": 767,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/12/09/arts/09TV1/09TV1-articleLarge.jpg",
+"xlargeheight": "767"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/12/09/arts/09TV1/09TV1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/12/09/arts/09TV1/09TV1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "What’s on TV Friday: ‘Madonna: Rebel Heart Tour’ and ‘Mozart in the Jungle’",
+"print_headline": "What’s on Friday"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Movies"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Television"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Web-Original Programming"
+}
+],
+"pub_date": "2016-12-09T06:00:15+0000",
+"document_type": "article",
+"new_desk": "Weekend",
+"section_name": "Television",
+"byline": {
+"original": "By KATHRYN SHATTUCK"
+},
+"type_of_material": "Schedule",
+"_id": "584a487595d0e0392607501b",
+"word_count": 419,
+"score": 9.056081e-7
+},
+{
+"web_url": "https://www.nytimes.com/2016/10/31/opinion/pussy-riots-nadya-trump-should-be-disqualified.html",
+"snippet": "The Russian punk protester talks about the election, Putin and her new music video.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/11/01/opinion/31lett-TNweb/31lett-TNweb-articleLarge.jpg",
+"height": 328,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2016/11/01/opinion/31lett-TNweb/31lett-TNweb-articleLarge.jpg",
+"xlargeheight": 328
+}
+},
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/11/01/opinion/31lett-TNweb/31lett-TNweb-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/11/01/opinion/31lett-TNweb/31lett-TNweb-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/11/01/opinion/31lett-TNweb/31lett-TNweb-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2016/11/01/opinion/31lett-TNweb/31lett-TNweb-thumbStandard.jpg",
+"thumbnailwidth": 75
+}
+}
+],
+"headline": {
+"main": "Pussy Riot’s Nadya: Trump ‘Should Be Disqualified’",
+"kicker": "Taking Note",
+"print_headline": "Pussy Riot’s Nadya: Trump ‘Should Be Disqualified’"
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "subject",
+"value": "Presidential Election of 2016"
+},
+{
+"isMajor": "N",
+"rank": 2,
+"name": "subject",
+"value": "Third-Party Politics (US)"
+},
+{
+"isMajor": "N",
+"rank": 3,
+"name": "subject",
+"value": "Elections"
+},
+{
+"isMajor": "N",
+"rank": 4,
+"name": "subject",
+"value": "Women's Rights"
+},
+{
+"isMajor": "N",
+"rank": 5,
+"name": "subject",
+"value": "Women and Girls"
+},
+{
+"isMajor": "N",
+"rank": 6,
+"name": "subject",
+"value": "United States Politics and Government"
+},
+{
+"isMajor": "N",
+"rank": 7,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": "N",
+"rank": 8,
+"name": "organizations",
+"value": "Bikini Kill (Music Group)"
+},
+{
+"isMajor": "N",
+"rank": 9,
+"name": "organizations",
+"value": "Pussy Riot"
+},
+{
+"isMajor": "N",
+"rank": 10,
+"name": "organizations",
+"value": "WikiLeaks"
+},
+{
+"isMajor": "N",
+"rank": 11,
+"name": "persons",
+"value": "Clinton, Hillary Rodham"
+},
+{
+"isMajor": "N",
+"rank": 12,
+"name": "persons",
+"value": "Lady Gaga"
+},
+{
+"isMajor": "N",
+"rank": 13,
+"name": "persons",
+"value": "Perry, Katy"
+},
+{
+"isMajor": "N",
+"rank": 14,
+"name": "persons",
+"value": "Putin, Vladimir V"
+},
+{
+"isMajor": "N",
+"rank": 15,
+"name": "persons",
+"value": "Sanders, Bernard"
+},
+{
+"isMajor": "N",
+"rank": 16,
+"name": "persons",
+"value": "Tolokonnikova, Nadezhda"
+},
+{
+"isMajor": "N",
+"rank": 17,
+"name": "persons",
+"value": "Trump, Donald J"
+},
+{
+"isMajor": "N",
+"rank": 18,
+"name": "glocations",
+"value": "Crimea (Ukraine)"
+},
+{
+"isMajor": "N",
+"rank": 19,
+"name": "glocations",
+"value": "Europe"
+},
+{
+"isMajor": "N",
+"rank": 20,
+"name": "glocations",
+"value": "Russia"
+},
+{
+"isMajor": "N",
+"rank": 21,
+"name": "glocations",
+"value": "Syria"
+},
+{
+"isMajor": "N",
+"rank": 22,
+"name": "glocations",
+"value": "USSR (Former Soviet Union)"
+},
+{
+"isMajor": "N",
+"rank": 23,
+"name": "glocations",
+"value": "United States"
+},
+{
+"isMajor": "N",
+"rank": 24,
+"name": "creative_works",
+"value": "Make America Great Again (Movie)"
+},
+{
+"isMajor": "N",
+"rank": 25,
+"name": "creative_works",
+"value": "Rebel Girl (Movie)"
+}
+],
+"pub_date": "2016-11-01T14:21:04+0000",
+"document_type": "article",
+"new_desk": "Editorial",
+"byline": {
+"original": "By PHOEBE LETT"
+},
+"type_of_material": "Editorial",
+"_id": "5818a4d895d0e022439c6676",
+"word_count": 1255,
+"score": 3.2517104e-7,
+"uri": "nyt://article/efb51466-8608-553b-ae98-e2896c416c24"
+},
+{
+"web_url": "https://www.nytimes.com/2016/11/26/opinion/sunday/election-therapy-from-my-basket-of-deplorables.html",
+"snippet": "I had an unyielding week, scolded by Donald Trump at The Times and my conservative family at Thanksgiving.",
+"print_page": "11",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/11/27/opinion/sunday/27dowdSUB2/27dowdSUB2-articleLarge.jpg",
+"height": 450,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2016/11/27/opinion/sunday/27dowdSUB2/27dowdSUB2-articleLarge.jpg",
+"xlargeheight": 450
+}
+},
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/11/27/opinion/sunday/27dowdSUB2/27dowdSUB2-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/11/27/opinion/sunday/27dowdSUB2/27dowdSUB2-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/11/27/opinion/sunday/27dowdSUB2/27dowdSUB2-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2016/11/27/opinion/sunday/27dowdSUB2/27dowdSUB2-thumbStandard.jpg",
+"thumbnailwidth": 75
+}
+}
+],
+"headline": {
+"main": "Election Therapy From My Basket of Deplorables",
+"kicker": "Op-Ed Columnist",
+"print_headline": "No Blubbering, Just Trump Bubbly"
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "persons",
+"value": "Trump, Donald J"
+},
+{
+"isMajor": "N",
+"rank": 2,
+"name": "subject",
+"value": "United States Politics and Government"
+},
+{
+"isMajor": "N",
+"rank": 3,
+"name": "subject",
+"value": "Presidential Election of 2016"
+},
+{
+"isMajor": "N",
+"rank": 4,
+"name": "persons",
+"value": "Clinton, Hillary Rodham"
+},
+{
+"isMajor": "N",
+"rank": 5,
+"name": "persons",
+"value": "Obama, Barack"
+}
+],
+"pub_date": "2016-11-26T19:30:25+0000",
+"document_type": "article",
+"new_desk": "OpEd",
+"section_name": "Sunday Review",
+"byline": {
+"original": "By MAUREEN DOWD"
+},
+"type_of_material": "Op-Ed",
+"_id": "5839e2d695d0e039260729dc",
+"word_count": 855,
+"score": 2.4750912e-7,
+"uri": "nyt://article/f4de674d-d1df-5df0-9011-bfeb8745a766"
+},
+{
+"web_url": "https://www.nytimes.com/2016/11/25/fashion/holiday-coffee-table-books.html",
+"snippet": "Need an escape from the pall of politics? Sink into glossy pages that chronicle movie stars on holiday, kitties in windows or just great clothes.",
+"print_page": "8",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Holiday Books About Pearls, Parties and Peace",
+"kicker": "Books of Style",
+"print_headline": "The Coffee Table Never Purred So Loudly"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Books and Literature"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Bardot, Brigitte"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Kahlo, Frida"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "Elizabeth I, Queen of Great Britain"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Obama, Barack"
+}
+],
+"pub_date": "2016-11-25T20:58:15+0000",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By JEREMY ALLEN"
+},
+"type_of_material": "News",
+"_id": "5838a5ef95d0e03926072861",
+"word_count": 1082,
+"score": 1.7898729e-7
+},
+{
+"web_url": "https://www.nytimes.com/2016/11/22/arts/how-conservative-sites-turn-celebrity-despair-on-its-head.html",
+"snippet": "Conservative news outlets are busy cataloging the reactions of aggrieved celebrities who are inadvertently energizing the opposition.",
+"abstract": "Amanda Hess Critic's Notebook explains how political actions of liberal celebrities are reframed by right-wing news outlets, including Breitbart News Network, to easily galvanize conservatives against them and their views.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/11/22/arts/23CELEBS1/23CELEBS1-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/11/22/arts/23CELEBS1/23CELEBS1-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/11/22/arts/23CELEBS2/22CELEBS2-articleLarge.jpg",
+"height": 901,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/11/22/arts/23CELEBS2/22CELEBS2-articleLarge.jpg",
+"xlargeheight": "901"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/11/22/arts/23CELEBS1/23CELEBS1-thumbStandard-v5.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/11/22/arts/23CELEBS1/23CELEBS1-thumbStandard-v5.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "How Conservative Sites Turn Celebrity Despair on Its Head",
+"kicker": "Critic's Notebook",
+"print_headline": "How Conservative Sites Turn Celebrity Despair on Its Head"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Presidential Election of 2016"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Celebrities"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "News and News Media"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "organizations",
+"value": "Breitbart News Network LLC"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Dunham, Lena"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "persons",
+"value": "Lady Gaga"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "persons",
+"value": "Bannon, Stephen K"
+},
+{
+"isMajor": null,
+"rank": 8,
+"name": "persons",
+"value": "Trump, Donald J"
+},
+{
+"isMajor": null,
+"rank": 9,
+"name": "subject",
+"value": "Music"
+}
+],
+"pub_date": "2016-11-22T11:00:18+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"byline": {
+"original": "By AMANDA HESS"
+},
+"type_of_material": "News",
+"_id": "5834254c95d0e03926071e3b",
+"word_count": 1269,
+"score": 1.3579364e-7
+},
+{
+"web_url": "https://www.nytimes.com/2016/11/01/fashion/celebrity-halloween-costumes.html",
+"snippet": "Beyoncé, Marc Jacobs and Katy Perry were among the celebrities who chronicled their evening on social media.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Halloween, Instagram Style"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Halloween"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Alba, Jessica"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Bloom, Orlando"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "Knowles, Beyonce"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Stewart, Martha"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "persons",
+"value": "Schumer, Amy"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "persons",
+"value": "Jacobs, Marc"
+},
+{
+"isMajor": null,
+"rank": 8,
+"name": "persons",
+"value": "Jenner, Kylie"
+}
+],
+"pub_date": "2016-11-01T10:22:30Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By BONNIE WERTHEIM"
+},
+"type_of_material": "News",
+"_id": "58186cec95d0e022439c65e2",
+"word_count": 323,
+"score": 6.34947e-8
+},
+{
+"web_url": "https://www.nytimes.com/2016/11/09/fashion/covergirl-beauty-hijab.html",
+"snippet": "Nura Afia, a Colorado mother, joins celebrities like Sofia Vergara and Katy Perry as a representative for the cosmetics giant.",
+"print_page": "11",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/11/09/fashion/09OTRCOVER/09OTRCOVER-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/11/09/fashion/09OTRCOVER/09OTRCOVER-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/11/09/fashion/09OTRCOVER/09OTRCOVER-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/11/09/fashion/09OTRCOVER/09OTRCOVER-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/11/09/fashion/09OTRCOVER/09OTRCOVER-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/11/09/fashion/09OTRCOVER/09OTRCOVER-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "CoverGirl Signs Its First Ambassador in a Hijab",
+"print_headline": "CoverGirl Signs Muslim Ambassador"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Cosmetics and Toiletries"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Muslim Veiling"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Muslims and Islam"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Advertising and Marketing"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Afia, Nura"
+}
+],
+"pub_date": "2016-11-09T10:30:04Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By ELIZABETH PATON"
+},
+"type_of_material": "News",
+"_id": "5822fab495d0e0204d55f7bd",
+"word_count": 755,
+"score": 5.7173832e-8
+},
+{
+"web_url": "https://www.nytimes.com/2016/11/09/us/politics/celebrities-voting.html",
+"snippet": "Here’s a live roundup of famous faces at the polls, on the campaign trail and outer space.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/11/08/us/08xp-celebvote/08xp-celebvote-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/11/08/us/08xp-celebvote/08xp-celebvote-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/11/08/us/08xp-celebvote/08xp-celebvote-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/11/08/us/08xp-celebvote/08xp-celebvote-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/11/08/us/08xp-celebvote/08xp-celebvote-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/11/08/us/08xp-celebvote/08xp-celebvote-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Celebrities Are Voting, Then Putting Stickers on Their Faces"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Presidential Election of 2016"
+}
+],
+"pub_date": "2016-11-08T18:00:55Z",
+"document_type": "article",
+"new_desk": "National",
+"section_name": "Politics",
+"byline": {
+"original": "By JONAH ENGEL BROMWICH"
+},
+"type_of_material": "News",
+"_id": "582212de95d0e0204d55f5a2",
+"word_count": 703,
+"score": 5.4000324e-8
+},
+{
+"web_url": "https://www.nytimes.com/2016/11/11/business/international/alibaba-singles-day-slowdown.html",
+"snippet": "Friday’s sales day pushes past last year’s total, but the company faces pressure from slowing Chinese growth and an American inquiry into its figures.",
+"print_page": "2",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2016/11/12/world/11SINGLESDAY-4/11SINGLESDAY-4-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2016/11/12/world/11SINGLESDAY-4/11SINGLESDAY-4-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2016/11/12/world/11SINGLESDAY-4/11SINGLESDAY-4-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2016/11/12/world/11SINGLESDAY-4/11SINGLESDAY-4-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2016/11/12/world/11SINGLESDAY-4/11SINGLESDAY-4-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2016/11/12/world/11SINGLESDAY-4/11SINGLESDAY-4-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Alibaba, Amid Intense Hype, Confronts a Slowdown on Singles Day",
+"print_headline": "Alibaba, Facing Increased Scrutiny, Confronts Slowdown on Singles Day"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "organizations",
+"value": "Alibaba Group Holding Ltd"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Ma, Jack"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "glocations",
+"value": "China"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Economic Conditions and Trends"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "E-Commerce"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "subject",
+"value": "Computers and the Internet"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "subject",
+"value": "Consumer Behavior"
+}
+],
+"pub_date": "2016-11-10T13:05:43Z",
+"document_type": "article",
+"new_desk": "Business",
+"section_name": "International Business",
+"byline": {
+"original": "By PAUL MOZUR"
+},
+"type_of_material": "News",
+"_id": "582470ae95d0e0204d55fb47",
+"word_count": 1277,
+"score": 5.1252137e-8
+}
+],
+"meta": {
+"hits": 117,
+"offset": 0,
+"time": 15
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 97
+},
+{
+"term": "",
+"count": 18
+},
+{
+"term": "Internet Video Archive",
+"count": 1
+},
+{
+"term": "Reuters",
+"count": 1
+}
+]
+}
+}
+}
+}

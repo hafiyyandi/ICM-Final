@@ -1,0 +1,1073 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2012/12/30/nyregion/a-wish-list-for-the-new-year.html",
+"snippet": "Among the changes that would be welcome in the city are more pay for low-wage workers, a return of junk food at sports arenas and some philanthropy for parks that really need the money.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/30/nyregion/30BIGCITY_SPAN/30BIGCITY_SPAN-articleLarge-v2.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2012/12/30/nyregion/30BIGCITY_SPAN/30BIGCITY_SPAN-articleLarge-v2.jpg",
+"xlargeheight": 400
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/30/nyregion/30BIGCITY_SPAN/30BIGCITY_SPAN-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2012/12/30/nyregion/30BIGCITY_SPAN/30BIGCITY_SPAN-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/30/nyregion/30BIGCITY_SPAN/30BIGCITY_SPAN-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2012/12/30/nyregion/30BIGCITY_SPAN/30BIGCITY_SPAN-thumbStandard-v2.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "A Wish List for Next Year in New York",
+"kicker": "Big City",
+"content_kicker": "Big City",
+"print_headline": "A Wish List for Next Year",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "glocations",
+"value": "New York City",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Minimum Wage",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Food",
+"rank": 3,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Parks and Other Recreation Areas",
+"rank": 4,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Real Estate and Housing (Residential)",
+"rank": 5,
+"major": "N"
+},
+{
+"name": "organizations",
+"value": "Barclays Center (NYC)",
+"rank": 6,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Two Thousand Thirteen",
+"rank": 7,
+"major": "N"
+}
+],
+"pub_date": "2012-12-29T05:32:35+0000",
+"document_type": "article",
+"new_desk": "Metro",
+"byline": {
+"original": "By GINIA BELLAFANTE",
+"person": [
+{
+"firstname": "Ginia",
+"middlename": null,
+"lastname": "BELLAFANTE",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "50de826900315214fbb819c5",
+"word_count": 1028,
+"score": 0,
+"uri": "nyt://article/d47c224b-c230-56eb-938c-bddabb31fc56"
+},
+{
+"web_url": "https://mediadecoder.blogs.nytimes.com/2012/12/27/the-breakfast-meeting-gun-laws-may-trip-up-nbc-and-a-third-act-for-some-stars/",
+"snippet": "The Washington, D.C., police are investigating the gun equipment shown on \"Meet the Press\"; a newspapers map of legal handgun owners raises an outcry; for former stars like George Takei and Sally Jessy Raphael there is new life online; and more.",
+"abstract": "The Washington, D.C., police are investigating the gun equipment shown on \"Meet the Press\"; a newspapers map of legal handgun owners raises an outcry; for former stars like George Takei and Sally Jessy Raphael there is new life online; and more.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "The Breakfast Meeting: Gun Laws May Trip Up NBC, and a Third Act for Some Stars",
+"kicker": "Media Decoder",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "persons",
+"value": "Gregory, David",
+"rank": 1,
+"major": null
+},
+{
+"name": "persons",
+"value": "Kron, Joan",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "LaPierre, Wayne",
+"rank": 3,
+"major": null
+},
+{
+"name": "glocations",
+"value": "Washington (DC)",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "National Broadcasting Co",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "National Rifle Assn",
+"rank": 2,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Netflix Inc",
+"rank": 3,
+"major": null
+}
+],
+"pub_date": "2012-12-27T10:20:37Z",
+"document_type": "blogpost",
+"section_name": "Media &amp; Advertising",
+"byline": {
+"original": "By NOAM COHEN",
+"person": [
+{
+"firstname": "Noam",
+"middlename": null,
+"lastname": "COHEN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "50dc68e000315214fbb81561",
+"word_count": 451,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2012/12/27/fashion/careers-of-former-stars-renewed-by-social-media.html",
+"snippet": "Former stars adept at using social media find they are not forgotten, after all.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/27/fashion/27REBIRTH_SPAN/27REBIRTH_SPAN-articleLarge.jpg",
+"height": 387,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2012/12/27/fashion/27REBIRTH_SPAN/27REBIRTH_SPAN-articleLarge.jpg",
+"xlargeheight": 387
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/27/fashion/27REBIRTH_SPAN/27REBIRTH_SPAN-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2012/12/27/fashion/27REBIRTH_SPAN/27REBIRTH_SPAN-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Tasting Fame Again, Tweet by Tweet",
+"kicker": "",
+"content_kicker": "",
+"print_headline": "Tasting Fame Again, Tweet by Tweet",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Social Networking (Internet)",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Celebrities",
+"rank": 2,
+"major": "N"
+}
+],
+"pub_date": "2012-12-26T21:36:37+0000",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By JOE POMPEO",
+"person": [
+{
+"firstname": "Joe",
+"middlename": null,
+"lastname": "POMPEO",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "59382a1295d0e024b5875756",
+"word_count": 1297,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2012/12/24/sports/2012-a-look-back-at-the-year-in-sports-and-beyond.html",
+"snippet": "Reporters and editors from The New York Times recall the people, teams and moments that made 2012 memorable, and in some cases look ahead to 2013.",
+"print_page": "6",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/31/sports/basketball/hoffman-2/hoffman-2-articleLarge.jpg",
+"height": 385,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2012/12/31/sports/basketball/hoffman-2/hoffman-2-articleLarge.jpg",
+"xlargeheight": 385
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/31/sports/basketball/hoffman-2/hoffman-2-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2012/12/31/sports/basketball/hoffman-2/hoffman-2-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+}
+],
+"headline": {
+"main": "A Look Back, and Beyond",
+"kicker": "",
+"content_kicker": "",
+"print_headline": "2012: A Look Back, and Beyond",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Basketball",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Golf",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Baseball",
+"rank": 3,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Football",
+"rank": 4,
+"major": "N"
+},
+{
+"name": "organizations",
+"value": "Oakland Athletics",
+"rank": 5,
+"major": "N"
+},
+{
+"name": "organizations",
+"value": "Chicago Bulls",
+"rank": 6,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Rose, Derrick",
+"rank": 7,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "McCarthy, Brandon",
+"rank": 8,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Woods, Tiger",
+"rank": 9,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Instant Replay (Sports)",
+"rank": 10,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Officiating (Sports)",
+"rank": 11,
+"major": "N"
+}
+],
+"pub_date": "2012-12-24T01:31:23+0000",
+"document_type": "article",
+"new_desk": "Sports",
+"byline": {
+"original": "Compiled by THE NEW YORK TIMES",
+"person": [],
+"organization": "The New York Times"
+},
+"type_of_material": "News",
+"_id": "593829e095d0e024b587574e",
+"word_count": 18381,
+"score": 0,
+"uri": "nyt://article/bbfd9ffd-222f-59f8-bdcc-9afbb3a47fa2"
+},
+{
+"web_url": "https://www.nytimes.com/2012/12/22/technology/instagram-reversal-doesnt-appease-everyone.html",
+"snippet": "Even as the social network furiously backpedaled on its proposal to change its privacy terms, some users said they were carrying through on plans to leave.",
+"abstract": "Facebook's quick reversal after angering users by posting new privacy terms for its photo-sharing service Instagram may be too little, too late; some users say they are carrying through on plans to leave.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/22/business/subINSTAGRAM/subINSTAGRAM-thumbWide-v2.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2012/12/22/business/subINSTAGRAM/subINSTAGRAM-thumbWide-v2.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/22/business/subINSTAGRAM/subINSTAGRAM-articleLarge-v2.jpg",
+"height": 449,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2012/12/22/business/subINSTAGRAM/subINSTAGRAM-articleLarge-v2.jpg",
+"xlargeheight": "449"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/22/business/subINSTAGRAM/subINSTAGRAM-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2012/12/22/business/subINSTAGRAM/subINSTAGRAM-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Instagram Reversal Doesn’t Appease Everyone",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Instagram Reversal Doesn’t Appease Everyone",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "organizations",
+"value": "Instagram Inc",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Facebook Inc",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Social Networking (Internet)",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Online Advertising",
+"rank": 4,
+"major": null
+},
+{
+"name": "subject",
+"value": "Computers and the Internet",
+"rank": 5,
+"major": null
+},
+{
+"name": "subject",
+"value": "Photography",
+"rank": 6,
+"major": null
+},
+{
+"name": "subject",
+"value": "Privacy",
+"rank": 7,
+"major": null
+}
+],
+"pub_date": "2012-12-22T00:00:00Z",
+"document_type": "article",
+"new_desk": "Business",
+"byline": {
+"original": "By DAVID STREITFELD and NICOLE PERLROTH",
+"person": [
+{
+"firstname": "David",
+"middlename": null,
+"lastname": "STREITFELD",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+},
+{
+"firstname": "Nicole",
+"middlename": null,
+"lastname": "PERLROTH",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 2
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "50d5180800315214fbb80ce4",
+"word_count": 1003,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2012/12/23/fashion/for-tracy-anderson-fitness-expert-always-a-new-move.html",
+"snippet": "Tracy Anderson’s popular fitness classes have gained her devoted clients and more than a few competitors.",
+"abstract": "Profile of Tracy Anderson, popular fitness guru whose muscle-toning classes have gained her devoted clients and more than a few competitors.",
+"print_page": "8",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/23/fashion/23TRACY1_SPAN/23TRACY1_SPAN-articleLarge.jpg",
+"height": 360,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2012/12/23/fashion/23TRACY1_SPAN/23TRACY1_SPAN-articleLarge.jpg",
+"xlargeheight": "360"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/23/fashion/23TRACY1_SPAN/23TRACY1_SPAN-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2012/12/23/fashion/23TRACY1_SPAN/23TRACY1_SPAN-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "High Energy Is Part of the Package",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "High Energy Is Part of the Package",
+"name": null,
+"seo": "For Tracy Anderson, Fitness Expert, Always a New Move",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Exercise",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Health Clubs",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Anderson, Tracy",
+"rank": 3,
+"major": null
+}
+],
+"pub_date": "2012-12-23T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By COURTNEY RUBIN",
+"person": [
+{
+"firstname": "Courtney",
+"middlename": null,
+"lastname": "RUBIN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "50d3cdd900315214fbb80977",
+"word_count": 1357,
+"score": 0
+},
+{
+"web_url": "https://thelede.blogs.nytimes.com/2012/12/19/bahrain-jails-activist-for-covering-protests-on-twitter/",
+"snippet": "Bahrain jailed a leading human rights activist on Monday for tweets documenting a protest in the capital, Manama.",
+"abstract": "Bahrain jailed a leading human rights activist on Monday for tweets documenting a protest in the capital, Manama.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Bahrain Jails Activist for Covering Protests on Twitter",
+"kicker": "The Lede",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "glocations",
+"value": "Bahrain",
+"rank": 1,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Twitter",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Middle East and North Africa Unrest (2010- )",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2012-12-19T19:35:40Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By LIAM STACK and ROBERT MACKEY",
+"person": [
+{
+"firstname": "Liam",
+"middlename": null,
+"lastname": "STACK",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+},
+{
+"firstname": "Robert",
+"middlename": null,
+"lastname": "MACKEY",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 2
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "50d25ea200315214fbb8055f",
+"word_count": 1150,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2012/12/09/fashion/art-basel-miami-beach-continues-to-party.html",
+"snippet": "Thursday marked the official opening of Art Basel Miami Beach, but the partying was well into its third night.",
+"abstract": "A-list celebrities dance and trade art tips during flurry of parties, dinners and events held on official opening night of Art Basel Miami Beach.",
+"print_page": "16",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/07/fashion/20121207_scene-slide-CWKH/20121207_scene-slide-CWKH-articleLarge.jpg",
+"height": 330,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2012/12/07/fashion/20121207_scene-slide-CWKH/20121207_scene-slide-CWKH-articleLarge.jpg",
+"xlargeheight": "330"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/07/fashion/20121207_scene-slide-CWKH/20121207_scene-slide-CWKH-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2012/12/07/fashion/20121207_scene-slide-CWKH/20121207_scene-slide-CWKH-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Parties Precede and Proceed",
+"kicker": "Scene City",
+"content_kicker": "Scene City",
+"print_headline": "Parties Precede and Proceed",
+"name": null,
+"seo": "Art Basel Miami Beach Continues to Party",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Art",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Art Basel Miami Beach",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Parties (Social)",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Brant, Peter II",
+"rank": 4,
+"major": null
+},
+{
+"name": "persons",
+"value": "Rodriguez, Alex",
+"rank": 5,
+"major": null
+},
+{
+"name": "persons",
+"value": "Kardashian, Kim",
+"rank": 6,
+"major": null
+},
+{
+"name": "persons",
+"value": "Niarchos, Stavros",
+"rank": 7,
+"major": null
+},
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 8,
+"major": null
+},
+{
+"name": "glocations",
+"value": "Miami Beach (Fla)",
+"rank": 9,
+"major": null
+}
+],
+"pub_date": "2012-12-09T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By JULIA CHAPLIN",
+"person": [
+{
+"firstname": "Julia",
+"middlename": null,
+"lastname": "CHAPLIN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "50c2565a00315214fbb7e435",
+"word_count": 401,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/slideshow/2012/12/09/travel/20121209-HOWTOPACK.html",
+"snippet": "Three travelers headed for the mountains share their ski-trip packing tips.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/09/travel/09-packing-sf/09-packing-sf-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2012/12/09/travel/09-packing-sf/09-packing-sf-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2012/12/09/travel/09-packing-sf/09-packing-sf-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2012/12/09/travel/09-packing-sf/09-packing-sf-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Packing for the Slopes",
+"kicker": null,
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Fashion and Apparel",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Skiing",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Kardashian, Kim",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Travel and Vacations",
+"rank": 4,
+"major": null
+}
+],
+"pub_date": "2012-12-09T00:00:00Z",
+"document_type": "multimedia",
+"new_desk": "Travel",
+"byline": {
+"original": "By ELLEN TIEN",
+"person": [
+{
+"firstname": "Ellen",
+"middlename": null,
+"lastname": "TIEN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Slideshow",
+"_id": "513e060fcf28d04ae000209d",
+"word_count": 11,
+"score": 0
+},
+{
+"web_url": "https://thelede.blogs.nytimes.com/2012/12/03/bahrains-embrace-of-kim-kardashian/",
+"snippet": "Bahrain's continuing attempt to change the subject of international conversation about the kingdom away from its crackdown on dissent took an awkward turn over the weekend, with a visit from Kim Kardashian.",
+"abstract": "Bahrain's continuing attempt to change the subject of international conversation about the kingdom away from its crackdown on dissent took an awkward turn over the weekend, with a visit from Kim Kardashian.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Bahrain's Embrace of Kim Kardashian",
+"kicker": "The Lede",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "persons",
+"value": "Kardashian, Kim",
+"rank": 1,
+"major": null
+},
+{
+"name": "glocations",
+"value": "Bahrain",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Celebrities",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2012-12-03T16:04:54Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By ROBERT MACKEY",
+"person": [
+{
+"firstname": "Robert",
+"middlename": null,
+"lastname": "MACKEY",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "50be627f00315214fbb7d6ea",
+"word_count": 930,
+"score": 0
+}
+],
+"meta": {
+"hits": 129,
+"offset": 0,
+"time": 35
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 126
+},
+{
+"term": "International Herald Tribune",
+"count": 3
+}
+]
+}
+}
+}
+}

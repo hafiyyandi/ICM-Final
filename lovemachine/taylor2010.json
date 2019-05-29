@@ -1,0 +1,554 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2010/12/30/fashion/30Year.html",
+"snippet": "From Chelsea Clinton’s wedding to Willow Smith’s “Whip My Hair” video, here are the top topics on the minds of New Yorkers this year.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2010/12/30/fashion/30yearspan/30yearspan-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2010/12/30/fashion/30yearspan/30yearspan-articleLarge.jpg",
+"xlargeheight": 400
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2010/12/30/fashion/30yearspan/30yearspan-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2010/12/30/fashion/30yearspan/30yearspan-thumbStandard.jpg",
+"thumbnailwidth": 75
+}
+}
+],
+"headline": {
+"main": "The 110 Things New Yorkers Talked About in 2010",
+"kicker": "",
+"print_headline": "The 110 Things New Yorkers Talked About in 2010"
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "subject",
+"value": "Gossip"
+}
+],
+"pub_date": "2010-12-29T17:57:51+0000",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By STUART EMMRICH"
+},
+"type_of_material": "List",
+"_id": "5400b43538f0d841b2f38487",
+"word_count": 1255,
+"score": 0,
+"uri": "nyt://article/dda1bb0a-a74b-53e1-bc77-d6cc6055e44d"
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2010/12/29/a-green-christmas-for-taylor-swift/",
+"snippet": "Her latest album retains the top spot on the Billboard chart.",
+"abstract": "Her latest album retains the top spot on the Billboard chart.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "A Green Christmas for Taylor Swift",
+"kicker": "ArtsBeat"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "type_of_material",
+"value": "News"
+}
+],
+"pub_date": "2010-12-29T12:30:06Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "Blog",
+"_id": "4fd39e338eb7c8105d8e093f",
+"word_count": 400,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/26/arts/music/26browne.html",
+"snippet": "Melisma — the vocal technique of packing notes into one syllable — was long championed by singers like Mariah Carey. New stars like Kesha eschew such pyrotechnics.",
+"print_page": "25",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2010/12/26/arts/BROWNE-1/BROWNE-1-articleLarge.jpg",
+"height": 330,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2010/12/26/arts/BROWNE-1/BROWNE-1-articleLarge.jpg",
+"xlargeheight": "330"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2010/12/26/arts/BROWNE-1/BROWNE-1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/26/arts/BROWNE-1/BROWNE-1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Trilling Songbirds Clip Their Wings",
+"print_headline": "Trilling Songbirds Clip Their Wings"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Carey, Mariah"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Aguilera, Christina"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "Houston, Whitney"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Kesha"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "persons",
+"value": "Lady Gaga"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "persons",
+"value": "Perry, Katy"
+}
+],
+"pub_date": "2010-12-26T00:00:00Z",
+"document_type": "article",
+"new_desk": "0",
+"section_name": "Music",
+"byline": {
+"original": "By DAVID BROWNE"
+},
+"type_of_material": "News",
+"_id": "54218a4b38f0d81f7a6019ff",
+"word_count": 1117,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2010/12/23/popcast-the-year-in-pop-and-jazz-part-ii/",
+"snippet": "New York Times pop and jazz critics Jon Pareles, Jon Caramanica, Ben Ratliff and Nate Chinen discuss their favorite singles of 2010.",
+"abstract": "New York Times pop and jazz critics Jon Pareles, Jon Caramanica, Ben Ratliff and Nate Chinen discuss their favorite singles of 2010.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Popcast: The Year in Pop and Jazz Part II",
+"kicker": "ArtsBeat"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "type_of_material",
+"value": "News"
+}
+],
+"pub_date": "2010-12-23T10:18:14Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By THE NEW YORK TIMES"
+},
+"type_of_material": "Blog",
+"_id": "4fd39db48eb7c8105d8df81d",
+"word_count": 253,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/23/fashion/23crib.html",
+"snippet": "Michelle Obama, “Spider-Man,” and other names in the news this week.",
+"print_page": "7",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "The 10 Things to Talk About This Weekend",
+"kicker": "Crib Sheet",
+"print_headline": "The 10 Things to Talk About This Weekend"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Gossip"
+}
+],
+"pub_date": "2010-12-23T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By HENRY ALFORD"
+},
+"type_of_material": "List",
+"_id": "5421924138f0d81f7a601ab6",
+"word_count": 209,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2010/12/22/jackson-no-match-for-swift-and-boyle/",
+"snippet": "His new album opens at No. 3 on the Billboard chart.",
+"abstract": "His new album opens at No. 3 on the Billboard chart.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Jackson No Match for Swift and Boyle",
+"kicker": "ArtsBeat"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Jackson, Michael"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "type_of_material",
+"value": "News"
+}
+],
+"pub_date": "2010-12-22T14:14:09Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "Blog",
+"_id": "4fd39df58eb7c8105d8dffb7",
+"word_count": 294,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2010/12/16/2010-in-the-rearview-mirror/",
+"snippet": "What were your cultural favorites (and least favorites) of this past year?",
+"abstract": "What were your cultural favorites (and least favorites) of this past year?",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "2010, In the Rearview Mirror",
+"kicker": "ArtsBeat"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "type_of_material",
+"value": "News"
+}
+],
+"pub_date": "2010-12-16T12:06:27Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By THE NEW YORK TIMES"
+},
+"type_of_material": "Blog",
+"_id": "4fd39da78eb7c8105d8df65e",
+"word_count": 62,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/19/arts/music/19caramanica.html",
+"snippet": "Of pop note in 2010: A new hip-hop hero, a Taylor Swift juggernaut, Kanye West’s new album and more.",
+"print_page": "21",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2010/12/19/arts/CARAMANICA-2/CARAMANICA-2-articleLarge.jpg",
+"height": 290,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2010/12/19/arts/CARAMANICA-2/CARAMANICA-2-articleLarge.jpg",
+"xlargeheight": "290"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2010/12/19/arts/CARAMANICA-1/CARAMANICA-1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/19/arts/CARAMANICA-1/CARAMANICA-1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "The Purpler the Bruise, the Sweeter the Song",
+"print_headline": "The Purpler the Bruise, The Sweeter the Song"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Drake"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 8,
+"name": "organizations",
+"value": "Titus Andronicus (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "persons",
+"value": "Fabolous"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "persons",
+"value": "Bieber, Justin"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Swift, Taylor"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Rap and Hip-Hop"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "West, Kanye"
+}
+],
+"pub_date": "2010-12-19T00:00:00Z",
+"document_type": "article",
+"new_desk": "0",
+"section_name": "Music",
+"byline": {
+"original": "By JON CARAMANICA"
+},
+"type_of_material": "List",
+"_id": "537a0c7038f0d805525a3559",
+"word_count": 716,
+"score": 0
+},
+{
+"web_url": "https://tmagazine.blogs.nytimes.com/2010/12/13/quote-unquote-swift-move/",
+"snippet": "Taylor Swift shares her beauty tips.",
+"abstract": "Taylor Swift shares her beauty tips.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Quote Unquote | Swift Move",
+"kicker": "T Magazine"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "type_of_material",
+"value": "News"
+}
+],
+"pub_date": "2010-12-13T15:22:51Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By SARAH LEON"
+},
+"type_of_material": "Blog",
+"_id": "4fd39df48eb7c8105d8dff04",
+"word_count": 36,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2010/12/13/arts/television/13comics.html",
+"snippet": "The Web’s effect on comedy copycats is an almost infinite library to steal from.",
+"print_page": "1",
+"blog": {},
+"source": "",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2010/12/13/arts/COMICS/COMICS-articleLarge.jpg",
+"height": 315,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2010/12/13/arts/COMICS/COMICS-articleLarge.jpg",
+"xlargeheight": "315"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2010/12/13/arts/COMICS/COMICS-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2010/12/13/arts/COMICS/COMICS-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Sincerest Form of Flattery: Some Joke!",
+"print_headline": "Sincerest Form of Flattery: Some Joke!"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Computers and the Internet"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Comedy and Humor"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Television"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Blogs and Blogging (Internet)"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "Copyrights and Copyright Violations"
+}
+],
+"pub_date": "2010-12-13T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Television",
+"byline": {
+"original": "By DAVE ITZKOFF"
+},
+"type_of_material": "News",
+"_id": "5421454938f0d81f7a6013e2",
+"word_count": 1323,
+"score": 0
+}
+],
+"meta": {
+"hits": 213,
+"offset": 0,
+"time": 159
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 208
+},
+{
+"term": "",
+"count": 3
+},
+{
+"term": "International Herald Tribune",
+"count": 2
+}
+]
+}
+}
+}
+}

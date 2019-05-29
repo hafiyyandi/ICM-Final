@@ -1,0 +1,914 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2011/12/29/fashion/the-75-things-new-yorkers-talked-about-in-2011.html",
+"snippet": "The 75 things that New Yorkers talked about in the last year, including Republican debate gaffes and royal anatomy.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2011/12/29/fashion/29YEAR_SPAN/29YEAR_SPAN-articleLarge.jpg",
+"height": 306,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2011/12/29/fashion/29YEAR_SPAN/29YEAR_SPAN-articleLarge.jpg",
+"xlargeheight": 306
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2011/12/29/fashion/29YEAR_SPAN/29YEAR_SPAN-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2011/12/29/fashion/29YEAR_SPAN/29YEAR_SPAN-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The 75 Things New Yorkers Talked About in 2011",
+"kicker": "",
+"content_kicker": "",
+"print_headline": "The 75 Things New Yorkers Talked About in 2011",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Fashion and Apparel",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Homosexuality",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Presidential Election of 2012",
+"rank": 3,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+"rank": 4,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Gospel Music",
+"rank": 5,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Gosling, Ryan",
+"rank": 6,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Huffington, Arianna",
+"rank": 7,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Bieber, Justin",
+"rank": 8,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Philbin, Regis",
+"rank": 9,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Minaj, Nicki",
+"rank": 10,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Burton, Sarah",
+"rank": 11,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Cooper, Anderson",
+"rank": 12,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Black, Cathleen P",
+"rank": 13,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Bloomberg, Michael R",
+"rank": 14,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Carson, Johnny",
+"rank": 15,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Franco, James",
+"rank": 16,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Kim Jong Il",
+"rank": 17,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Gossip",
+"rank": 18,
+"major": "N"
+},
+{
+"name": "glocations",
+"value": "New York City",
+"rank": 19,
+"major": "N"
+}
+],
+"pub_date": "2011-12-28T22:54:39+0000",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By STUART EMMRICH",
+"person": [
+{
+"firstname": "Stuart",
+"middlename": null,
+"lastname": "EMMRICH",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5404a4d838f0d8119d1573dd",
+"word_count": 1246,
+"score": 0,
+"uri": "nyt://article/7fc40680-f519-5c67-ab71-530dd193b6a9"
+},
+{
+"web_url": "https://www.nytimes.com/2011/12/29/arts/music/pop-and-jazz-concert-highs-of-2011.html",
+"snippet": "The New York Times’s jazz and pop critics pick their favorite stage performances this year, including shows from Beyoncé, Paul Motian and Paul Simon.",
+"abstract": "Several New York Times music critics recap their most memorable concerts of 2011.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2011/12/29/arts/roundup--1/roundup--1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2011/12/29/arts/roundup--1/roundup--1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Onstage Memories: Concert Highs of 2011",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Onstage Memories",
+"name": null,
+"seo": "Pop and Jazz Concert Highs of 2011",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Music",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Jazz",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Rap and Hip-Hop",
+"rank": 3,
+"major": null
+}
+],
+"pub_date": "2011-12-29T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By JON PARELES",
+"person": [
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "PARELES",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "51e410d97e0d9c0839d2fd3d",
+"word_count": 2180,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/slideshow/2011/12/28/style/20111228BESTSCENE.html",
+"snippet": "The most memorable parties and events of 2011 featured in Scene City.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2011/12/28/style/20111228BESTSCENE-slide-LJGH/20111228BESTSCENE-slide-LJGH-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2011/12/28/style/20111228BESTSCENE-slide-LJGH/20111228BESTSCENE-slide-LJGH-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2011/12/28/style/20111228BESTSCENE-slide-LJGH/20111228BESTSCENE-slide-LJGH-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2011/12/28/style/20111228BESTSCENE-slide-LJGH/20111228BESTSCENE-slide-LJGH-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The Best Parties of 2011",
+"kicker": null,
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Parties (Social)",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Fashion and Apparel",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Lagerfeld, Karl",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Parker, Sarah Jessica",
+"rank": 4,
+"major": null
+},
+{
+"name": "persons",
+"value": "Wintour, Anna",
+"rank": 5,
+"major": null
+},
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 6,
+"major": null
+}
+],
+"pub_date": "2011-12-28T00:00:00Z",
+"document_type": "multimedia",
+"new_desk": "Style",
+"byline": {
+"original": null,
+"person": null,
+"organization": null
+},
+"type_of_material": "Slideshow",
+"_id": "513e0364cf28d04ae000158b",
+"word_count": 12,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2011/12/23/arts/music/pop-and-rock-listings-for-dec-23-29.html",
+"snippet": "A selected guide to pop, rock, folk, country and other music performances in New York and the area.",
+"print_page": "25",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Pop and Rock Listings for Dec. 23-29",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "The Listings",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Nightclubs and Cabarets",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "National Book Awards",
+"rank": 2,
+"major": null
+}
+],
+"pub_date": "2011-12-23T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"section_name": "Music",
+"byline": {
+"original": null,
+"person": null,
+"organization": null
+},
+"type_of_material": "Schedule",
+"_id": "5404721938f0d80e250f4d88",
+"word_count": 1104,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2011/12/22/fashion/the-9-lives-of-carine-roitfeld.html",
+"snippet": "Since she left French Vogue, she has just gotten busier.",
+"abstract": "Carine Roitfeld, former editor of French Vogue, remains a high-profile fixture on the fashion scene as she continues to host wild parties, collaborate with designers and publish Irreverent, a retrospective book of her work.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2011/12/22/fashion/22CARIN1_SPAN/22CARIN1_SPAN-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2011/12/22/fashion/22CARIN1_SPAN/22CARIN1_SPAN-articleLarge.jpg",
+"xlargeheight": "400"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2011/12/22/fashion/22CARIN1_SPAN/22CARIN1_SPAN-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2011/12/22/fashion/22CARIN1_SPAN/22CARIN1_SPAN-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The 9 Lives of Carine Roitfeld",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "The 9 Lives of Carine Roitfeld",
+"name": null,
+"seo": "The 9 Lives of Carine Roitfeld",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Fashion and Apparel",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Models (Professional)",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Design",
+"rank": 3,
+"major": null
+},
+{
+"name": "subject",
+"value": "Paris Fashion Week",
+"rank": 4,
+"major": null
+},
+{
+"name": "organizations",
+"value": "French Vogue",
+"rank": 5,
+"major": null
+},
+{
+"name": "subject",
+"value": "Books and Literature",
+"rank": 6,
+"major": null
+},
+{
+"name": "persons",
+"value": "Roitfeld, Carine",
+"rank": 7,
+"major": null
+},
+{
+"name": "subject",
+"value": "Parties (Social)",
+"rank": 9,
+"major": null
+}
+],
+"pub_date": "2011-12-22T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By ERIC WILSON",
+"person": [
+{
+"firstname": "Eric",
+"middlename": null,
+"lastname": "WILSON",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "515db162cf28d0219d0034df",
+"word_count": 1640,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2011/12/22/arts/music/social-minded-hip-hop-makes-a-comeback.html",
+"snippet": "The rappers Common and Kendrick Lamar demonstrate that that message-driven hip-hop has begun to find a home again.",
+"abstract": "Rappers Common and Kendrick Lamar demonstrate that message-driven, socially conscious hip-hop has begun to find a home again.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2011/12/22/arts/22hiphopcap/22hiphopcap-articleLarge.jpg",
+"height": 330,
+"width": 600,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2011/12/22/arts/22hiphopcap/22hiphopcap-articleLarge.jpg",
+"xlargeheight": "330"
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2011/12/22/arts/22hiphopcap/22hiphopcap-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2011/12/22/arts/22hiphopcap/22hiphopcap-thumbStandard.jpg",
+"thumbnailwidth": "75"
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Social-Minded Hip-Hop Is Making a Comeback",
+"kicker": "Critic’s Notebook",
+"content_kicker": "Critic’s Notebook",
+"print_headline": "Social-Minded Hip-Hop Is Making a Comeback",
+"name": null,
+"seo": "Social-Minded Hip-Hop Makes a Comeback",
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Music",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Rap and Hip-Hop",
+"rank": 2,
+"major": null
+},
+{
+"name": "persons",
+"value": "Lamar, Kendrick",
+"rank": 3,
+"major": null
+}
+],
+"pub_date": "2011-12-22T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By JON CARAMANICA",
+"person": [
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "CARAMANICA",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "515db163cf28d0219d0034e1",
+"word_count": 1332,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2011/12/19/maya-angelou-says-shes-disappointed-with-common-after-collaboration/",
+"snippet": "Ms. Angelou learns that a track from the rapper's coming album on which she appears makes frequent use of a racial epithet.",
+"abstract": "Ms. Angelou learns that a track from the rapper's coming album on which she appears makes frequent use of a racial epithet.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Maya Angelou Says She's Disappointed With Rapper After Collaboration",
+"kicker": "ArtsBeat Blog",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [],
+"pub_date": "2011-12-19T09:39:50Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAVE ITZKOFF",
+"person": [
+{
+"firstname": "Dave",
+"middlename": null,
+"lastname": "ITZKOFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "54f33e9a38f0d8529ba365e1",
+"word_count": 308,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2011/12/19/maya-angelou-says-shes-disappointed-with-common-after-collaboration/",
+"snippet": "Ms. Angelou learns that a track from the rapper's coming album on which she appears makes frequent use of a racial epithet.",
+"abstract": "Ms. Angelou learns that a track from the rapper's coming album on which she appears makes frequent use of a racial epithet.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Maya Angelou Says She's Disappointed With Rapper After Collaboration",
+"kicker": "ArtsBeat",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Rap and Hip-Hop",
+"rank": 4,
+"major": null
+},
+{
+"name": "subject",
+"value": "Music",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Angelou, Maya",
+"rank": 2,
+"major": null
+},
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+}
+],
+"pub_date": "2011-12-19T09:39:50Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By DAVE ITZKOFF",
+"person": [
+{
+"firstname": "Dave",
+"middlename": null,
+"lastname": "ITZKOFF",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd3a2738eb7c8105d8ea702",
+"word_count": 304,
+"score": 0
+},
+{
+"web_url": "https://mediadecoder.blogs.nytimes.com/2011/12/16/a-youtube-takedown-raises-questions-over-media-influence/",
+"snippet": "Universal wanted a promotional video featuring Alicia Keys and Kanye West removed from YouTube. The reason is a little murkier.",
+"abstract": "Universal wanted a promotional video featuring Alicia Keys and Kanye West removed from YouTube. The reason is a little murkier.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "A YouTube Takedown Raises Questions Over Media Influence",
+"kicker": "Media Decoder Blog",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [],
+"pub_date": "2011-12-16T18:49:16Z",
+"document_type": "blogpost",
+"section_name": "Media &amp; Advertising",
+"byline": {
+"original": "By BEN SISARIO",
+"person": [
+{
+"firstname": "Ben",
+"middlename": null,
+"lastname": "SISARIO",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "54f3409838f0d8529ba3664c",
+"word_count": 555,
+"score": 0
+},
+{
+"web_url": "https://mediadecoder.blogs.nytimes.com/2011/12/16/a-youtube-takedown-raises-questions-over-media-influence/",
+"snippet": "Universal wanted a promotional video featuring Alicia Keys and Kanye West removed from YouTube. The reason is a little murkier.",
+"abstract": "Universal wanted a promotional video featuring Alicia Keys and Kanye West removed from YouTube. The reason is a little murkier.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "A YouTube Takedown Raises Questions Over Media Influence",
+"kicker": "Media Decoder",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "persons",
+"value": "Will.i.am",
+"rank": 4,
+"major": null
+},
+{
+"name": "unknown",
+"value": "Google Inc|GOOG|NASDAQ",
+"rank": 10,
+"major": null
+},
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 3,
+"major": null
+},
+{
+"name": "persons",
+"value": "Keys, Alicia",
+"rank": 2,
+"major": null
+},
+{
+"name": "subject",
+"value": "Music",
+"rank": 5,
+"major": null
+},
+{
+"name": "type_of_material",
+"value": "News",
+"rank": 1,
+"major": null
+},
+{
+"name": "subject",
+"value": "Video Recordings and Downloads",
+"rank": 6,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Google Inc",
+"rank": 7,
+"major": null
+},
+{
+"name": "organizations",
+"value": "Universal Music Group",
+"rank": 8,
+"major": null
+},
+{
+"name": "organizations",
+"value": "YouTube.com",
+"rank": 9,
+"major": null
+}
+],
+"pub_date": "2011-12-16T18:49:16Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BEN SISARIO",
+"person": [
+{
+"firstname": "Ben",
+"middlename": null,
+"lastname": "SISARIO",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Blog",
+"_id": "4fd3a20f8eb7c8105d8e97a9",
+"word_count": 547,
+"score": 0
+}
+],
+"meta": {
+"hits": 266,
+"offset": 0,
+"time": 63
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 264
+},
+{
+"term": "International Herald Tribune",
+"count": 2
+}
+]
+}
+}
+}
+}

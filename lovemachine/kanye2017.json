@@ -1,0 +1,2010 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2017/08/25/arts/music/taylor-swift-look-what-you-made-me-do.html",
+"snippet": "Her new single, “Look What You Made Me Do,” is defined by her hardening view of others. The song sets a mood for her sixth album, due in November.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/08/26/insider/26taylor1/26taylor1-articleLarge.jpg",
+"height": 480,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2017/08/26/insider/26taylor1/26taylor1-articleLarge.jpg",
+"xlargeheight": 480
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/08/26/insider/26taylor1/26taylor1-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2017/08/26/insider/26taylor1/26taylor1-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/08/26/insider/26taylor1/26taylor1-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2017/08/26/insider/26taylor1/26taylor1-thumbStandard-v2.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Taylor Swift Goes to a Darker Place: Discuss",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Singing From a Darker Place",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Pop and Rock Music",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Swift, Taylor",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "creative_works",
+"value": "Look What You Made Me Do (Song)",
+"rank": 3,
+"major": "N"
+},
+{
+"name": "creative_works",
+"value": "Reputation (Album)",
+"rank": 4,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 5,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Kardashian, Kim",
+"rank": 6,
+"major": "N"
+}
+],
+"pub_date": "2017-08-25T13:16:52+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By JOE COSCARELLI, JON PARELES, JON CARAMANICA, WESLEY MORRIS and CARYN GANZ",
+"person": [
+{
+"firstname": "Joe",
+"middlename": null,
+"lastname": "COSCARELLI",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+},
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "PARELES",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 2
+},
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "CARAMANICA",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 3
+},
+{
+"firstname": "Wesley",
+"middlename": null,
+"lastname": "MORRIS",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 4
+},
+{
+"firstname": "Caryn",
+"middlename": null,
+"lastname": "GANZ",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 5
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "59a0235095d0e0246f2017f6",
+"word_count": 1871,
+"score": 1.08778,
+"uri": "nyt://article/1e8cbb77-bcbf-588d-a050-b2cdeb7fe95f"
+},
+{
+"web_url": "https://www.nytimes.com/2017/08/01/arts/music/kanye-west-lawsuit.html",
+"snippet": "The rapper’s touring company accused the insurance companies of trying to deny a claim after he had to cancel part of the “Saint Pablo” tour for health reasons.",
+"print_page": "3",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/08/02/arts/02xp-kanye/02xp-kanye-articleLarge.jpg",
+"height": 451,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2017/08/02/arts/02xp-kanye/02xp-kanye-articleLarge.jpg",
+"xlargeheight": 451
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/08/02/arts/02xp-kanye/02xp-kanye-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2017/08/02/arts/02xp-kanye/02xp-kanye-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/08/02/arts/02xp-kanye/02xp-kanye-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2017/08/02/arts/02xp-kanye/02xp-kanye-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Kanye West Sues Insurers for $10 Million Over Canceled Tour",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Kanye West Sues Insurers Over Tour",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Suits and Litigation (Civil)",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Music",
+"rank": 3,
+"major": "N"
+},
+{
+"name": "organizations",
+"value": "Lloyd's of London",
+"rank": 4,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Rap and Hip-Hop",
+"rank": 5,
+"major": "N"
+}
+],
+"pub_date": "2017-08-02T02:41:13+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By MATTHEW HAAG",
+"person": [
+{
+"firstname": "Matthew",
+"middlename": null,
+"lastname": "HAAG",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "59813bcf95d0e0246f1fd99e",
+"word_count": 624,
+"score": 0.9852131,
+"uri": "nyt://article/03242fad-d29c-548f-b864-da532b69b535"
+},
+{
+"web_url": "https://www.nytimes.com/video/style/100000005281183/virgil-abloh-in-the-studio.html",
+"snippet": "Virgil Abloh is creative director of Off-White and consultant to Kanye West. Take a tour of his studio, where graphic tees and wedding dresses are part of the same outfit.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/09/29/autossell/ITS_VIRGILABLOH_01/ITS_VIRGILABLOH_01-articleLarge.jpg",
+"height": 338,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2017/09/29/autossell/ITS_VIRGILABLOH_01/ITS_VIRGILABLOH_01-articleLarge.jpg",
+"xlargeheight": 338
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/09/29/autossell/ITS_VIRGILABLOH_01/ITS_VIRGILABLOH_01-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2017/09/29/autossell/ITS_VIRGILABLOH_01/ITS_VIRGILABLOH_01-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/09/29/autossell/ITS_VIRGILABLOH_01/ITS_VIRGILABLOH_01-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2017/09/29/autossell/ITS_VIRGILABLOH_01/ITS_VIRGILABLOH_01-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Virgil Abloh Is Saving Luxury With T-Shirts",
+"kicker": null,
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Fashion and Apparel",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Abloh, Virgil",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "organizations",
+"value": "Off-White (Fashion Label)",
+"rank": 3,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Paris Fashion Week",
+"rank": 4,
+"major": "N"
+}
+],
+"pub_date": "2017-09-28T09:00:13+0000",
+"document_type": "multimedia",
+"byline": {
+"original": "By ALEXANDRA EATON, GUY TREBAY, STEVE BLISS and WILL LLOYD",
+"person": [
+{
+"firstname": "Alexandra",
+"middlename": null,
+"lastname": "EATON",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+},
+{
+"firstname": "Guy",
+"middlename": null,
+"lastname": "TREBAY",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 2
+},
+{
+"firstname": "Steve",
+"middlename": null,
+"lastname": "BLISS",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 3
+},
+{
+"firstname": "Will",
+"middlename": null,
+"lastname": "LLOYD",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 4
+}
+],
+"organization": null
+},
+"type_of_material": "Video",
+"_id": "59ccba2795d0e0246f20cd7c",
+"word_count": 30,
+"score": 0.4922546,
+"uri": "nyt://video/ebee73ef-8aec-5664-b46a-c645f9dad2df"
+},
+{
+"web_url": "https://www.nytimes.com/reuters/2017/11/29/arts/29reuters-people-instagram.html",
+"snippet": "Portuguese soccer star Cristiano Ronaldo muscled his way into Instagram's top-followed ranks this year as he documented his career and growing family, but pop star Selena Gomez still reigned supreme on the social media platform. ",
+"blog": {},
+"source": "Reuters",
+"multimedia": [],
+"headline": {
+"main": "Cristiano Ronaldo Climbs Instagram Ranks, Selena Gomez Most-Followed",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Cristiano Ronaldo Climbs Instagram Ranks, Selena Gomez Most-Followed",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [],
+"pub_date": "2017-11-29T13:12:33+0000",
+"document_type": "article",
+"new_desk": "None",
+"byline": {
+"original": "By REUTERS",
+"person": [],
+"organization": "REUTERS"
+},
+"type_of_material": "News",
+"_id": "5a1eb24895d0e0246f219272",
+"word_count": 412,
+"score": 0.2660958,
+"uri": "nyt://article/486bff8d-7d28-5003-9f6c-a2db526de7d4"
+},
+{
+"web_url": "https://www.nytimes.com/2017/11/09/arts/music/popcast-taylor-swift-reputation-preview.html",
+"snippet": "She hasn’t done interviews, but the pop star has been leaving hints about what to expect on her sixth album. Our writers listen to the signs, on Popcast.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-articleLarge.jpg",
+"xlargeheight": 400
+},
+"subType": "xlarge",
+"crop_name": "articleLarge"
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": "thumbWide"
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2017/11/12/arts/10popcast/10popcast-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": "thumbStandard"
+},
+{
+"rank": 0,
+"subtype": "articleInline",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-articleInline.jpg",
+"height": 127,
+"width": 190,
+"legacy": {},
+"subType": "articleInline",
+"crop_name": "articleInline"
+},
+{
+"rank": 0,
+"subtype": "blog225",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-blog225.jpg",
+"height": 150,
+"width": 225,
+"legacy": {},
+"subType": "blog225",
+"crop_name": "blog225"
+},
+{
+"rank": 0,
+"subtype": "blog427",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-blog427.jpg",
+"height": 285,
+"width": 427,
+"legacy": {},
+"subType": "blog427",
+"crop_name": "blog427"
+},
+{
+"rank": 0,
+"subtype": "blog480",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-blog480.jpg",
+"height": 320,
+"width": 480,
+"legacy": {},
+"subType": "blog480",
+"crop_name": "blog480"
+},
+{
+"rank": 0,
+"subtype": "blog533",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-blog533.jpg",
+"height": 355,
+"width": 533,
+"legacy": {},
+"subType": "blog533",
+"crop_name": "blog533"
+},
+{
+"rank": 0,
+"subtype": "blogSmallInline",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-blogSmallInline.jpg",
+"height": 101,
+"width": 151,
+"legacy": {},
+"subType": "blogSmallInline",
+"crop_name": "blogSmallInline"
+},
+{
+"rank": 0,
+"subtype": "blogSmallThumb",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-blogSmallThumb.jpg",
+"height": 50,
+"width": 50,
+"legacy": {},
+"subType": "blogSmallThumb",
+"crop_name": "blogSmallThumb"
+},
+{
+"rank": 0,
+"subtype": "facebookJumbo",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-facebookJumbo.jpg",
+"height": 549,
+"width": 1050,
+"legacy": {},
+"subType": "facebookJumbo",
+"crop_name": "facebookJumbo"
+},
+{
+"rank": 0,
+"subtype": "filmstrip",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-filmstrip.jpg",
+"height": 190,
+"width": 190,
+"legacy": {},
+"subType": "filmstrip",
+"crop_name": "filmstrip"
+},
+{
+"rank": 0,
+"subtype": "hpLarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-hpLarge.jpg",
+"height": 287,
+"width": 511,
+"legacy": {},
+"subType": "hpLarge",
+"crop_name": "hpLarge"
+},
+{
+"rank": 0,
+"subtype": "hpSmall",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-hpSmall.jpg",
+"height": 109,
+"width": 163,
+"legacy": {},
+"subType": "hpSmall",
+"crop_name": "hpSmall"
+},
+{
+"rank": 0,
+"subtype": "jumbo",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-jumbo.jpg",
+"height": 683,
+"width": 1024,
+"legacy": {},
+"subType": "jumbo",
+"crop_name": "jumbo"
+},
+{
+"rank": 0,
+"subtype": "largeHorizontal375",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-largeHorizontal375.jpg",
+"height": 250,
+"width": 375,
+"legacy": {},
+"subType": "largeHorizontal375",
+"crop_name": "largeHorizontal375"
+},
+{
+"rank": 0,
+"subtype": "largeHorizontalJumbo",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-largeHorizontalJumbo.jpg",
+"height": 683,
+"width": 1024,
+"legacy": {},
+"subType": "largeHorizontalJumbo",
+"crop_name": "largeHorizontalJumbo"
+},
+{
+"rank": 0,
+"subtype": "largeWidescreen573",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-largeWidescreen573.jpg",
+"height": 322,
+"width": 573,
+"legacy": {},
+"subType": "largeWidescreen573",
+"crop_name": "largeWidescreen573"
+},
+{
+"rank": 0,
+"subtype": "largeWidescreen1050",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-largeWidescreen1050.jpg",
+"height": 591,
+"width": 1050,
+"legacy": {},
+"subType": "largeWidescreen1050",
+"crop_name": "largeWidescreen1050"
+},
+{
+"rank": 0,
+"subtype": "master1050",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-master1050.jpg",
+"height": 700,
+"width": 1050,
+"legacy": {},
+"subType": "master1050",
+"crop_name": "master1050"
+},
+{
+"rank": 0,
+"subtype": "master180",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-master180.jpg",
+"height": 120,
+"width": 180,
+"legacy": {},
+"subType": "master180",
+"crop_name": "master180"
+},
+{
+"rank": 0,
+"subtype": "master315",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-master315.jpg",
+"height": 210,
+"width": 315,
+"legacy": {},
+"subType": "master315",
+"crop_name": "master315"
+},
+{
+"rank": 0,
+"subtype": "master495",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-master495.jpg",
+"height": 330,
+"width": 495,
+"legacy": {},
+"subType": "master495",
+"crop_name": "master495"
+},
+{
+"rank": 0,
+"subtype": "master768",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-master768.jpg",
+"height": 512,
+"width": 768,
+"legacy": {},
+"subType": "master768",
+"crop_name": "master768"
+},
+{
+"rank": 0,
+"subtype": "mediumFlexible177",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-mediumFlexible177.jpg",
+"height": 118,
+"width": 177,
+"legacy": {},
+"subType": "mediumFlexible177",
+"crop_name": "mediumFlexible177"
+},
+{
+"rank": 0,
+"subtype": "mediumSquare149",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-mediumSquare149.jpg",
+"height": 149,
+"width": 149,
+"legacy": {},
+"subType": "mediumSquare149",
+"crop_name": "mediumSquare149"
+},
+{
+"rank": 0,
+"subtype": "mediumThreeByTwo210",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-mediumThreeByTwo210.jpg",
+"height": 140,
+"width": 210,
+"legacy": {},
+"subType": "mediumThreeByTwo210",
+"crop_name": "mediumThreeByTwo210"
+},
+{
+"rank": 0,
+"subtype": "mediumThreeByTwo225",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-mediumThreeByTwo225.jpg",
+"height": 150,
+"width": 225,
+"legacy": {},
+"subType": "mediumThreeByTwo225",
+"crop_name": "mediumThreeByTwo225"
+},
+{
+"rank": 0,
+"subtype": "mediumThreeByTwo440",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-mediumThreeByTwo440.jpg",
+"height": 293,
+"width": 440,
+"legacy": {},
+"subType": "mediumThreeByTwo440",
+"crop_name": "mediumThreeByTwo440"
+},
+{
+"rank": 0,
+"subtype": "miniMoth",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-miniMoth.jpg",
+"height": 70,
+"width": 151,
+"legacy": {},
+"subType": "miniMoth",
+"crop_name": "miniMoth"
+},
+{
+"rank": 0,
+"subtype": "moth",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-moth.jpg",
+"height": 151,
+"width": 151,
+"legacy": {},
+"subType": "moth",
+"crop_name": "moth"
+},
+{
+"rank": 0,
+"subtype": "popup",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-popup.jpg",
+"height": 433,
+"width": 650,
+"legacy": {},
+"subType": "popup",
+"crop_name": "popup"
+},
+{
+"rank": 0,
+"subtype": "sfSpan",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-sfSpan.jpg",
+"height": 263,
+"width": 395,
+"legacy": {},
+"subType": "sfSpan",
+"crop_name": "sfSpan"
+},
+{
+"rank": 0,
+"subtype": "slide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-slide.jpg",
+"height": 400,
+"width": 600,
+"legacy": {},
+"subType": "slide",
+"crop_name": "slide"
+},
+{
+"rank": 0,
+"subtype": "smallSquare168",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-smallSquare168.jpg",
+"height": 168,
+"width": 168,
+"legacy": {},
+"subType": "smallSquare168",
+"crop_name": "smallSquare168"
+},
+{
+"rank": 0,
+"subtype": "smallSquare252",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-smallSquare252.jpg",
+"height": 252,
+"width": 252,
+"legacy": {},
+"subType": "smallSquare252",
+"crop_name": "smallSquare252"
+},
+{
+"rank": 0,
+"subtype": "square320",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-square320.jpg",
+"height": 320,
+"width": 320,
+"legacy": {},
+"subType": "square320",
+"crop_name": "square320"
+},
+{
+"rank": 0,
+"subtype": "square640",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-square640.jpg",
+"height": 640,
+"width": 640,
+"legacy": {},
+"subType": "square640",
+"crop_name": "square640"
+},
+{
+"rank": 0,
+"subtype": "superJumbo",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-superJumbo.jpg",
+"height": 1365,
+"width": 2048,
+"legacy": {},
+"subType": "superJumbo",
+"crop_name": "superJumbo"
+},
+{
+"rank": 0,
+"subtype": "thumbLarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-thumbLarge.jpg",
+"height": 150,
+"width": 150,
+"legacy": {},
+"subType": "thumbLarge",
+"crop_name": "thumbLarge"
+},
+{
+"rank": 0,
+"subtype": "tmagArticle",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-tmagArticle.jpg",
+"height": 395,
+"width": 592,
+"legacy": {},
+"subType": "tmagArticle",
+"crop_name": "tmagArticle"
+},
+{
+"rank": 0,
+"subtype": "tmagSF",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-tmagSF.jpg",
+"height": 241,
+"width": 362,
+"legacy": {},
+"subType": "tmagSF",
+"crop_name": "tmagSF"
+},
+{
+"rank": 0,
+"subtype": "verticalTwoByThree735",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-verticalTwoByThree735.jpg",
+"height": 1102,
+"width": 735,
+"legacy": {},
+"subType": "verticalTwoByThree735",
+"crop_name": "verticalTwoByThree735"
+},
+{
+"rank": 0,
+"subtype": "videoFifteenBySeven1305",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoFifteenBySeven1305.jpg",
+"height": 609,
+"width": 1305,
+"legacy": {},
+"subType": "videoFifteenBySeven1305",
+"crop_name": "videoFifteenBySeven1305"
+},
+{
+"rank": 0,
+"subtype": "videoFifteenBySeven2610",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoFifteenBySeven2610.jpg",
+"height": 1218,
+"width": 2610,
+"legacy": {},
+"subType": "videoFifteenBySeven2610",
+"crop_name": "videoFifteenBySeven2610"
+},
+{
+"rank": 0,
+"subtype": "videoHpMedium",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoHpMedium.jpg",
+"height": 211,
+"width": 375,
+"legacy": {},
+"subType": "videoHpMedium",
+"crop_name": "videoHpMedium"
+},
+{
+"rank": 0,
+"subtype": "videoLarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-videoLarge.jpg",
+"height": 507,
+"width": 768,
+"legacy": {},
+"subType": "videoLarge",
+"crop_name": "videoLarge"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine1050",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine1050.jpg",
+"height": 591,
+"width": 1050,
+"legacy": {},
+"subType": "videoSixteenByNine1050",
+"crop_name": "videoSixteenByNine1050"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine150",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine150.jpg",
+"height": 84,
+"width": 150,
+"legacy": {},
+"subType": "videoSixteenByNine150",
+"crop_name": "videoSixteenByNine150"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine225",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine225.jpg",
+"height": 126,
+"width": 225,
+"legacy": {},
+"subType": "videoSixteenByNine225",
+"crop_name": "videoSixteenByNine225"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine3000",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine3000.jpg",
+"height": 1688,
+"width": 3000,
+"legacy": {},
+"subType": "videoSixteenByNine3000",
+"crop_name": "videoSixteenByNine3000"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine310",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine310.jpg",
+"height": 174,
+"width": 310,
+"legacy": {},
+"subType": "videoSixteenByNine310",
+"crop_name": "videoSixteenByNine310"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine390",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine390.jpg",
+"height": 219,
+"width": 390,
+"legacy": {},
+"subType": "videoSixteenByNine390",
+"crop_name": "videoSixteenByNine390"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine480",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine480.jpg",
+"height": 270,
+"width": 480,
+"legacy": {},
+"subType": "videoSixteenByNine480",
+"crop_name": "videoSixteenByNine480"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine495",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine495.jpg",
+"height": 278,
+"width": 495,
+"legacy": {},
+"subType": "videoSixteenByNine495",
+"crop_name": "videoSixteenByNine495"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine540",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine540.jpg",
+"height": 304,
+"width": 540,
+"legacy": {},
+"subType": "videoSixteenByNine540",
+"crop_name": "videoSixteenByNine540"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine600",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine600.jpg",
+"height": 338,
+"width": 600,
+"legacy": {},
+"subType": "videoSixteenByNine600",
+"crop_name": "videoSixteenByNine600"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine768",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine768.jpg",
+"height": 432,
+"width": 768,
+"legacy": {},
+"subType": "videoSixteenByNine768",
+"crop_name": "videoSixteenByNine768"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNine96",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNine96.jpg",
+"height": 54,
+"width": 96,
+"legacy": {},
+"subType": "videoSixteenByNine96",
+"crop_name": "videoSixteenByNine96"
+},
+{
+"rank": 0,
+"subtype": "videoSixteenByNineJumbo1600",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSixteenByNineJumbo1600.jpg",
+"height": 900,
+"width": 1600,
+"legacy": {},
+"subType": "videoSixteenByNineJumbo1600",
+"crop_name": "videoSixteenByNineJumbo1600"
+},
+{
+"rank": 0,
+"subtype": "videoSmall",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-videoSmall.jpg",
+"height": 281,
+"width": 500,
+"legacy": {},
+"subType": "videoSmall",
+"crop_name": "videoSmall"
+},
+{
+"rank": 0,
+"subtype": "videoThumb",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/merlin_125808707_0d302f90-76b2-4844-bc46-2367afec4601-videoThumb.jpg",
+"height": 50,
+"width": 75,
+"legacy": {},
+"subType": "videoThumb",
+"crop_name": "videoThumb"
+},
+{
+"rank": 0,
+"subtype": "watch268",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-watch268.jpg",
+"height": 303,
+"width": 272,
+"legacy": {},
+"subType": "watch268",
+"crop_name": "watch268"
+},
+{
+"rank": 0,
+"subtype": "watch308",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-watch308.jpg",
+"height": 348,
+"width": 312,
+"legacy": {},
+"subType": "watch308",
+"crop_name": "watch308"
+},
+{
+"rank": 0,
+"subtype": "windowsTile336H",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/12/arts/10popcast/10popcast-windowsTile336H.jpg",
+"height": 336,
+"width": 694,
+"legacy": {},
+"subType": "windowsTile336H",
+"crop_name": "windowsTile336H"
+}
+],
+"headline": {
+"main": "Taylor Swift’s ‘Reputation’ Is Almost Here. Let’s Discuss.",
+"kicker": "Popcast",
+"content_kicker": "Popcast",
+"print_headline": "Taylor Swift’s ‘Reputation’ Is Almost Here. Let’s Discuss.",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Pop and Rock Music",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Swift, Taylor",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "creative_works",
+"value": "Look What You Made Me Do (Song)",
+"rank": 3,
+"major": "N"
+},
+{
+"name": "creative_works",
+"value": "Reputation (Album)",
+"rank": 4,
+"major": "N"
+}
+],
+"pub_date": "2017-11-09T17:16:59+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By THE NEW YORK TIMES",
+"person": [],
+"organization": "The New York Times"
+},
+"type_of_material": "News",
+"_id": "5a048d9395d0e0246f214eb8",
+"word_count": 322,
+"score": 0.26532415,
+"uri": "nyt://article/cb5dd0a5-77fe-5f81-9a67-5e081aeabfd4"
+},
+{
+"web_url": "https://www.nytimes.com/interactive/2017/07/12/fashion/best-colette-collaborations.html",
+"snippet": "A timeline of the boutique’s most memorable collaborations.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/07/14/fashion/14COLETTE-SIDE/14COLETTE-SIDE-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2017/07/14/fashion/14COLETTE-SIDE/14COLETTE-SIDE-articleLarge.jpg",
+"xlargeheight": 400
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/07/14/fashion/14COLETTE-SIDE/14COLETTE-SIDE-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2017/07/14/fashion/14COLETTE-SIDE/14COLETTE-SIDE-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/07/14/fashion/14COLETTE-SIDE/14COLETTE-SIDE-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2017/07/14/fashion/14COLETTE-SIDE/14COLETTE-SIDE-thumbStandard-v2.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "The Best of Colette",
+"kicker": "",
+"content_kicker": null,
+"print_headline": null,
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Shopping and Retail",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "organizations",
+"value": "Colette (Paris, France, Retailer)",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Ilincic, Roksanda",
+"rank": 3,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Lagerfeld, Karl",
+"rank": 4,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "West, Kanye",
+"rank": 5,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Wintour, Anna",
+"rank": 6,
+"major": "N"
+},
+{
+"name": "organizations",
+"value": "McDonald's Corporation",
+"rank": 7,
+"major": "N"
+},
+{
+"name": "organizations",
+"value": "Louis Vuitton",
+"rank": 8,
+"major": "N"
+},
+{
+"name": "organizations",
+"value": "Haribo",
+"rank": 9,
+"major": "N"
+}
+],
+"pub_date": "2017-07-12T21:00:53+0000",
+"document_type": "multimedia",
+"new_desk": "Fashion & Style",
+"byline": {
+"original": "By ELIZABETH PATON",
+"person": [
+{
+"firstname": "Elizabeth",
+"middlename": null,
+"lastname": "PATON",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Interactive Feature",
+"_id": "59668e1c95d0e0246f1fa1cb",
+"word_count": 0,
+"score": 0.24878669,
+"uri": "nyt://interactive/cc68dba0-4762-5089-b61c-0692918e8085"
+},
+{
+"web_url": "https://www.nytimes.com/2017/10/29/fashion/weddings/kenzie-biggins-johan-jean.html",
+"snippet": "Kenzie Madelyn Biggins and Johan Jean were married Oct. 28 by the Rev. Dennis Patterson Jr. at Savannah College of Art and Design in Atlanta.",
+"print_page": "14",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/10/29/fashion/weddings/29BIGGINS/29BIGGINS-articleLarge-v2.jpg",
+"height": 354,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2017/10/29/fashion/weddings/29BIGGINS/29BIGGINS-articleLarge-v2.jpg",
+"xlargeheight": 354
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/10/29/fashion/weddings/29BIGGINS/29BIGGINS-thumbWide-v2.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2017/10/29/fashion/weddings/29BIGGINS/29BIGGINS-thumbWide-v2.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/10/29/fashion/weddings/29BIGGINS/29BIGGINS-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2017/10/29/fashion/weddings/29BIGGINS/29BIGGINS-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Kenzie Biggins, Johan Jean",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "Kenzie Biggins,  Johan Jean",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Weddings and Engagements",
+"rank": 1,
+"major": "N"
+}
+],
+"pub_date": "2017-10-29T04:15:00+0000",
+"document_type": "article",
+"new_desk": "Society",
+"section_name": "Weddings",
+"byline": {
+"original": null,
+"person": null,
+"organization": null
+},
+"type_of_material": "News",
+"_id": "59f555ce95d0e0246f212be8",
+"word_count": 315,
+"score": 0.24458231,
+"uri": "nyt://article/a83ac2a7-13f0-56a9-ab7a-1ffcb61d0bd1"
+},
+{
+"web_url": "https://www.nytimes.com/2017/11/23/arts/television/whats-on-tv-thursday-the-macys-parade-and-shes-gotta-have-it.html",
+"snippet": "A variety of programs to watch with your family, or to help you avoid talking to them.",
+"print_page": "7",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/23/arts/23tvcol-macys/23tvcol-macys-articleLarge.jpg",
+"height": 399,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2017/11/23/arts/23tvcol-macys/23tvcol-macys-articleLarge.jpg",
+"xlargeheight": 399
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/23/arts/23tvcol-macys/23tvcol-macys-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2017/11/23/arts/23tvcol-macys/23tvcol-macys-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/23/arts/23tvcol-macys/23tvcol-macys-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2017/11/23/arts/23tvcol-macys/23tvcol-macys-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "What’s on TV Thursday: The Macy’s Parade and ‘She’s Gotta Have It’",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "What’s on Thursday",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Television",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Movies",
+"rank": 2,
+"major": "N"
+}
+],
+"pub_date": "2017-11-23T06:00:13+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Television",
+"byline": {
+"original": "By ANDREW R. CHOW",
+"person": [
+{
+"firstname": "Andrew",
+"middlename": "R.",
+"lastname": "CHOW",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Schedule",
+"_id": "5a1663fb95d0e0246f218361",
+"word_count": 491,
+"score": 0.22534515,
+"uri": "nyt://article/d3921e1b-5c0e-5cbc-9b76-51a9691c80ce"
+},
+{
+"web_url": "https://www.nytimes.com/2017/11/20/fashion/azzedine-alaia-couture-paris.html",
+"snippet": "Almost alone in today’s fashion industry, he understood the value of time to the creative mind and the struggle it took to follow his own direction.",
+"print_page": "6",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/23/us/23alaia-alpha/23alaia-alpha-articleLarge-v2.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2017/11/23/us/23alaia-alpha/23alaia-alpha-articleLarge-v2.jpg",
+"xlargeheight": 400
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/23/us/23alaia-alpha/23alaia-alpha-thumbWide-v2.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2017/11/23/us/23alaia-alpha/23alaia-alpha-thumbWide-v2.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/11/23/us/23alaia-alpha/23alaia-alpha-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2017/11/23/us/23alaia-alpha/23alaia-alpha-thumbStandard-v2.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Remembering Azzedine Alaïa: The Designer Who Took Time",
+"kicker": null,
+"content_kicker": null,
+"print_headline": "The Design World’s Champion of Taking Time",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Fashion and Apparel",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Alaia, Azzedine",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "subject",
+"value": "Couture (Fashion)",
+"rank": 3,
+"major": "N"
+},
+{
+"name": "glocations",
+"value": "Paris (France)",
+"rank": 4,
+"major": "N"
+}
+],
+"pub_date": "2017-11-20T14:05:34+0000",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By VANESSA FRIEDMAN",
+"person": [
+{
+"firstname": "Vanessa",
+"middlename": null,
+"lastname": "FRIEDMAN",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "News",
+"_id": "5a12e13895d0e0246f217aa2",
+"word_count": 1439,
+"score": 0.19253275,
+"uri": "nyt://article/07855942-d773-5905-99fd-e1b7cd59bd20"
+},
+{
+"web_url": "https://www.nytimes.com/2017/10/25/arts/music/weezer-pacific-daydream-review.html",
+"snippet": "The band’s 11th album meshes its fondness for bygone rock eras with the digital arsenal available now.",
+"print_page": "5",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"rank": 0,
+"subtype": "xlarge",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/10/26/arts/26WEEZER1/26WEEZER1-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2017/10/26/arts/26WEEZER1/26WEEZER1-articleLarge.jpg",
+"xlargeheight": 400
+},
+"subType": "xlarge",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "wide",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/10/26/arts/26WEEZER1/26WEEZER1-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"legacy": {
+"wide": "images/2017/10/26/arts/26WEEZER1/26WEEZER1-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+},
+"subType": "wide",
+"crop_name": null
+},
+{
+"rank": 0,
+"subtype": "thumbnail",
+"caption": null,
+"credit": null,
+"type": "image",
+"url": "images/2017/10/26/arts/26WEEZER1/26WEEZER1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2017/10/26/arts/26WEEZER1/26WEEZER1-thumbStandard.jpg",
+"thumbnailwidth": 75
+},
+"subType": "thumbnail",
+"crop_name": null
+}
+],
+"headline": {
+"main": "Weezer’s Pop-Rock Defies a Hip-Hop World on ‘Pacific Daydream’",
+"kicker": "Album Review",
+"content_kicker": "Album Review",
+"print_headline": "Proudly Manning the Rear Guard",
+"name": null,
+"seo": null,
+"sub": null
+},
+"keywords": [
+{
+"name": "subject",
+"value": "Pop and Rock Music",
+"rank": 1,
+"major": "N"
+},
+{
+"name": "organizations",
+"value": "Weezer (Music Group)",
+"rank": 2,
+"major": "N"
+},
+{
+"name": "persons",
+"value": "Cuomo, Rivers",
+"rank": 3,
+"major": "N"
+},
+{
+"name": "creative_works",
+"value": "Pacific Daydream (Album)",
+"rank": 4,
+"major": "N"
+}
+],
+"pub_date": "2017-10-25T17:04:04+0000",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By JON PARELES",
+"person": [
+{
+"firstname": "Jon",
+"middlename": null,
+"lastname": "PARELES",
+"qualifier": null,
+"title": null,
+"role": "reported",
+"organization": "",
+"rank": 1
+}
+],
+"organization": null
+},
+"type_of_material": "Review",
+"_id": "59f0c40e95d0e0246f212146",
+"word_count": 606,
+"score": 0.17636847,
+"uri": "nyt://article/b5b0aade-135a-59e8-9e09-dd1ba9167d77"
+}
+],
+"meta": {
+"hits": 153,
+"offset": 0,
+"time": 54
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 148
+},
+{
+"term": "AP",
+"count": 2
+},
+{
+"term": "International New York Times",
+"count": 2
+},
+{
+"term": "Reuters",
+"count": 1
+}
+]
+}
+}
+}
+}

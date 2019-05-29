@@ -1,0 +1,728 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2012/12/31/arts/television/whats-on-monday.html",
+"snippet": "Television highlights.",
+"print_page": "8",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "What’s on Monday",
+"print_headline": "What’s On Today"
+},
+"keywords": [],
+"pub_date": "2012-12-31T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Television",
+"byline": {
+"original": "By ADAM W. KEPLER"
+},
+"type_of_material": "Schedule",
+"_id": "50e0893400315214fbb81b92",
+"word_count": 717,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2012/12/30/arts/music/the-year-in-pop-viral-stardom-and-martial-dance-music.html",
+"snippet": "The critics Jon Pareles, Ben Ratliff and Jon Caramanica discuss the year’s biggest pop trends, and those that will be reshaping the genre for years to come.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2012/12/30/arts/30ROUNDTABLE_SPAN/30ROUNDTABLE_SPAN-articleLarge.jpg",
+"height": 380,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2012/12/30/arts/30ROUNDTABLE_SPAN/30ROUNDTABLE_SPAN-articleLarge.jpg",
+"xlargeheight": 380
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2012/12/30/arts/30ROUNDTABLE_SPAN/30ROUNDTABLE_SPAN-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2012/12/30/arts/30ROUNDTABLE_SPAN/30ROUNDTABLE_SPAN-thumbStandard.jpg",
+"thumbnailwidth": 75
+}
+}
+],
+"headline": {
+"main": "Mad Science and Pop Hits",
+"kicker": "",
+"print_headline": "Mad Science And Pop Hits"
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "subject",
+"value": "Music"
+}
+],
+"pub_date": "2012-12-28T17:00:11+0000",
+"document_type": "article",
+"new_desk": "Arts&Leisure",
+"section_name": "Music",
+"byline": {
+"original": "By JON PARELES, BEN RATLIFF and JON CARAMANICA"
+},
+"type_of_material": "News",
+"_id": "593f784495d0e024b5877a40",
+"word_count": 2227,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2012/12/28/opinion/Schott-the-year-in-questions.html",
+"snippet": "Answers to the questions to Ben Schott’s end-of-the-year quiz.",
+"print_page": "27",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2012/12/27/opinion/27schott-img/27schott-img-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2012/12/27/opinion/27schott-img/27schott-img-thumbStandard-v2.jpg",
+"thumbnailwidth": 75
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2012/12/27/opinion/27schott-img/27schott-img-articleLarge.jpg",
+"height": 375,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2012/12/27/opinion/27schott-img/27schott-img-articleLarge.jpg",
+"xlargeheight": 375
+}
+},
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2012/12/27/opinion/27schott-img/27schott-img-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2012/12/27/opinion/27schott-img/27schott-img-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+}
+}
+],
+"headline": {
+"main": "Answers to the Year in Questions",
+"kicker": "Op-Chart",
+"print_headline": "Answers to the Year in Questions"
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "subject",
+"value": "Presidential Election of 2012"
+},
+{
+"isMajor": "N",
+"rank": 2,
+"name": "subject",
+"value": "Olympic Games (2012)"
+},
+{
+"isMajor": "N",
+"rank": 3,
+"name": "subject",
+"value": "Books and Literature"
+},
+{
+"isMajor": "N",
+"rank": 4,
+"name": "subject",
+"value": "Movies"
+},
+{
+"isMajor": "N",
+"rank": 5,
+"name": "subject",
+"value": "Two Thousand Twelve"
+}
+],
+"pub_date": "2012-12-27T23:15:28+0000",
+"document_type": "article",
+"new_desk": "OpEd",
+"byline": {
+"original": null
+},
+"type_of_material": "Op-Ed",
+"_id": "59382a2995d0e024b5875760",
+"word_count": 692,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2012/12/28/arts/looking-ahead-culture-picks-for-2013.html",
+"snippet": "Looking ahead to the new year’s offerings in music, theater, film, TV and video games in New York.",
+"abstract": "Daniel J Wakin introduces picks from New York Times critics, reporters and editors for their favorite arts possibilities for 2013.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2012/12/28/arts/28HELLER_SPAN/28HELLER_SPAN-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2012/12/28/arts/28HELLER_SPAN/28HELLER_SPAN-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2012/12/28/arts/28HELLER_SPAN/28HELLER_SPAN-articleLarge-v2.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2012/12/28/arts/28HELLER_SPAN/28HELLER_SPAN-articleLarge-v2.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2012/12/28/arts/28HELLER_SPAN/28HELLER_SPAN-thumbStandard-v3.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2012/12/28/arts/28HELLER_SPAN/28HELLER_SPAN-thumbStandard-v3.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "All the Fizz in a New Year of Culture",
+"print_headline": "All the Fizz In a New Year Of Culture"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Culture (Arts)"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Theater"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Opera"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "Dancing"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "subject",
+"value": "Television"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "subject",
+"value": "Movies"
+},
+{
+"isMajor": null,
+"rank": 8,
+"name": "subject",
+"value": "Computer and Video Games"
+}
+],
+"pub_date": "2012-12-28T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"byline": {
+"original": "By THE NEW YORK TIMES"
+},
+"type_of_material": "News",
+"_id": "50dcd54b00315214fbb81671",
+"word_count": 4397,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2012/12/27/swift-holds-on-to-top-spot-in-a-big-week-for-music-sales/",
+"snippet": "Taylor Swift's album \"Red\" is No. 1 for a sixth week.",
+"abstract": "Taylor Swift's album \"Red\" is No. 1 for a sixth week.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Swift Holds On to Top Spot in a Big Week for Music Sales",
+"kicker": "ArtsBeat",
+"print_headline": "Taylor Swift Reigns"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Buble, Michael"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Grohl, David"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Joel, Billy"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "Mars, Bruno"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "McCartney, Paul"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "persons",
+"value": "Springsteen, Bruce"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "persons",
+"value": "Swift, Taylor"
+},
+{
+"isMajor": null,
+"rank": 8,
+"name": "persons",
+"value": "TI"
+},
+{
+"isMajor": null,
+"rank": 9,
+"name": "persons",
+"value": "West, Kanye"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "organizations",
+"value": "iTunes"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "Madison Square Garden"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Nielsen SoundScan"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "organizations",
+"value": "Nirvana"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "organizations",
+"value": "Rolling Stones"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Christmas"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Rap and Hip-Hop"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Rock Music"
+}
+],
+"pub_date": "2012-12-27T15:50:02Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "Blog",
+"_id": "50dcb60400315214fbb81625",
+"word_count": 365,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2012/12/21/popcast-best-songs-of-2012/",
+"snippet": "The Times pop critics discuss the best songs of 2012.",
+"abstract": "The Times pop critics discuss the best songs of 2012.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Popcast: Best Songs of 2012",
+"kicker": "ArtsBeat"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+}
+],
+"pub_date": "2012-12-21T14:54:27Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By THE NEW YORK TIMES"
+},
+"type_of_material": "Blog",
+"_id": "50d4c49f00315214fbb80be3",
+"word_count": 123,
+"score": 0
+},
+{
+"web_url": "https://mediadecoder.blogs.nytimes.com/2012/12/20/the-breakfast-meeting-hollywood-adapts-to-gun-violence-and-senators-criticize-zero-dark-thirty/",
+"snippet": "The film's depiction of torture is criticized by three senators; report finds BBC \"completely incapable\" of dealing with its sexual abuse crisis; and more.",
+"abstract": "The film's depiction of torture is criticized by three senators; report finds BBC \"completely incapable\" of dealing with its sexual abuse crisis; and more.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "The Breakfast Meeting: Senators Criticize 'Zero Dark Thirty,' and Filming Assange",
+"kicker": "Media Decoder"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Assange, Julian P"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Boal, Mark"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Lynton, Michael"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "Rivera, Jenni (1969-2012)"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Savile, Jimmy"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "persons",
+"value": "Thompson, Mark John (1957- )"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "organizations",
+"value": "British Broadcasting Corp"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "Sandy Hook Elementary School (Newtown, Conn)"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Sony Pictures Entertainment"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "organizations",
+"value": "Wikileaks"
+}
+],
+"pub_date": "2012-12-20T09:29:11Z",
+"document_type": "blogpost",
+"section_name": "Media &amp; Advertising",
+"byline": {
+"original": "By NOAM COHEN"
+},
+"type_of_material": "Blog",
+"_id": "50d323a400315214fbb80717",
+"word_count": 477,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2012/12/19/fifth-week-at-no-1-for-taylor-swift/",
+"snippet": "There were notable sales increases for the music of Jenni Rivera, the Mexican-American singer who died in a plane crash on Dec. 9.",
+"abstract": "There were notable sales increases for the music of Jenni Rivera, the Mexican-American singer who died in a plane crash on Dec. 9.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2012/12/19/arts/19artsbeat-rivera/19artsbeat-rivera-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2012/12/19/arts/19artsbeat-rivera/19artsbeat-rivera-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Surge of Sales for Jenni Rivera; Swift Remains No. 1",
+"kicker": "ArtsBeat",
+"print_headline": "Swift Stays on Top"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Rivera, Jenni (1969-2012)"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Swift, Taylor"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+}
+],
+"pub_date": "2012-12-19T14:54:45Z",
+"document_type": "blogpost",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "Blog",
+"_id": "50d21eb400315214fbb80487",
+"word_count": 357,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2012/12/18/arts/music/la-misma-gran-senora-by-jenni-rivera-and-tiresian-symmetry-by-jason-robinson.html",
+"snippet": "A compilation of Jenni Rivera’s music was released just days after the singer’s death; the saxophonist Jason Robinson examines jazz dualities in “Tiresian Symmetry.”",
+"abstract": "Jon Pareles reviews compilation album La Misma Gran Senora by Mexican-American singer Jenni Rivera; Nate Chinen reviews Tiresian Symmetry, newest release by jazz saxophonist Jason Robinson.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2012/12/18/arts/jpnewmusic2/jpnewmusic2-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2012/12/18/arts/jpnewmusic2/jpnewmusic2-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "The Songs Left Behind",
+"kicker": "New Music",
+"print_headline": "The Songs Left Behind"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Jazz"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Rivera, Jenni (1969-2012)"
+}
+],
+"pub_date": "2012-12-18T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By JON PARELES and NATE CHINEN"
+},
+"type_of_material": "Review",
+"_id": "50d0e6bc00315214fbb800b0",
+"word_count": 1054,
+"score": 0
+},
+{
+"web_url": "https://learning.blogs.nytimes.com/2012/12/17/fill-in-bad-taste-all-in-fun/",
+"snippet": "Fill in the blanks in the first eight paragraphs of the article \"Bad Taste, All in Fun\" by Guy Trebay.",
+"abstract": "Fill in the blanks in the first eight paragraphs of the article \"Bad Taste, All in Fun\" by Guy Trebay.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2012/12/16/fashion/20121216-SWEATER-slide-V8ZB-LN/20121216-SWEATER-slide-V8ZB-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2012/12/16/fashion/20121216-SWEATER-slide-V8ZB-LN/20121216-SWEATER-slide-V8ZB-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2012/12/16/fashion/20121216-SWEATER-slide-V8ZB-LN/20121216-SWEATER-slide-V8ZB-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2012/12/16/fashion/20121216-SWEATER-slide-V8ZB-LN/20121216-SWEATER-slide-V8ZB-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Fill-In | Bad Taste, All in Fun",
+"kicker": "The Learning Network"
+},
+"keywords": [],
+"pub_date": "2012-12-17T10:06:42Z",
+"document_type": "blogpost",
+"section_name": "Education",
+"byline": {
+"original": "By SHANNON DOYNE"
+},
+"type_of_material": "Blog",
+"_id": "50d0e5f300315214fbb7fe3b",
+"word_count": 438,
+"score": 0
+}
+],
+"meta": {
+"hits": 176,
+"offset": 0,
+"time": 23
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 174
+},
+{
+"term": "International Herald Tribune",
+"count": 2
+}
+]
+}
+}
+}
+}

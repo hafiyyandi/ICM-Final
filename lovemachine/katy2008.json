@@ -1,0 +1,602 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2008/12/22/technology/start-ups/22tap.html",
+"snippet": "A start-up company called Tapulous has turned a simple game for the iPhone into an Internet-age mobile stage for musicians.",
+"print_page": "6",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2008/12/22/business/22tap01-600.jpg",
+"height": 320,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2008/12/22/business/22tap01-600.jpg",
+"xlargeheight": "320"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2008/12/22/business/22tap01-75.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2008/12/22/business/22tap01-75.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Music Games for iPhone Give Artists New Spotlight",
+"print_headline": "Music Games for iPhone Give Artists New Spotlight"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "iPhone"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Apple Inc"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Sales"
+}
+],
+"pub_date": "2008-12-22T00:00:00Z",
+"document_type": "article",
+"new_desk": "Business",
+"section_name": "Start-Ups",
+"byline": {
+"original": "By JENNA WORTHAM"
+},
+"type_of_material": "News",
+"_id": "5475b81d38f0d8119c6aff41",
+"word_count": 1028,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/12/15/arts/music/15jing.html",
+"snippet": "At the Z100 Jingle Ball, if you weren’t approximately 14 and approximately a girl, the chances were high that you were a bored father, a sympathetic mother or a responsible boyfriend.",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2008/12/15/arts/Jingle_Katy75.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2008/12/15/arts/Jingle_Katy75.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Nary a Carol in Earshot, and a Santa in Heels",
+"kicker": "Music Review | Z100 Jingle Ball",
+"print_headline": "Nary a Carol in Earshot, And a Santa in Heels"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Perry, Katy"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Ne-Yo"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "Brown, Chris"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "West, Kanye"
+}
+],
+"pub_date": "2008-12-15T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By BEN RATLIFF"
+},
+"type_of_material": "Review",
+"_id": "5475787a38f0d8119c6af950",
+"word_count": 676,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/12/12/arts/music/12pop.html",
+"snippet": "POP.",
+"print_page": "28",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Pop and Rock Listings",
+"print_headline": "The Listings "
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Rock Music"
+}
+],
+"pub_date": "2008-12-12T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"section_name": "Music",
+"byline": {
+"original": "By THE NEW YORK TIMES"
+},
+"type_of_material": "Schedule",
+"_id": "547b07c138f0d803f445c62a",
+"word_count": 1881,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/12/07/arts/music/07play.html",
+"snippet": "On Katy Perry’s playlist: songs by Adele, Estelle, Sia, the Ting Tings and Ben Folds.",
+"print_page": "26",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2008/12/07/arts/07play_75.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2008/12/07/arts/07play_75.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Finding Her Pop Thrills Mostly Where the Girls Are",
+"kicker": "Playlist | Katy Perry",
+"print_headline": "Finding Her Pop Thrills Mostly Where the Girls Are"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "Ting Tings"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Perry, Katy"
+}
+],
+"pub_date": "2008-12-07T00:00:00Z",
+"document_type": "article",
+"new_desk": "Arts&Leisure",
+"section_name": "Music",
+"byline": {
+"original": "By WINTER MILLER"
+},
+"type_of_material": "Review",
+"_id": "547abc0738f0d803f445bfed",
+"word_count": 781,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/11/16/arts/television/16gopa.html",
+"snippet": "For Val Emmich, landing a role on a hit TV show has also meant a chance to promote his new CD.",
+"print_page": "23",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2008/11/16/arts/12gopa_75.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2008/11/16/arts/12gopa_75.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Making Beautiful Music on ‘Ugly Betty’",
+"print_headline": "Making Beautiful Music on ‘Ugly Betty’"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Television"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Music"
+}
+],
+"pub_date": "2008-11-16T00:00:00Z",
+"document_type": "article",
+"new_desk": "0",
+"section_name": "Television",
+"byline": {
+"original": "By NISHA GOPALAN"
+},
+"type_of_material": "News",
+"_id": "547a007a38f0d803f445afec",
+"word_count": 1023,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/11/10/arts/music/10choi.html",
+"snippet": "Reviews of new albums by T-Pain, David Archuleta, Deborah Cox and Butch Walker.",
+"print_page": "6",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Critics’ Choice: New CDs"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Rap Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "T-Pain"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Walker, Butch"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "subject",
+"value": "Reviews"
+}
+],
+"pub_date": "2008-11-10T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By THE NEW YORK TIMES"
+},
+"type_of_material": "Review",
+"_id": "5479efd838f0d86bf59300a5",
+"word_count": 1583,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/11/09/arts/music/09play.html",
+"snippet": "Jared Followill of Kings of Leon discusses music by M83, Glasvegas, She & Him, Chairlift and Animal Collective.",
+"print_page": "25",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2008/11/05/arts/05play_75.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2008/11/05/arts/05play_75.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Sounds Like Other Decades? Just One of the Attractions",
+"kicker": "Playlist | Jared Followill",
+"print_headline": "Sounds Like Other Decades? Just One of the Attractions"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Rock Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "Kings of Leon"
+}
+],
+"pub_date": "2008-11-09T00:00:00Z",
+"document_type": "article",
+"new_desk": "0",
+"section_name": "Music",
+"byline": {
+"original": "By WINTER MILLER"
+},
+"type_of_material": "News",
+"_id": "5479bfe738f0d86bf592fcba",
+"word_count": 883,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/11/06/garden/06qa.html",
+"snippet": "Butch Walker, a music producer of acts like Avril Lavigne and Katy Perry, talks about the loss of his Malibu home to wildfires.",
+"print_page": "3",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2008/11/05/garden/06qna-600.jpg",
+"height": 331,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2008/11/05/garden/06qna-600.jpg",
+"xlargeheight": "331"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2008/11/05/garden/06qna-75.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2008/11/05/garden/06qna-75.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Finding Musical Inspiration in the Ashes of a Home",
+"print_headline": "Finding Musical Inspiration in the Ashes of a Home"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Housing"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Forest and Brush Fires"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "glocations",
+"value": "Malibu (Calif)"
+}
+],
+"pub_date": "2008-11-06T00:00:00Z",
+"document_type": "article",
+"new_desk": "Home",
+"byline": {
+"original": "By STEVEN KURUTZ"
+},
+"type_of_material": "Question",
+"_id": "5479c9b038f0d86bf592fd84",
+"word_count": 269,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/10/27/arts/music/27choi.html",
+"snippet": "New albums from John Legend, Pink, Bloc Party and the Matthew Herbert Big Band.",
+"print_page": "4",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Critics’ Choice: New CDs"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Legend, John"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "Bloc Party"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Pink"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Herbert, Matthew"
+}
+],
+"pub_date": "2008-10-27T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By THE NEW YORK TIMES"
+},
+"type_of_material": "Review",
+"_id": "54796b3f38f0d86bf592f59a",
+"word_count": 1433,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2008/10/05/arts/music/05ligh.html",
+"snippet": "Chrissie Hynde has a new lineup and new influences on the first Pretenders release in six years.",
+"print_page": "25",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2008/10/05/arts/05ligh_75.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2008/10/05/arts/05ligh_75.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Her City’s Not Gone, and Neither Is She",
+"kicker": "Music",
+"print_headline": "Her City’s Not Gone, and Neither Is She"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Rock Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Hynde, Chrissie"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Pretenders"
+}
+],
+"pub_date": "2008-10-05T00:00:00Z",
+"document_type": "article",
+"new_desk": "Arts&Leisure",
+"section_name": "Music",
+"byline": {
+"original": "By ALAN LIGHT"
+},
+"type_of_material": "News",
+"_id": "54787e3338f0d854b20b331c",
+"word_count": 1328,
+"score": 0
+}
+],
+"meta": {
+"hits": 22,
+"offset": 0,
+"time": 35
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 22
+}
+]
+}
+}
+}
+}	

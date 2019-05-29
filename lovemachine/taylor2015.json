@@ -1,0 +1,1166 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2015/12/21/adele-25-best-selling-album-21/",
+"snippet": "The British artist’s third album spends a fourth week at No. 1 on the Billboard album chart, while Coldplay’s LP falls from second place to No. 7.",
+"abstract": "The British artist’s third album spends a fourth week at No. 1 on the Billboard album chart, while Coldplay’s LP falls from second place to No. 7.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/22/arts/22artsbeat-adele/22artsbeat-adele-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/22/arts/22artsbeat-adele/22artsbeat-adele-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/22/arts/22artsbeat-adele/22artsbeat-adele-articleLarge.jpg",
+"height": 436,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/22/arts/22artsbeat-adele/22artsbeat-adele-articleLarge.jpg",
+"xlargeheight": "436"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/22/arts/22artsbeat-adele/22artsbeat-adele-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/22/arts/22artsbeat-adele/22artsbeat-adele-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Adele&#8217;s &lsquo;25&#8217; Is Now the Best-Selling Album Since Adele&#8217;s &lsquo;21&#8217;",
+"kicker": "ArtsBeat",
+"print_headline": "Adele Tops Swift"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Adele (Singer)"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Bieber, Justin"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Stapleton, Chris (1978- )"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "Swift, Taylor"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Tesfaye, Abel (Weeknd)"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "organizations",
+"value": "Coldplay (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "One Direction (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Pentatonix (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "organizations",
+"value": "Spotify"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+}
+],
+"pub_date": "2015-12-21T12:05:53Z",
+"document_type": "blogpost",
+"new_desk": "Culture",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "Blog",
+"_id": "5678321638f0d85e45d81423",
+"word_count": 313,
+"score": 1.8748273e-24
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/14/business/media/apple-gains-exclusive-streaming-deal-with-taylor-swift.html",
+"snippet": "The new streaming service Apple Music will show a film of Ms. Swift’s concert in Australia, part of her world tour promoting her latest album.",
+"abstract": "Apple and Taylor Swift announce company has won exclusive streaming deal to show concert film about Swift's world tour on company's Apple Music streaming service.",
+"print_page": "2",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/14/business/swift/swift-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/14/business/swift/swift-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/14/business/swift/swift-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/14/business/swift/swift-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/14/business/swift/swift-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/14/business/swift/swift-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Apple Gains Exclusive Streaming Deal With Taylor Swift",
+"print_headline": "Taylor Swift Makes Deal With Apple on Tour Film"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Video Recordings, Downloads and Streaming"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Apple Inc"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "organizations",
+"value": "Apple Music"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "Audio Recordings, Downloads and Streaming"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "creative_works",
+"value": "1989 (Album)"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "persons",
+"value": "Swift, Taylor"
+}
+],
+"pub_date": "2015-12-14T00:00:00Z",
+"document_type": "article",
+"new_desk": "Business",
+"section_name": "Media",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "News",
+"_id": "566dc4ea38f0d83e10be1437",
+"word_count": 311,
+"score": 1.3743998e-24
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/09/business/media/spotify-is-said-to-have-reconsidered-its-free-access-policy-for-big-acts-new-albums.html",
+"snippet": "Lately the music streaming service has been under pressure to accommodate major acts that have shunned the freemium model that lets listeners hear songs free.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/08/business/1208coldplayjpg/1208coldplayjpg-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/08/business/1208coldplayjpg/1208coldplayjpg-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/08/business/1208coldplayjpg/1208coldplayjpg-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/08/business/1208coldplayjpg/1208coldplayjpg-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/08/business/1208coldplayjpg/1208coldplayjpg-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/08/business/1208coldplayjpg/1208coldplayjpg-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Spotify Is Said to Have Reconsidered Its Free Access Policy for Big Acts&#8217; New Albums",
+"print_headline": "Spotify Is Said to Have Reconsidered Its Free Access Policy for Big Acts&#8217; New Albums"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "organizations",
+"value": "Spotify"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Audio Recordings, Downloads and Streaming"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "organizations",
+"value": "Coldplay (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "organizations",
+"value": "Warner Music Group"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "persons",
+"value": "Adele (Singer)"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "persons",
+"value": "Swift, Taylor"
+}
+],
+"pub_date": "2015-12-09T00:00:00Z",
+"document_type": "article",
+"new_desk": "Business",
+"section_name": "Media",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "News",
+"_id": "566782a338f0d8780c2780a7",
+"word_count": 685,
+"score": 4.801143e-25
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/28/arts/music/review-in-feel-the-bernhard-sandra-feels-less-menacing.html",
+"snippet": "Ms. Bernhard remains a fascinating, charismatic entertainer who shares with her devotees a love-hate relationship with popular culture.",
+"abstract": "Stephen Holden reviews musical performance Feel the Bernhard, by singer and comedian Sandra Bernhard, at Joe's Pub. ",
+"print_page": "3",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/28/arts/28BERNHARD/28BERNHARD-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Review: In ‘Feel the Bernhard,’ Sandra Feels Less Menacing",
+"print_headline": "Monologues Now More Mellow Than Menacing"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Theater"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Joe's Pub"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "creative_works",
+"value": "Feel the Bernhard (Play)"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Bernhard, Sandra"
+}
+],
+"pub_date": "2015-12-28T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By STEPHEN HOLDEN"
+},
+"type_of_material": "Review",
+"_id": "56806a4f38f0d86cf39b1787",
+"word_count": 464,
+"score": 3.661615e-25
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/28/arts/music/the-year-in-music-videos.html",
+"snippet": "Our critics were moved by a six-second Vine, a viral dance craze, blockbusters from superstars and stark visions of survival and humanity.",
+"abstract": "Jon Pareles, Ben Ratliff, Jon Caramanica and Nate Chinen offer their picks for best music videos released in 2015. ",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/28/arts/28YEARINVIDEOSJP1/28YEARINVIDEOSJP1-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/28/arts/28YEARINVIDEOSJP1/28YEARINVIDEOSJP1-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/28/arts/28YEARINVIDEOSJP1/28YEARINVIDEOSJP1-articleLarge.jpg",
+"height": 331,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/28/arts/28YEARINVIDEOSJP1/28YEARINVIDEOSJP1-articleLarge.jpg",
+"xlargeheight": "331"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/28/arts/28YEARINVIDEOSJP1/28YEARINVIDEOSJP1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/28/arts/28YEARINVIDEOSJP1/28YEARINVIDEOSJP1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "The Year in Music Videos",
+"print_headline": "More Than the Music"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 11,
+"name": "persons",
+"value": "Lamar, Kendrick"
+},
+{
+"isMajor": null,
+"rank": 12,
+"name": "persons",
+"value": "Newsom, Joanna"
+},
+{
+"isMajor": null,
+"rank": 13,
+"name": "persons",
+"value": "Salvant, Cecile McLorin"
+},
+{
+"isMajor": null,
+"rank": 14,
+"name": "persons",
+"value": "Washington, Kamasi"
+},
+{
+"isMajor": null,
+"rank": 15,
+"name": "persons",
+"value": "Cara, Alessia"
+},
+{
+"isMajor": null,
+"rank": 16,
+"name": "persons",
+"value": "Knowles, Beyonce"
+},
+{
+"isMajor": null,
+"rank": 17,
+"name": "persons",
+"value": "Fraser, Nicholas"
+},
+{
+"isMajor": null,
+"rank": 18,
+"name": "organizations",
+"value": "GLOSS (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 19,
+"name": "organizations",
+"value": "Gold (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 20,
+"name": "persons",
+"value": "Riley, Terry (1935- )"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Video Recordings, Downloads and Streaming"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "M I A"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "Vince Staples (1993- )"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Rihanna"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "persons",
+"value": "Missy Elliott (1971- )"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "persons",
+"value": "Minaj, Nicki"
+},
+{
+"isMajor": null,
+"rank": 8,
+"name": "persons",
+"value": "Drake (Rapper)"
+},
+{
+"isMajor": null,
+"rank": 9,
+"name": "persons",
+"value": "Grimes (1988- )"
+},
+{
+"isMajor": null,
+"rank": 10,
+"name": "persons",
+"value": "Bjork"
+}
+],
+"pub_date": "2015-12-28T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By JON PARELES, BEN RATLIFF, JON CARAMANICA and NATE CHINEN"
+},
+"type_of_material": "Review",
+"_id": "56806d8b38f0d86cf39b178d",
+"word_count": 2257,
+"score": 3.1551885e-25
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/30/arts/music/all-the-best-shows-of-what-the-critics-have-seen.html",
+"snippet": "Jazz and pop critics for The Times sift through hundreds of shows to choose the 40 best.",
+"abstract": "New York Times music critics compile list of memorable 2015 concerts. ",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/30/arts/30YEARINCONCERTcombo/30YEARINCONCERTcombo-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/30/arts/30YEARINCONCERTcombo/30YEARINCONCERTcombo-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/30/arts/30YEARINCONCERTcombo/30YEARINCONCERTcombo-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/30/arts/30YEARINCONCERTcombo/30YEARINCONCERTcombo-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/30/arts/30YEARINCONCERTcombo/30YEARINCONCERTcombo-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/30/arts/30YEARINCONCERTcombo/30YEARINCONCERTcombo-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "All the Best Concerts, of What the Critics Have Seen",
+"print_headline": "All the Best Shows (of What They’ve Seen)"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Folk Music"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Rock Music"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Jazz"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "subject",
+"value": "Rap and Hip-Hop"
+}
+],
+"pub_date": "2015-12-30T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By JON PARELES, BEN RATLIFF, JON CARAMANICA and NATE CHINEN"
+},
+"type_of_material": "Review",
+"_id": "5683106d38f0d81f38b9d839",
+"word_count": 2532,
+"score": 2.6420872e-25
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/08/arts/music/grammy-awards-kendrick-lamar-taylor-swift-and-the-weeknd-lead-nominations.html",
+"snippet": "Mr. Lamar’s rap album “To Pimp a Butterfly” is atop the pack with nine nominations ahead of the Feb. 15 music awards show.",
+"abstract": "National Academy of Recording Arts and Sciences releases nominations for 58th annual Grammy Awards, scheduled for Feb 2016; roster is notable for young artists dominating top slots,  including Kendrick Lamar, Taylor Swift and Weeknd garnering most nominations in more prestigious categories.\n",
+"print_page": "1",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/07/arts/07GRAMMY/07GRAMMY-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/07/arts/07GRAMMY/07GRAMMY-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/07/arts/07GRAMMY/07GRAMMY-articleLarge.jpg",
+"height": 415,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/07/arts/07GRAMMY/07GRAMMY-articleLarge.jpg",
+"xlargeheight": "415"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/07/arts/07GRAMMY/07GRAMMY-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/07/arts/07GRAMMY/07GRAMMY-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Grammy Awards: Kendrick Lamar, Taylor Swift and the Weeknd Lead Nominations",
+"print_headline": "Younger Voices Rack Up Grammy Nods"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Grammy Awards"
+},
+{
+"isMajor": null,
+"rank": 11,
+"name": "creative_works",
+"value": "Beauty Behind the Madness (Album)"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Lamar, Kendrick"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "persons",
+"value": "Swift, Taylor"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Tesfaye, Abel (Weeknd)"
+},
+{
+"isMajor": null,
+"rank": 6,
+"name": "organizations",
+"value": "Alabama Shakes (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "organizations",
+"value": "Little Big Town (Music Group)"
+},
+{
+"isMajor": null,
+"rank": 8,
+"name": "persons",
+"value": "Stapleton, Chris (1978- )"
+},
+{
+"isMajor": null,
+"rank": 9,
+"name": "creative_works",
+"value": "1989 (Album)"
+},
+{
+"isMajor": null,
+"rank": 10,
+"name": "creative_works",
+"value": "To Pimp a Butterfly (Album)"
+}
+],
+"pub_date": "2015-12-08T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By BEN SISARIO"
+},
+"type_of_material": "News",
+"_id": "566589ee38f0d829ad7c2d15",
+"word_count": 1063,
+"score": 2.0626437e-25
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/23/arts/music/beatles-fans-start-your-streaming-playlists.html",
+"snippet": "The music of the Beatles will finally be available on nine streaming music services worldwide, including Spotify and Apple Music.",
+"abstract": "Universal Music Group, along with surviving Beatles members Paul McCartney and Ringo Starr, announce band's music has been made available on streaming services worldwide.",
+"print_page": "4",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/24/business/24beatles-web/24beatles-web-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/24/business/24beatles-web/24beatles-web-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/24/business/24beatles-web/24beatles-web-articleLarge.jpg",
+"height": 552,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/24/business/24beatles-web/24beatles-web-articleLarge.jpg",
+"xlargeheight": "552"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/24/business/24beatles-web/24beatles-web-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/24/business/24beatles-web/24beatles-web-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Beatles Catalog Goes on Streaming Services",
+"print_headline": "Beatles Finally Enter the Stream"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Audio Recordings, Downloads and Streaming"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "organizations",
+"value": "Universal Music Group"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "subject",
+"value": "Royalties"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "McCartney, Paul"
+},
+{
+"isMajor": null,
+"rank": 7,
+"name": "organizations",
+"value": "Beatles, The"
+}
+],
+"pub_date": "2015-12-23T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Music",
+"byline": {
+"original": "By JOE COSCARELLI"
+},
+"type_of_material": "News",
+"_id": "567aa19a38f0d87fff9c6612",
+"word_count": 408,
+"score": 1.8988368e-25
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2015/12/03/taylor-swift-gives-50000-to-seattle-symphony/",
+"snippet": "The gift was inspired by the orchestra’s recording of “Become Ocean,” the Pulitzer Prize-winning work by John Luther Adams.",
+"abstract": "The gift was inspired by the orchestra’s recording of “Become Ocean,” the Pulitzer Prize-winning work by John Luther Adams.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/04/arts/04ARTSBEATSWIFT/04ARTSBEATSWIFT-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/04/arts/04ARTSBEATSWIFT/04ARTSBEATSWIFT-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/04/arts/04ARTSBEATSWIFT/04ARTSBEATSWIFT-articleLarge.jpg",
+"height": 444,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/04/arts/04ARTSBEATSWIFT/04ARTSBEATSWIFT-articleLarge.jpg",
+"xlargeheight": "444"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/04/arts/04ARTSBEATSWIFT/04ARTSBEATSWIFT-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/04/arts/04ARTSBEATSWIFT/04ARTSBEATSWIFT-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Taylor Swift Gives $50,000 to Seattle Symphony",
+"kicker": "ArtsBeat",
+"print_headline": "Taylor Swift Gives $50,000 to Orchestra"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Adams, John Luther"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Morlot, Ludovic"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "persons",
+"value": "Swift, Taylor"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "organizations",
+"value": "Seattle Symphony"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Classical Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Grammy Awards"
+}
+],
+"pub_date": "2015-12-03T13:01:13Z",
+"document_type": "blogpost",
+"new_desk": "Culture",
+"byline": {
+"original": "By MICHAEL COOPER"
+},
+"type_of_material": "Blog",
+"_id": "566083ba38f0d84320270cd5",
+"word_count": 374,
+"score": 1.4613047e-25
+},
+{
+"web_url": "https://www.nytimes.com/2015/12/25/arts/music/pop-amp-rock-listings-for-dec-25-31.html",
+"snippet": "A selected guide to concerts in the New York City area.",
+"print_page": "20",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2015/12/25/arts/25LISTINGSpop/25LISTINGSpop-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2015/12/25/arts/25LISTINGSpop/25LISTINGSpop-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2015/12/25/arts/25LISTINGSpop/25LISTINGSpop-articleLarge.jpg",
+"height": 397,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2015/12/25/arts/25LISTINGSpop/25LISTINGSpop-articleLarge.jpg",
+"xlargeheight": "397"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2015/12/25/arts/25LISTINGSpop/25LISTINGSpop-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2015/12/25/arts/25LISTINGSpop/25LISTINGSpop-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Pop &amp; Rock Listings for Dec. 25-31",
+"print_headline": "The Listings: Pop"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Culture (Arts)"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Rock Music"
+}
+],
+"pub_date": "2015-12-25T00:00:00Z",
+"document_type": "article",
+"new_desk": "Weekend",
+"section_name": "Music",
+"byline": {
+"original": null
+},
+"type_of_material": "Schedule",
+"_id": "567c705638f0d83da904ed0a",
+"word_count": 1375,
+"score": 1.3204335e-25
+}
+],
+"meta": {
+"hits": 326,
+"offset": 0,
+"time": 11
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 315
+},
+{
+"term": "Reuters",
+"count": 9
+},
+{
+"term": "",
+"count": 2
+}
+]
+}
+}
+}
+}

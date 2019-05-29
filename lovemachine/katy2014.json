@@ -1,0 +1,700 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+"response": {
+"docs": [
+{
+"web_url": "https://www.nytimes.com/2014/12/21/fashion/the-year-of-taylor-swift.html",
+"snippet": "She traded Nashville for New York, released the chart-topping pop album “1989,” took on Spotify and has an updated sense of style.",
+"abstract": "Singer Taylor Swift soared to new heights in 2014 with release of chart-topping pop album 1989; her style has evolved as much as her music, leaving little left to prove.",
+"print_page": "16",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/12/21/fashion/21SUBSWIFT1/21SUB-SWIFT1-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/12/21/fashion/21SUBSWIFT1/21SUB-SWIFT1-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/12/21/fashion/21SUBSWIFT1/21SUB-SWIFT1-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2014/12/21/fashion/21SUBSWIFT1/21SUB-SWIFT1-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/12/21/fashion/21SUBSWIFT1/21SUB-SWIFT1-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2014/12/21/fashion/21SUBSWIFT1/21SUB-SWIFT1-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "The Year of Taylor Swift",
+"print_headline": "The Year of Taylor Swift"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Music"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Fashion and Apparel"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Parties (Social)"
+},
+{
+"isMajor": null,
+"rank": 4,
+"name": "organizations",
+"value": "Victoria's Secret"
+},
+{
+"isMajor": null,
+"rank": 5,
+"name": "persons",
+"value": "Swift, Taylor"
+}
+],
+"pub_date": "2014-12-21T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By MATTHEW SCHNEIER"
+},
+"type_of_material": "News",
+"_id": "5494a66938f0d87118e4902d",
+"word_count": 1125,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2014/12/14/style/meet-amirah-kassem-a-fashionable-confectioner.html",
+"snippet": "Ms. Kassem is the founder of Flour Shop, a high-concept, deliciously silly bakery.",
+"abstract": "High-concept baker Amirah Kassem discusses her style influences and latest projects.",
+"print_page": "14",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/12/14/fashion/14UPNEXT/14UPNEXT-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/12/14/fashion/14UPNEXT/14UPNEXT-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/12/14/fashion/14UPNEXT/14UPNEXT-articleLarge.jpg",
+"height": 915,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2014/12/14/fashion/14UPNEXT/14UPNEXT-articleLarge.jpg",
+"xlargeheight": "915"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/12/14/fashion/14UPNEXT/14UPNEXT-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2014/12/14/fashion/14UPNEXT/14UPNEXT-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Meet Amirah Kassem, a Fashionable Confectioner",
+"kicker": "Up Next",
+"print_headline": "Designer Calories"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Bakeries and Baked Products"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Kassem, Amirah"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Fashion and Apparel"
+}
+],
+"pub_date": "2014-12-14T00:00:00Z",
+"document_type": "article",
+"new_desk": "Styles",
+"byline": {
+"original": "By STACEY ANDERSON"
+},
+"type_of_material": "News",
+"_id": "548b6a6338f0d8482929af7f",
+"word_count": 367,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2014/12/05/peter-pan-live-the-best-tweets/",
+"snippet": "Some of the night’s best reactions to “Peter Pan Live!”",
+"abstract": "Some of the night’s best reactions to “Peter Pan Live!”",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/12/06/arts/artsbeat-pan/artsbeat-pan-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/12/06/arts/artsbeat-pan/artsbeat-pan-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/12/06/arts/artsbeat-pan/artsbeat-pan-articleLarge.jpg",
+"height": 400,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2014/12/06/arts/artsbeat-pan/artsbeat-pan-articleLarge.jpg",
+"xlargeheight": "400"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/12/06/arts/artsbeat-pan/artsbeat-pan-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2014/12/06/arts/artsbeat-pan/artsbeat-pan-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "'Peter Pan Live!': The Best Tweets",
+"kicker": "ArtsBeat"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "organizations",
+"value": "National Broadcasting Co"
+},
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Television"
+}
+],
+"pub_date": "2014-12-05T10:43:44Z",
+"document_type": "blogpost",
+"new_desk": "Culture",
+"byline": {
+"original": "By JEREMY EGNER"
+},
+"type_of_material": "Blog",
+"_id": "5481d34d38f0d874625c932f",
+"word_count": 425,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2014/12/01/business/media/news-from-the-advertising-industry-.html",
+"snippet": "Account assignments, miscellaneous news from advertising agencies and more.",
+"print_page": "",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "News From the Advertising Industry ",
+"print_headline": "News From the Advertising Industry"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Advertising and Marketing"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "subject",
+"value": "Television"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Appointments and Executive Changes"
+}
+],
+"pub_date": "2014-12-01T00:00:00Z",
+"document_type": "article",
+"new_desk": "Business",
+"section_name": "Media",
+"byline": {
+"original": "By STUART ELLIOTT"
+},
+"type_of_material": "News",
+"_id": "547bd31438f0d813efccb57c",
+"word_count": 717,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/video/multimedia/100000003253372/taylor-swift-lights-up-amas.html",
+"snippet": "The latest celebrity news including Taylor Swift's center stage performance at the American Music Awards and Katy Perry lands Super Bowl gig. John Russell reports.",
+"blog": {},
+"source": "Reuters",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/11/24/multimedia/video-talk-of-the-town-o/video-talk-of-the-town-o-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/11/24/multimedia/video-talk-of-the-town-o/video-talk-of-the-town-o-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/11/24/multimedia/video-talk-of-the-town-o/video-talk-of-the-town-o-articleLarge.jpg",
+"height": 338,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2014/11/24/multimedia/video-talk-of-the-town-o/video-talk-of-the-town-o-articleLarge.jpg",
+"xlargeheight": "338"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/11/24/multimedia/video-talk-of-the-town-o/video-talk-of-the-town-o-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2014/11/24/multimedia/video-talk-of-the-town-o/video-talk-of-the-town-o-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Taylor Swift lights up AMAs"
+},
+"keywords": [],
+"pub_date": "2014-11-24T17:09:32Z",
+"document_type": "multimedia",
+"new_desk": "Multimedia/Photos",
+"type_of_material": "Video",
+"_id": "5473ad4138f0d871c82f9fab",
+"word_count": 25,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2014/11/24/us/latest-news-iran-nuclear-talks-ferguson-waits-thanksgiving-weather.html",
+"snippet": "Here’s what you need to know to start your day.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/11/24/blogs/20141124nytnow-catch7/20141124nytnow-catch7-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/11/24/blogs/20141124nytnow-catch7/20141124nytnow-catch7-thumbWide.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/11/24/blogs/20141124nytnow-catch7/20141124nytnow-catch7-articleLarge.jpg",
+"height": 412,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2014/11/24/blogs/20141124nytnow-catch7/20141124nytnow-catch7-articleLarge.jpg",
+"xlargeheight": "412"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/11/24/blogs/20141124nytnow-catch7/20141124nytnow-catch7-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2014/11/24/blogs/20141124nytnow-catch7/20141124nytnow-catch7-thumbStandard.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Your Monday Briefing"
+},
+"keywords": [],
+"pub_date": "2014-11-24T00:00:00Z",
+"document_type": "article",
+"new_desk": "National",
+"byline": {
+"original": "By ADEEL HASSAN"
+},
+"type_of_material": "News",
+"_id": "54730d3738f0d85d607d5cfe",
+"word_count": 974,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2014/11/23/arts/television/whats-on-tv-sunday.html",
+"snippet": "Television highlights.",
+"print_page": "11",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "What&#8217;s On TV Sunday",
+"print_headline": "What’s on TV Sunday"
+},
+"keywords": [],
+"pub_date": "2014-11-23T00:00:00Z",
+"document_type": "article",
+"new_desk": "Culture",
+"section_name": "Television",
+"byline": {
+"original": "By KATHRYN SHATTUCK"
+},
+"type_of_material": "Schedule",
+"_id": "5472212438f0d85d607d50ff",
+"word_count": 678,
+"score": 0
+},
+{
+"web_url": "https://artsbeat.blogs.nytimes.com/2014/11/19/unicef-plans-a-global-singalong-of-john-lennons-imagine/",
+"snippet": "An app invites users to sing along to several renditions of the song, by Lennon as well as Katy Perry, Angelique Kidjo and others.",
+"abstract": "An app invites users to sing along to several renditions of the song, by Lennon as well as Katy Perry, Angelique Kidjo and others.",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [],
+"headline": {
+"main": "Unicef Plans a Global Singalong of John Lennon's 'Imagine' ",
+"kicker": "ArtsBeat",
+"print_headline": "Unicef Using ‘Imagine’ in Fund-Raising Effort"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "persons",
+"value": "Lennon, John"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "organizations",
+"value": "United Nations Children's Fund"
+},
+{
+"isMajor": null,
+"rank": 3,
+"name": "subject",
+"value": "Music"
+}
+],
+"pub_date": "2014-11-19T21:00:06Z",
+"document_type": "blogpost",
+"new_desk": "Culture",
+"byline": {
+"original": "By ALLAN KOZINN"
+},
+"type_of_material": "Blog",
+"_id": "546d4bf738f0d80bf3d6179a",
+"word_count": 282,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2014/11/16/fashion/weddings/solange-knowles-the-younger-sister-of-beyonce-knowles-marries-music-video-director.html",
+"snippet": "Solange Knowles, the younger sister of Beyoncé Knowles, was married Sunday afternoon to Alan Ferguson, near the bride’s home in New Orleans.",
+"print_page": "",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/11/17/fashion/17SOLANGEWEDDINGDRESS/17SOLANGEWEDDINGDRESS-thumbWide-v2.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/11/17/fashion/17SOLANGEWEDDINGDRESS/17SOLANGEWEDDINGDRESS-thumbWide-v2.jpg",
+"wideheight": "126",
+"widewidth": "190"
+}
+},
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/11/17/fashion/17SOLANGEWEDDINGDRESS/17SOLANGEWEDDINGDRESS-articleLarge.jpg",
+"height": 411,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": "600",
+"xlarge": "images/2014/11/17/fashion/17SOLANGEWEDDINGDRESS/17SOLANGEWEDDINGDRESS-articleLarge.jpg",
+"xlargeheight": "411"
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/11/17/fashion/17SOLANGEWEDDINGDRESS/17SOLANGEWEDDINGDRESS-thumbStandard-v2.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": "75",
+"thumbnail": "images/2014/11/17/fashion/17SOLANGEWEDDINGDRESS/17SOLANGEWEDDINGDRESS-thumbStandard-v2.jpg",
+"thumbnailwidth": "75"
+}
+}
+],
+"headline": {
+"main": "Solange Knowles Marries Alan Ferguson",
+"print_headline": "Solange Knowles Marries Alan Ferguson"
+},
+"keywords": [
+{
+"isMajor": null,
+"rank": 1,
+"name": "subject",
+"value": "Weddings and Engagements"
+},
+{
+"isMajor": null,
+"rank": 2,
+"name": "persons",
+"value": "Knowles, Solange"
+}
+],
+"pub_date": "2014-11-16T00:00:00Z",
+"document_type": "article",
+"new_desk": "Society",
+"section_name": "Weddings",
+"byline": {
+"original": "By LINDA MARX"
+},
+"type_of_material": "News",
+"_id": "546929e038f0d8317bec0ae7",
+"word_count": 534,
+"score": 0
+},
+{
+"web_url": "https://www.nytimes.com/2014/11/16/magazine/the-ice-bucket-racket.html",
+"snippet": "A viral stunt unlocks secrets about how we give to charity.",
+"print_page": "34",
+"blog": {},
+"source": "The New York Times",
+"multimedia": [
+{
+"type": "image",
+"subtype": "xlarge",
+"url": "images/2014/11/16/magazine/16eureka1/mag-16Eureka-t_CA0-articleLarge.jpg",
+"height": 433,
+"width": 600,
+"rank": 0,
+"legacy": {
+"xlargewidth": 600,
+"xlarge": "images/2014/11/16/magazine/16eureka1/mag-16Eureka-t_CA0-articleLarge.jpg",
+"xlargeheight": 433
+}
+},
+{
+"type": "image",
+"subtype": "wide",
+"url": "images/2014/11/16/magazine/16eureka1/mag-16Eureka-t_CA0-thumbWide.jpg",
+"height": 126,
+"width": 190,
+"rank": 0,
+"legacy": {
+"wide": "images/2014/11/16/magazine/16eureka1/mag-16Eureka-t_CA0-thumbWide.jpg",
+"widewidth": 190,
+"wideheight": 126
+}
+},
+{
+"type": "image",
+"subtype": "thumbnail",
+"url": "images/2014/11/16/magazine/16eureka1/mag-16Eureka-t_CA0-thumbStandard.jpg",
+"height": 75,
+"width": 75,
+"rank": 0,
+"legacy": {
+"thumbnailheight": 75,
+"thumbnail": "images/2014/11/16/magazine/16eureka1/mag-16Eureka-t_CA0-thumbStandard.jpg",
+"thumbnailwidth": 75
+}
+}
+],
+"headline": {
+"main": "The Ice-Bucket Racket",
+"kicker": "Eureka",
+"print_headline": "Bucket Racket"
+},
+"keywords": [
+{
+"isMajor": "N",
+"rank": 1,
+"name": "subject",
+"value": "Philanthropy"
+},
+{
+"isMajor": "N",
+"rank": 2,
+"name": "subject",
+"value": "Social Media"
+},
+{
+"isMajor": "N",
+"rank": 3,
+"name": "subject",
+"value": "Amyotrophic Lateral Sclerosis"
+},
+{
+"isMajor": "N",
+"rank": 4,
+"name": "subject",
+"value": "Research"
+},
+{
+"isMajor": "N",
+"rank": 5,
+"name": "subject",
+"value": "Empathy"
+},
+{
+"isMajor": "N",
+"rank": 6,
+"name": "subject",
+"value": "Ice"
+},
+{
+"isMajor": "N",
+"rank": 7,
+"name": "subject",
+"value": "Computers and the Internet"
+}
+],
+"pub_date": "2014-11-14T15:21:57+0000",
+"document_type": "article",
+"new_desk": "Magazine",
+"byline": {
+"original": "By IAN MCGUGAN"
+},
+"type_of_material": "News",
+"_id": "54661e2438f0d84e23dd2e55",
+"word_count": 1423,
+"score": 0,
+"uri": "nyt://article/0ef7fafb-9a3f-5d91-a416-52f5f2acf086"
+}
+],
+"meta": {
+"hits": 118,
+"offset": 0,
+"time": 68
+},
+"facets": {
+"source": {
+"terms": [
+{
+"term": "The New York Times",
+"count": 112
+},
+{
+"term": "",
+"count": 3
+},
+{
+"term": "Reuters",
+"count": 3
+}
+]
+}
+}
+}
+}
