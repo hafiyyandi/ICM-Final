@@ -58,6 +58,7 @@ let path;
 
 function setup() {
 	createCanvas(windowWidth, 600);
+  background(0,0,0,0);
 	renderText();
   noLoop();
 }
