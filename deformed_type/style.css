@@ -35,11 +35,13 @@ canvas {
 
 #download {
 	font-family: 'Roboto Mono', monospace;
-    margin-top: 15px;
-    padding: 10px;
-    background: #ED1566;
-    color: white;
-    border: none;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 20px;
+  background: #ED1566;
+  color: white;
+  border: none;
+  font-size:13px;
 }
 
 .col {
