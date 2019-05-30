@@ -11,9 +11,14 @@ var snapDistance = 1000;
 var snapX = 0;
 var snapY = 0;
 
-let sampleText1 = 'ABCDEFGHIJKLMN';
-let sampleText2 = 'OPQRSTUVWXYZ abcdefghijlkm';
-let sampleText3 = 'nopqrstuvwxyz';
+// let sampleText1 = 'ABCDEFGHIJKLMN';
+// let sampleText2 = 'OPQRSTUVWXYZ abcdefghijlkm';
+// let sampleText3 = 'nopqrstuvwxyz';
+
+let sampleText1 = 'WOW! IS THIS';
+let sampleText2 = 'GRAPHIC DESIGN\'S';
+let sampleText3 = 'EQUIVALENT OF';
+let sampleText4 = 'BRUTALISM??';
 
 function preload() {
   fontData_1 = loadBytes('LeagueGothic-Regular.otf');
@@ -52,7 +57,7 @@ function modifyPath(p) {
 let path;
 
 function setup() {
-	createCanvas(windowWidth, 400);
+	createCanvas(windowWidth, 600);
 	renderText();
   noLoop();
 }
@@ -99,6 +104,7 @@ function renderText(){
   font.draw(drawingContext, sampleText1, 0, 100, 60);
   font.draw(drawingContext, sampleText2, 0, 200, 60);
   font.draw(drawingContext, sampleText3, 0, 300, 60);
+  font.draw(drawingContext, sampleText4, 0, 400, 60);
   //font.download(); 
 }
 
