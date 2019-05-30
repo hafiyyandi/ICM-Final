@@ -19,9 +19,7 @@ function preload() {
   fontData_1 = loadBytes('LeagueGothic-Regular.otf');
   fontData_2 = loadBytes('Cinzel-Regular.otf');
   fontData_3 = loadBytes('ChopinScript.otf');
-  fontData_4 = loadBytes('Monoist-Regular.otf');
-  fontData_5 = loadBytes('SF-Pro-Display-Medium.otf');
-  fontData_6 = loadBytes('WorkSans-Regular.otf');
+  fontData_4 = loadBytes('Nexa-Bold.otf');
 }
 
 function modifyPath(p) {
@@ -78,16 +76,8 @@ function renderText(){
       font = opentype.parse(fontData_3.bytes.buffer);
       //font = font_3;
       break;
-    case "monoist" :
+    case "nexa" :
       font = opentype.parse(fontData_4.bytes.buffer);
-      //font = font_3;
-      break;
-    case "sfprodisplay" :
-      font = opentype.parse(fontData_5.bytes.buffer);
-      //font = font_3;
-      break;
-    case "worksans" :
-      font = opentype.parse(fontData_6.bytes.buffer);
       //font = font_3;
       break;
   }
