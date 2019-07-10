@@ -1,0 +1,233 @@
+#mashup {
+    margin-top: 20px;
+
+    .shape_col {
+        padding: 20px;
+        background-color: white;
+        text-align: center;
+        min-height: 490px;
+        border: 10px solid white;
+        background-color: $ivory;
+        -webkit-box-shadow: 0px 10px 0px -4px rgba(0, 0, 0, 0.18);
+        -moz-box-shadow: 0px 10px 0px -4px rgba(0, 0, 0, 0.18);
+        box-shadow: 0px 10px 0px -4px rgba(0, 0, 0, 0.18);
+    }
+
+    .controls {
+        margin-top: 20px;
+
+        .control_unit {
+            margin-bottom: 10px;
+            font-size: 0.2em !important;
+            text-align: left;
+
+            &:after {
+                content: "";
+                display: table;
+                clear: both;
+
+            }
+
+            .control_label {
+                width: 30%;
+                float: left;
+            }
+
+            .control_label_mid {
+                width: 15%;
+                float: left;
+            }
+
+            .control_slider {
+                width: 45%;
+                float: left;
+            }
+
+            .control_slider_mid {
+                width: 70%;
+                float: left;
+            }
+        }
+
+
+        .control_val {
+            width: 20%;
+            float: right;
+            text-align: left;
+        }
+
+        .control_val_mid {
+            width: 15%;
+            float: right;
+            text-align: right;
+        }
+
+    }
+
+}
+
+/** LEFT SVG (GEOMETRIC) **/
+.st0 {
+    fill: none;
+    stroke: #000000;
+}
+
+
+/** SLIDER STYLING **/
+
+input[type=range].slider {
+    -webkit-appearance: none;
+    width: 100%;
+    margin: 3.2px 0;
+}
+
+input[type=range].slider:focus {
+    outline: none;
+}
+
+input[type=range].slider::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 10.6px;
+    cursor: pointer;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(13, 13, 13, 0);
+    background: #8ab6bc;
+    border-radius: 0px;
+    border: 0px solid rgba(0, 0, 0, 0);
+}
+
+input[type=range].slider::-webkit-slider-thumb {
+    box-shadow: 0px 0px 1px #670000, 0px 0px 0px #810000;
+    border: 0px solid #ff1e00;
+    height: 17px;
+    width: 18px;
+    border-radius: 0px;
+    background: rgba(255, 255, 255, 0.93);
+    cursor: pointer;
+    -webkit-appearance: none;
+    margin-top: -3.2px;
+}
+
+input[type=range].slider:focus::-webkit-slider-runnable-track {
+    background: #9ac0c5;
+}
+
+input[type=range].slider::-moz-range-track {
+    width: 100%;
+    height: 10.6px;
+    cursor: pointer;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(13, 13, 13, 0);
+    background: #8ab6bc;
+    border-radius: 0px;
+    border: 0px solid rgba(0, 0, 0, 0);
+}
+
+input[type=range].slider::-moz-range-thumb {
+    box-shadow: 0px 0px 1px #670000, 0px 0px 0px #810000;
+    border: 0px solid #ff1e00;
+    height: 17px;
+    width: 18px;
+    border-radius: 0px;
+    background: rgba(255, 255, 255, 0.93);
+    cursor: pointer;
+}
+
+input[type=range].slider::-ms-track {
+    width: 100%;
+    height: 10.6px;
+    cursor: pointer;
+    background: transparent;
+    border-color: transparent;
+    color: transparent;
+}
+
+input[type=range].slider::-ms-fill-lower {
+    background: #7aacb3;
+    border: 0px solid rgba(0, 0, 0, 0);
+    border-radius: 0px;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(13, 13, 13, 0);
+}
+
+input[type=range].slider::-ms-fill-upper {
+    background: #8ab6bc;
+    border: 0px solid rgba(0, 0, 0, 0);
+    border-radius: 0px;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(13, 13, 13, 0);
+}
+
+input[type=range].slider::-ms-thumb {
+    box-shadow: 0px 0px 1px #670000, 0px 0px 0px #810000;
+    border: 0px solid #ff1e00;
+    height: 17px;
+    width: 18px;
+    border-radius: 0px;
+    background: rgba(255, 255, 255, 0.93);
+    cursor: pointer;
+    height: 10.6px;
+}
+
+input[type=range].slider:focus::-ms-fill-lower {
+    background: #8ab6bc;
+}
+
+input[type=range].slider:focus::-ms-fill-upper {
+    background: #9ac0c5;
+}
+
+/** DROPDOWN STYLING **/
+.select {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.select select {
+    /*font-family: 'Arial';*/
+    font-size: 0.33em;
+    display: inline-block;
+    width: 100%;
+    cursor: pointer;
+    /**padding: 10px 15px;**/
+    outline: 0;
+    border: 0px solid #000000;
+    border-radius: 0px;
+    background: #8cb5b9;
+    color: #ffffff;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.select select::-ms-expand {
+    display: none;
+}
+
+.select select:hover,
+.select select:focus {
+    color: #ffffff;
+    background: #a5cfda;
+}
+
+.select select:disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.select_arrow {
+    position: absolute;
+    top: 26px;
+    right: 15px;
+    pointer-events: none;
+    border-style: solid;
+    border-width: 8px 5px 0px 5px;
+    border-color: #ffffff transparent transparent transparent;
+}
+
+.select select:hover~.select_arrow,
+.select select:focus~.select_arrow {
+    border-top-color: #ffffff;
+}
+
+.select select:disabled~.select_arrow {
+    border-top-color: #cccccc;
+}

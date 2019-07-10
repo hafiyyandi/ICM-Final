@@ -1,0 +1,74 @@
+@import '_colors';
+@import '_typography';
+@import '_2_windows';
+@import '_3_mashup';
+
+body {
+    font-family: "acumin-pro-wide", sans-serif;
+    background-color: $sand;
+    text-align: center;
+}
+
+#vid_container {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    position: fixed;
+    margin-top: -50%;
+
+    #videobcg {
+        width: inherit;
+        height: inherit;
+        -o-filter: blur(0px);
+        filter: blur(0px);
+        object-fit: cover;
+        transform: scale(1.04);
+        z-index: -10;
+    }
+}
+
+/*-----------------------------------*/
+
+#intro {
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    text-align: center;
+}
+
+
+/*-----------------------------------*/
+
+#content {
+
+    margin-top: 50%;
+
+    .section {
+        margin-bottom: 80px;
+    }
+
+    .paragraph_wrapper {
+        margin-top: 40px;
+        width: 60%;
+        left: auto;
+        text-align: left;
+        display: inline-block;
+    }
+
+    .section_end {
+        margin-top: 40px;
+    }
+
+    .docs {
+        margin-top: 40px;
+
+        img {
+            width: 100%;
+        }
+    }
+}
+
+#portraits {
+    margin-top:20px;
+}

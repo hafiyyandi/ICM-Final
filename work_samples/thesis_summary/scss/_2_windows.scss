@@ -1,0 +1,116 @@
+#software {
+    text-align: left;
+
+    #photo_window,
+    #passport_window {
+        font-size: 1.3em;
+        text-align: left;
+    }
+
+    .photo_cont {
+        text-align: center;
+    }
+
+    #photo {
+        width: 40%;
+    }
+
+    #passport {
+        width: 100%;
+    }
+
+    .window {
+        background: $window-lightgrey;
+        border: 1px solid;
+        border-top-color: $window-white;
+        border-left-color: $window-white;
+        border-right-color: black;
+        border-bottom-color: black;
+
+        .window_inner {
+            border: 1px solid;
+            border-top-color: white;
+            border-left-color: white;
+            border-right-color: $window-grey;
+            border-bottom-color: $window-grey;
+
+            .window_heading {
+                margin: 2px 2px 0;
+                padding: 0.5rem;
+                color: #fff;
+                background: linear-gradient(to right, $window-blue, $window-lightblue);
+                font-weight: bold;
+                font-size: 0.5em;
+                line-height: 16px;
+            }
+
+            .window_actions {
+                margin: 5px 9px;
+                line-height: 1;
+                color: #000;
+                font-size: 0.5em;
+            }
+
+            .window_content {
+                margin: 0 2px 2px 2px;
+                border: 1px solid;
+                border-top-color: $window-grey;
+                border-left-color: $window-grey;
+                border-bottom-color: white;
+                border-right-color: white;
+                font-size: 1.5rem;
+            }
+        }
+
+        .window_btn {
+            outline: 1px solid black;
+            background: $window-lightgrey;
+            border-width: 1px;
+            border-style: solid;
+            border-color: white $window-grey $window-grey white;
+            bottom: 0px;
+            margin-left: 4px;
+
+            &:focus {
+                outline: 1px solid black;
+            }
+
+            &:active {
+                border-color: $window-grey white white $window-grey;
+                outline: none;
+            }
+
+        }
+
+        .print_status:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        #loading_label {
+            width: 40%;
+            float: left;
+        }
+
+        #loading_bar {
+            width: 50%;
+            height: 13px;
+            float: right;
+            border: 1px solid;
+            border-color: $window-grey white white $window-grey;
+
+            #loading_inner {
+                background-color: $window-blue;
+                height: 100%;
+                width: 0%;
+            }
+        }
+
+        #passport {
+            height: 0%;
+            background-repeat: no-repeat;
+            background-size: 100% auto;
+        }
+    }
+}

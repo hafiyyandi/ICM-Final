@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- p5.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/addons/p5.dom.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- SVG libraries-->
+    <script src="https://unpkg.com/flubber@0.3.0"></script>
+    <script src="js/paper-full.js"></script>
+    <!-- Styling-->
+    <link rel="stylesheet" href="https://use.typekit.net/daw5qot.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="css/skeleton.css">
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <script src='js/dom.js'></script>
+    <script src='js/sketch.js'></script>
+    <script src='js/rosette.js'></script>
+    <script src='js/mashshapes.js'></script>
+    <script src='js/intersections.js'></script>
+    <script src='js/mohnotmoh.js'></script>
+    
+    <div id="intro">
+        <h1> Who is Mohammad?</h1>
+    </div>
+
+    <div id="vid_container">
+        <video id="videobcg" preload="auto" autoplay="true" loop="loop" muted="muted" volume="0">
+            <source src="media/mohs/spin.mp4" type="video/mp4">
+            Sorry, your browser does not support HTML5 video.
+        </video>
+    </div>
+
+    <div class="container" id="content">
+        
+        <!--0: INTRO-->
+        <div class="section">
+            <h2> 0: Intro </h2>
+            <div class="paragraph_wrapper">
+                <p>
+                    <span class="highlight">
+                    Identity is not only self-produced, but also negotiated externally. An immigrant since a teenager, I've had to continuously adjust my identity to blend in and feel accepted. Unfortunately, this identitarian inconsistency also persists even when my well-being is not really at stake; I have become unable to sufficiently articulate who I am. Who is "Mohammad Hafiyyandi?"
+                    </span>
+                </p>
+                <p>
+                    <span class="highlight">
+                    This is a summary of my thesis project done at NYU ITP on a 3-part experiment to find ways to find an identity and an identitarian expression that work for me.
+                    </span>
+                </p>
+            </div>
+            <div class="section_end">
+                • • •
+            </div>
+        </div>
+
+
+        <!--1: TALKING SELF PORTRAITS-->
+        <div class="section">
+            <h2> 1: Internal Construction of Self </h2>
+            <div class="paragraph_wrapper">
+                <p>
+                    <span class="highlight">
+                    Do I say I'm "A <i>and</i> B", or "A <i>but</i> B"? Can I say <i>neither</i>?
+                    </span>
+                </p>
+                <p>
+                    <span class="highlight">
+                    I took self-portraits and made a bot trained on my chat logs.
+                    Then, I built an installation made of two self-portraits that <i>talk to & merge with</i> each other. Also, as illustrated in the sketch below, these portraits play hide & seek with their viewers.
+                    </span>
+                </p>
+            </div>
+            <div class="row">
+                <div class="twelve columns" id="portraits">
+                </div>
+            </div>
+            <div class="row docs">
+                <div class="one-third column"> <img src="media/docs/doc_por_1.jpg"></div>
+                <div class="one-third column"> <img src="media/docs/doc_por_2.jpg"></div>
+                <div class="one-third column"> <img src="media/docs/doc_por_3.jpg"></div>
+            </div>
+            <div class="section_end">
+                • • •
+            </div>
+        </div>
+
+
+        <!--2: PASSPORTS-->
+        <div class="section">
+            <h2> 2: Denying an Imposed Narrative </h2>
+            <div class="paragraph_wrapper">
+                <p>
+                    <span class="highlight">
+                    Every time I have an international flight, I make sure I shave and dress up properly. If I don't, I might just get randomly checked or even temporarily detained to be interviewed.
+                    </span>
+                </p>
+                <p>
+                    <span class="highlight">
+                    I made a second installation, sarcastically portraying these experiences.
+                    </span>
+                </p>
+            </div>
+            <div class="row" id="software">
+                <div class="two-thirds column window" id="photo_window">
+                    <div class="window_inner">
+                        <div class="window_heading">
+                            <img src="media/icon/address_book_users.ico" height="15px">
+                            BUREAU OF MOHAMMAD CLASSIFICATION
+                        </div>
+                        <div class="window_actions">
+                            Mohammad or not Mohammad?
+                        </div>
+                        <div class="window_content photo_cont">
+                            <img id="photo" src="media/mohs/w-1.jpg">
+                        </div>
+                        <button class="window_btn" id="moh">MOHAMMAD</button>
+                        <button class="window_btn" id="not_moh">NOT MOHAMMAD</button>
+                    </div>
+                </div>
+                <div class="one-third column window" id="passport_window">
+                    <div class="window_inner">
+                        <div class="window_heading">
+                            <img src="media/icon/printer.ico" height="15px">
+                            VISA PRINTING
+                        </div>
+                        <div class="window_actions print_status">
+                            <div id="loading_label">No print job</div>
+                            <div id="loading_bar">
+                                <div id="loading_inner"></div>
+                            </div>
+                        </div>
+                        <div class="window_content" id="print_job">
+                            <span class='starting_text'>Start classifying to start printing...</span>
+                            <div id="passport"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row docs">
+                <div class="one-third column"> <img src="media/docs/doc_pass_1.jpg"></div>
+                <div class="one-third column"> <img src="media/docs/doc_pass_2.jpg"></div>
+                <div class="one-third column"> <img src="media/docs/doc_pass_3.jpg"></div>
+            </div>
+            <div class="section_end">
+                • • •
+            </div>
+        </div>
+
+
+        <!--3: SHAPES IN-BETWEEN-->
+        <div class="section">
+            <h2> 3: Repurposing an <br>Identitarian Expression </h2>
+            <div class="paragraph_wrapper">
+                <p>
+                    <span class="highlight">
+                    Can I use a conventional identitarian vocabulary and make it truly my own? I used a script to interpolate between Islamic perfect geometric shapes with doodles of things I like.
+                    </span>
+                </p>
+            </div>
+            <div class="row" id="mashup">
+                <div class="one-third column shape_col">
+                    <h4> L: Geometric </h4>
+                    <svg id="rosette" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+                    </svg>
+                    <div class="controls">
+                        <div class="control_unit">
+                            <div class="control_label"> POLYGON </div>
+                            <div class="control_slider">
+                                <input type="range" min="0" max="3" value="1" class="slider" id="slider_n" onchange="update_n(this.value);">
+                            </div>
+                            <div class="control_val">
+                                <span id="n_value">8</span>
+                            </div>
+                        </div>
+                        <div class="control_unit">
+                            <div class="control_label"> OPENING </div>
+                            <div class="control_slider">
+                                <input type="range" min="10" max="80" value="50" class="slider" id="slider_angle" onchange="update_angle(this.value);">
+                            </div>
+                        </div>
+                        <div class="control_unit">
+                            <div class="control_label"> THICKNESS </div>
+                            <div class="control_slider">
+                                <input type="range" min="1" max="15" value="10" class="slider" id="slider_length" onchange="update_width(this.value);">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="one-third column shape_col">
+                    <h4> In-Between </h4>
+                    <canvas id="crestCanvas"> </canvas>
+                    <div class="controls">
+                        <div class="control_unit">
+                            <div class="control_label_mid"> L </div>
+                            <div class="control_slider_mid">
+                                <input type="range" min="0" max="100" value="50" class="slider" id="slider_inter" onchange="update_inter(this.value);">
+                            </div>
+                            <div class="control_val_mid"> R
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="one-third column shape_col">
+                    <h4> R: Doodles </h4>
+                    <img id="customicon" src="media/shapes/dog.svg">
+                    <div class="controls">
+                        <div class="select">
+                            <select onchange="updateicon(this.value);">
+                                <option value="dog">DOG</option>
+                                <option value="eye">EYE</option>
+                                <option value="fingers">FINGERS</option>
+                                <option value="music2">MUSIC</option>
+                                <option value="pen">PEN</option>
+                                <option value="tattoo2">WRITING</option>
+                            </select>
+                            <div class="select_arrow">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="paragraph_wrapper">
+                <p>
+                    <span class="highlight">
+                    Using these messy, imperfect, in-between shapes, I made a custom praying mat (sajadah) for myself.
+                    </span>
+                </p>
+            </div>
+            <div class="row docs">
+                <div class="six columns"> <img src="media/docs/doc_pat_1.jpg"></div>
+                <div class="six columns"> <img src="media/docs/doc_pat_2.jpg"></div>
+            </div>
+            <div class="row docs">
+                <div class="twelve columns"> <img src="media/docs/doc_pat_3.jpg"></div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
