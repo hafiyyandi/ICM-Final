@@ -28,7 +28,7 @@ let inter_val = 0.5;
 
 //update icon (RIGHT)
 function updateicon(str) {
-    $('#customicon').attr('src', '../media/shapes/' + str + '.svg');
+    $('#customicon').attr('src', 'media/shapes/' + str + '.svg');
     for (let i = 0; i < svgs.length; i++) {
         if (svgs[i].name == str) {
             icon = svgs[i];

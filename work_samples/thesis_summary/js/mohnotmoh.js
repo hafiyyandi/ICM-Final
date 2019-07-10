@@ -11,7 +11,7 @@ function classify_as_mohammad() {
 
 	$('#passport').height('0%');
 
-    let source = '../media/passports/p' + photo_index + 'c.png';
+    let source = 'media/passports/p' + photo_index + 'c.png';
     $('#passport').css('background-image', 'url(' + source + ')');
 
     if (photo_index < 4) {
@@ -28,7 +28,7 @@ function classify_as_not_mohammad() {
 
 	$('#passport').height('0%');
 
-    let source = '../media/passports/p' + photo_index + 'o.png';
+    let source = 'media/passports/p' + photo_index + 'o.png';
     $('#passport').css('background-image', 'url(' + source + ')');
 
     if (photo_index < 4) {
@@ -68,7 +68,7 @@ function loadtime() {
         $('#moh').attr("disabled", false);
         $('#not_moh').attr("disabled", false);
 
-        let photo_source = '../media/mohs/w-' + photo_index + '.jpg';
+        let photo_source = 'media/mohs/w-' + photo_index + '.jpg';
         $('#photo').attr('src', photo_source);
     }
 

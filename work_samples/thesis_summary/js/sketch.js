@@ -5,12 +5,12 @@
 let cnv;
 
 let svg_URLs = [
-    '../media/shapes/dog.svg',
-    '../media/shapes/eye.svg',
-    '../media/shapes/fingers.svg',
-    '../media/shapes/music2.svg',
-    '../media/shapes/pen.svg',
-    '../media/shapes/tattoo2.svg'
+    'media/shapes/dog.svg',
+    'media/shapes/eye.svg',
+    'media/shapes/fingers.svg',
+    'media/shapes/music2.svg',
+    'media/shapes/pen.svg',
+    'media/shapes/tattoo2.svg'
 ];
 let svgs = [];
 let icon;
@@ -48,11 +48,11 @@ function setup() {
     resizeCanvas(pwidth, pheight);
     background('white');
 
-    l_port = loadImage('../media/portraits/left.png');
-    r_port = loadImage('../media/portraits/right.png');
-    l_port_mix = loadImage('../media/portraits/left_mix.png');
-    r_port_mix = loadImage('../media/portraits/right_mix.png');
-    eye = loadImage('../media/icon/eye.png');
+    l_port = loadImage('media/portraits/left.png');
+    r_port = loadImage('media/portraits/right.png');
+    l_port_mix = loadImage('media/portraits/left_mix.png');
+    r_port_mix = loadImage('media/portraits/right_mix.png');
+    eye = loadImage('media/icon/eye.png');
     
     //for some reason loading the image together with the SVGs will break p5...
     //assumption here is after 3s the SVGs would all have been loaded
