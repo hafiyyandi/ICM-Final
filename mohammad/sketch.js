@@ -113,13 +113,10 @@ function draw() {
 }
 
 function checkIfWithin(x1, y1, x2, y2, d) {
+    //check if eyes are close to the selfportraits
     let r = d / 2;
     let d1 = int(dist(mouseX, mouseY, x1, y1));
     let d2 = int(dist(mouseX, mouseY, x2, y2));
-
-    // console.log('r: '+r);
-    // console.log('d1: ' + d1);
-    // console.log('d2: ' + d2);
 
     if (d1 <= r && d2 <= r) {
         return 3;
@@ -136,11 +133,11 @@ function checkIfWithin(x1, y1, x2, y2, d) {
 function whiten(str) {
     if (str == 'L') {
         if (white_alpha_L < 255) {
-            white_alpha_L+=2;
+            white_alpha_L += 2;
         }
     } else {
         if (white_alpha_R < 255) {
-            white_alpha_R+=2;
+            white_alpha_R += 2;
         }
     }
 }
@@ -148,11 +145,11 @@ function whiten(str) {
 function clear_white(str) {
     if (str == 'L') {
         if (white_alpha_L > 0) {
-            white_alpha_L-=2;
+            white_alpha_L -= 2;
         }
     } else {
         if (white_alpha_R > 0) {
-            white_alpha_R-=2;
+            white_alpha_R -= 2;
         }
     }
 }
