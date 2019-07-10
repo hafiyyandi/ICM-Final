@@ -1,0 +1,435 @@
+#preview_panel #summary #right_p #social_stats_box .social_icon, .social_icon, .icon {
+  height: 15px;
+}
+
+#form_panel #thankyou_wrapper .backto_button, #form_panel form .login_button, #form_panel form .submit_button, #form_panel form .next_button {
+  width: 100%;
+  padding: 20px;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  -webkit-transition: all 0.1s ease-out;
+  -moz-transition: all 0.1s ease-out;
+  -o-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+}
+#form_panel #thankyou_wrapper .backto_button:focus, #form_panel form .login_button:focus, #form_panel form .submit_button:focus, #form_panel form .next_button:focus {
+  outline: none;
+}
+
+#form_panel form .alternate_button, #form_panel form .add_button {
+  font-size: 0.9rem;
+  text-align: left;
+  background: none;
+  border: none;
+  margin: 20px 0;
+  padding: 0;
+  text-decoration: underline;
+  color: #C6C6C6;
+  -webkit-transition: all 0.1s ease-out;
+  -moz-transition: all 0.1s ease-out;
+  -o-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+}
+#form_panel form .alternate_button:focus, #form_panel form .add_button:focus {
+  outline: none;
+}
+#form_panel form .alternate_button:hover, #form_panel form .add_button:hover {
+  color: black;
+}
+
+#form_panel form .sociallink_input, #form_panel form textarea, #form_panel form input {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-top: 10px;
+  padding: 10px 10px;
+  border: none;
+  border-bottom: 1px solid #C6C6C6;
+  background-color: #f5f5f5;
+  width: 100%;
+}
+#form_panel form .sociallink_input::placeholder, #form_panel form textarea::placeholder, #form_panel form input::placeholder {
+  color: #C6C6C6;
+}
+#form_panel form .sociallink_input:focus, #form_panel form textarea:focus, #form_panel form input:focus {
+  outline: none;
+  background-color: white;
+  border-bottom: 2px solid #8FB3B6;
+  margin-bottom: -1px;
+}
+#form_panel form .sociallink_input:hover, #form_panel form textarea:hover, #form_panel form input:hover {
+  border-bottom: 2px solid #8FB3B6;
+  margin-bottom: -1px;
+}
+
+#form_panel {
+  font-family: "acumin-pro-wide", sans-serif;
+  float: left;
+  width: 30%;
+  height: 100%;
+  overflow-y: auto;
+  padding: 50px 50px 80px 50px;
+  border-right: 1px #C6C6C6 solid;
+}
+#form_panel form {
+  /*styling for file upload*/
+}
+#form_panel form .section_label {
+  padding: 10px 15px;
+  border: 1px #C6C6C6 solid;
+  border-radius: 3px;
+  display: inline-block;
+  margin: 60px 0;
+  background: white;
+}
+#form_panel form .section_label h3 {
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-bottom: 0;
+}
+#form_panel form .submit_button, #form_panel form .next_button {
+  color: white;
+  background: black;
+  font-weight: 700;
+  border: none;
+}
+#form_panel form .submit_button:hover, #form_panel form .next_button:hover {
+  background: #8FB3B6;
+}
+#form_panel form .alternate_button {
+  color: #9B9B9B;
+  margin-top: 10px;
+}
+#form_panel form .login_button {
+  border: 1px #9B9B9B solid;
+  margin-bottom: 10px;
+}
+#form_panel form .login_button:hover {
+  background-color: #f5f5f5;
+  border: 1px black solid;
+}
+#form_panel form .question {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+}
+#form_panel form .desc {
+  font-size: 0.8rem;
+  color: #9B9B9B;
+}
+#form_panel form .fileContainer {
+  overflow: hidden;
+  position: relative;
+  margin-top: 20px;
+  height: 200px;
+  background: #C6C6C6;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#form_panel form .fileContainer .plus {
+  font-size: 3rem;
+  font-weight: 700;
+  color: white;
+}
+#form_panel form .fileContainer [type=file] {
+  cursor: inherit;
+  display: block;
+  font-size: 999px;
+  filter: alpha(opacity=0);
+  min-height: 100%;
+  min-width: 100%;
+  opacity: 0;
+  position: absolute;
+  right: 0;
+  text-align: right;
+  top: 0;
+}
+#form_panel form .sociallogin_wrapper {
+  margin-top: 20px;
+}
+#form_panel form .success_box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+#form_panel form .success_box .check {
+  align-self: flex-end;
+}
+#form_panel form .sociallink_input {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+#form_panel form .sociallink_input input {
+  border: none;
+  padding: 0;
+  width: 90%;
+  margin: 0;
+}
+#form_panel #thankyou_wrapper {
+  margin: 60px 0;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#form_panel #thankyou_wrapper h3 {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+#form_panel #thankyou_wrapper .backto_button {
+  border: 1px #9B9B9B solid;
+  color: #C6C6C6;
+  margin-top: 60px;
+  margin-bottom: 10px;
+}
+#form_panel #thankyou_wrapper .backto_button:hover {
+  background-color: #8FB3B6;
+  color: white;
+  border: 1px #8FB3B6 solid;
+}
+
+.social_icon {
+  margin-right: 10px;
+}
+
+#preview_panel {
+  font-family: "aktiv-grotesk-extended", sans-serif;
+  float: left;
+  width: 70%;
+  height: 100%;
+  overflow-y: auto;
+  padding: 20px 50px;
+  /*---------------------*/
+  /*---------------------*/
+  /*---------------------*/
+}
+#preview_panel .untouched {
+  color: #C6C6C6 !important;
+}
+#preview_panel h1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 3.5rem;
+  line-height: 3rem;
+}
+#preview_panel h2 {
+  font-weight: 400;
+  color: #9B9B9B;
+  font-size: 1.5rem;
+}
+#preview_panel h3 {
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+#preview_panel h3 b {
+  font-weight: 700;
+}
+#preview_panel h4 {
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-bottom: 10px;
+}
+#preview_panel #summary {
+  padding-bottom: 60px;
+  margin-top: 20%;
+}
+#preview_panel #summary #left_p {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+#preview_panel #summary #left_p .child {
+  margin: 15px 0;
+}
+#preview_panel #summary #left_p p {
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+}
+#preview_panel #summary #left_p p .highlight {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+#preview_panel #summary #left_p #email {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 0.9rem;
+  color: black;
+  font-weight: 700;
+}
+#preview_panel #summary #right_p .image_wrapper {
+  overflow: hidden;
+}
+#preview_panel #summary #right_p .image_wrapper img {
+  display: block;
+  width: 100%;
+  margin: -21.875% 0;
+}
+#preview_panel #summary #right_p #social_stats_box {
+  margin-right: auto;
+  margin-left: auto;
+  background: #2B2B2B;
+  color: white;
+}
+#preview_panel #summary #right_p #social_stats_box .social_item {
+  padding: 20px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+#preview_panel #summary #right_p #social_stats_box .follower_count {
+  font-size: 3rem;
+  font-weight: 700;
+}
+#preview_panel #summary #right_p #social_stats_box a {
+  font-size: 0.9rem;
+  color: white;
+}
+#preview_panel #analytics {
+  font-size: 0.9rem;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  border-top: 1px #C6C6C6 solid;
+  border-bottom: 1px #C6C6C6 solid;
+}
+#preview_panel #analytics .analytics_item {
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+}
+#preview_panel #analytics #analytics_gender .percent, #preview_panel #analytics .featured {
+  font-size: 2.8rem;
+  font-weight: 700;
+}
+#preview_panel #analytics #analytics_age .agerow {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 2px;
+}
+#preview_panel #analytics #analytics_age .agerow .age {
+  width: 50%;
+  font-size: 0.8rem;
+}
+#preview_panel #analytics #analytics_age .agerow .bar_wrapper {
+  width: 50%;
+  height: 100%;
+}
+#preview_panel #analytics #analytics_age .agerow .bar_wrapper .bar {
+  width: 50%;
+  background-color: #C6C6C6;
+  height: 100%;
+}
+#preview_panel .subsection {
+  margin-top: 60px;
+}
+#preview_panel #featuredcontent .insta {
+  min-height: 200px;
+}
+#preview_panel #featuredcontent .youtube {
+  min-height: 200px;
+}
+#preview_panel #featuredcontent .content_item {
+  display: flex;
+  flex-direction: row;
+}
+#preview_panel #featuredcontent .content_item .content_image_wrapper {
+  background: #C6C6C6;
+  height: 100%;
+  width: 50%;
+}
+#preview_panel #featuredcontent .content_item .content_text_wrapper {
+  background: #f1f1f1;
+  height: 100%;
+  width: 50%;
+  padding: 15px;
+}
+#preview_panel #featuredcontent .content_item .caption {
+  font-size: 0.8rem;
+  margin-top: 20px;
+}
+#preview_panel #clientlist .client_item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+#preview_panel #clientlist .client_item .client_image_wrapper {
+  width: 50px;
+  height: 50px;
+  background-color: #C6C6C6;
+}
+#preview_panel #clientlist .client_item .client_text_wrapper {
+  padding-left: 15px;
+}
+#preview_panel #presslist {
+  margin-bottom: 80px;
+}
+#preview_panel #presslist .press_item {
+  display: flex;
+  flex-direction: row;
+  min-height: 150px;
+}
+#preview_panel #presslist .press_item .press_image_wrapper {
+  background: #C6C6C6;
+  height: 100%;
+  width: 50%;
+}
+#preview_panel #presslist .press_item .press_text_wrapper {
+  background: #f1f1f1;
+  height: 100%;
+  width: 50%;
+  padding: 15px;
+}
+#preview_panel #presslist .press_item .source {
+  font-size: 0.8rem;
+}
+#preview_panel #presslist .press_item .title {
+  font-size: 0.8rem;
+  margin-top: 20px;
+}
+
+/* class for making clickable divs */
+.big_link {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.navigation {
+  font-family: "acumin-pro-wide", sans-serif;
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  margin-top: 0;
+  width: 100%;
+  z-index: 12;
+  font-size: 0.9rem;
+}
+.navigation .form_nav {
+  width: 30%;
+  padding: 20px;
+  background: white;
+  border-right: 1px #C6C6C6 solid;
+}
+.navigation .preview_nav {
+  width: 70%;
+  padding: 20px;
+  background: #FFFFAB;
+}
+
+/*# sourceMappingURL=2panel_style.css.map */

@@ -1,0 +1,486 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Adobe TypeKit -->
+    <link rel="stylesheet" href="https://use.typekit.net/lzq6ssm.css">
+    <!-- page-specific CSS -->
+    <link rel="stylesheet" type="text/css" href="/static/css/2panel_style.css">
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <!-- custom scripts -->
+    <script src="/js/preview_render.js"></script>
+    <script src="/js/form_modifs.js"></script>
+    <title>Media Kit Generator</title>
+</head>
+
+<body>
+
+    <div class="navigation">
+        <div class="form_nav">
+            <b> CORCUS </b> | Media Kit Generator
+        </div>
+        <div class="preview_nav">
+            <span class="status"> preview </span>
+        </div>
+    </div>
+
+    <!-------------------------->
+    <!--Form, controls Preview-->
+
+    <div id="form_panel">
+        <form>
+            
+            <!------------------------
+            ---Form, Section 2: BIO---
+            -------------------------->
+            <div id="section_1">
+                <div class="section_label">
+                    <h3> 1/3 Bio ⚡️ </h3>
+                </div>
+                <div class="question">
+                    Name
+                    <input class="short_answer" type="text" value="" id="f_name" name="name" placeholder="Your Name">
+                </div>
+                <div class="question">
+                    Tagline
+                    <div class="desc"> e.g. Lifestyle & Fitness Creator, Entrepreneur</div>
+                    <input class="short_answer" type="text" value="" id="f_tagline" name="tagline" placeholder="Your Answer...">
+                </div>
+                <div class="question">
+                    E-mail
+                    <input class="short_answer" type="text" value="" id="f_email" name="email" placeholder="hello@mywebsite.com">
+                </div>
+                <div class="question">
+                    Your bio, short & sweet
+                    <textarea rows="3" name="bio" id="f_bio" placeholder="It's okay to show off a little!"> </textarea>
+                </div>
+                <div class="question">
+                    Featured photo
+                    <div class="desc">Recommended size: 1920 x 1080px</div>
+                    <label class="fileContainer">
+                        <div class="plus"> + </div>
+                        <input type="file" name="pic" accept="image/*">
+                    </label>
+                </div>
+                <button type="button" id="show_section_2" class="next_button"> Next: Portfolio 💪</button>
+            </div>
+
+            <!-------------------------------------------
+            ---Form, Section 2: CONTENT, CLIENT, PRESS---
+            -------------------------------------------->
+            <div id="section_2">
+                <div class="section_label">
+                    <h3> 2/3 Portfolio 💪 </h3>
+                </div>
+                <div class="question">
+                    Let's feature some of your best content. Paste the links!
+                    <div id="content_inputs">
+                        <input class="short_answer content_item" type="text" value="" name="content_item" placeholder="https://instagram.com/...">
+                    </div>
+                    <button id="add_content" type="button" class="add_button"> + add content link </button>
+                </div>
+                <div class="question">
+                    What clients have you worked with before?
+                    <div id="client_inputs">
+                        <input class="short_answer client_item" type="text" value="" name="client_item" placeholder="Your Answer...">
+                    </div>
+                    <button id="add_client" type="button" class="add_button"> + add client</button>
+                </div>
+                <div class="question">
+                    Have you appeared in any article or media? Paste the links!
+                    <div id="press_inputs">
+                        <input class="short_answer press_item" type="text" value="" name="press_item" placeholder="https://news.com/...">
+                    </div>
+                    <button id="add_press" type="button" class="add_button"> + add press link</button>
+                </div>
+                <button type="button" id="show_section_3" class="next_button"> Next: Analytics 📶</button>
+            </div>
+
+            <!--------------------------------
+            ---Form, Section 3: SOCIAL ACCTS---
+            ---------------------------------->
+            <div id="section_3">
+                <div class="section_label">
+                    <h3> 3/3 Audience Analytics 📶 </h3>
+                </div>
+                <div id="login_wrapper" class="question">
+                    <p> Almost there! 🙌 </p>
+                    <p> Audience data helps attract sponsors & clients. Let's connect your social account so Corcus can display your audience data in your media kit.</p>
+                    <div class="sociallogin_wrapper">
+                        <div class="sociallogin_item">
+                            <div id="success_insta" class="success_box">
+                                <img class="social_icon" src="/static/images/global/ico_instagram_black.svg" alt="instagram icon">
+                                <div id="f_handle_insta"> @yourhandle </div>
+                                <div class="check"> <img class="icon" src="/static/images/global/ico_check.svg" alt="green check"> </div>
+                            </div>
+                            <button type="button" id="sociallogin_insta" class="login_button"> <img class="social_icon" src="/static/images/global/ico_instagram_black.svg" alt="instagram icon">Connect to Instagram</button>
+                        </div>
+                        <div class="sociallogin_item">
+                            <div id="success_twitter" class="success_box">
+                                <img class="social_icon" src="/static/images/global/ico_twitter_black.svg" alt="twitter icon">
+                                <div id="f_handle_twitter"> @yourhandle </div>
+                                <div class="check"> <img class="icon" src="/static/images/global/ico_check.svg" alt="green check"> </div>
+                            </div>
+                            <button type="button" id="sociallogin_twitter" class="login_button"><img class="social_icon" src="/static/images/global/ico_twitter_black.svg" alt="twitter icon">Connect to Twitter</button>
+                        </div>
+                        <div class="sociallogin_item">
+                            <div id="success_youtube" class="success_box">
+                                <img class="social_icon" src="/static/images/global/ico_youtube_black.svg" alt="youtube icon">
+                                <div id="f_handle_youtube"> your channel name </div>
+                                <div class="check"> <img class="icon" src="/static/images/global/ico_check.svg" alt="green check"> </div>
+                            </div>
+                            <button type="button" id="sociallogin_youtube" class="login_button"><img class="social_icon" src="/static/images/global/ico_youtube_black.svg" alt="youtube icon">Connect to Youtube</button>
+                        </div>
+                    </div>
+                    <button id="show_link" type="button" class="alternate_button">I prefer not showing my analytics</button>
+                </div>
+                <div id="link_wrapper" class="question">
+                    <p> That's alright!</p>
+                    <p> Final question, then. What are your account links? We'll add your follower count to your media kit ✨</p>
+                    <div class="sociallink_input">
+                        <img class="social_icon" src="/static/images/global/ico_instagram_black.svg" alt="instagram icon">
+                        <input class="social_answer" id="f_insta" type="text" value="" name="insta" placeholder="https://instagram.com/...">
+                    </div>
+                    <div class="sociallink_input">
+                        <img class="social_icon" src="/static/images/global/ico_twitter_black.svg" alt="twitter icon">
+                        <input class="social_answer" id="f_twitter" type="text" value="" name="twitter" placeholder="https://twitter.com/...">
+                    </div>
+                    <div class="sociallink_input">
+                        <img class="social_icon" src="/static/images/global/ico_youtube_black.svg" alt="youtube icon">
+                        <input class="social_answer" id="f_youtube" type="text" value="" name="youtube" placeholder="https://youtube.com/...">
+                    </div>
+                    <button id="show_link" type="button" class="alternate_button">I want to connect my accounts!</button>
+                </div>
+                <button type="button" id="submit" class="submit_button"> Save & Submit!</button>
+            </div>
+        </form>
+
+        <div id="thankyou_wrapper">
+            <h3> 🎉🎉🎉 <br> You're Done! </h3>
+            <p> We are currently processing your data. Once your media kit is ready, we'll send a link to your email! </p>
+            <p>Thank you for using Corcus! </p>
+            <button type="button" id="backto_edit" class="backto_button"> Back to Editing</button>
+        </div>
+    </div>
+
+    <!-------------------------------------------------->
+    <!--Preview, gets rendered based on inputs in Form-->
+
+    <div id="preview_panel">
+        
+        <!--------------------------------
+        ---Preview, Section 1: SUMMARY---
+        ---------------------------------->
+        
+        <div class="container" id="summary">    
+            <div class="row">
+                <div class="col-lg-4" id="left_p">
+                    <div>
+                        <h1 id="name" class="untouched">John Doe</h1>
+                        <h2 id="tagline" class="untouched">Tagline</h2>
+                    </div>
+                    <a id="email" class="untouched" href="mailto:">hello@mywebsite.com</a>
+                    <div id="bio" class="untouched">
+                        <p> <span class="highlight">Hi. I’m Alex. </span> I’m an artist/author who’s getting more people to design and use human-friendly technology : )
+                            My focus is on social tech specifically (i.e. social media, texting, memes etc.); how they change our cultural environments thus our behaviors and ultimately human connection </p>
+                    </div>
+                </div>
+                <div class="col-lg-8" id="right_p">
+                    <div class="image_wrapper">
+                        <img id="profilephoto" src="/static/images/global/main_placeholder.jpg" alt="">
+                    </div>
+                    <div class="row" id="social_stats_box">
+                        <div class="col-sm-6 social_item untouched" id="insta">
+                            <a target="_blank" href=""> <span class="big_link"></span> </a>
+                            <span class="follower_count" id="count_insta"> -- </span>
+                            <br>
+                            <img class="social_icon" src="/static/images/global/ico_instagram.svg" alt="instagram icon"> <a class="social_link untouched" id="handle_insta" href="">@johndoe</a>
+                        </div>
+                        <div class="col-sm-6 social_item untouched" id="twitter">
+                            <a target="_blank" href=""> <span class="big_link"></span> </a>
+                            <span class="follower_count" id="count_twitter"> -- </span>
+                            <br>
+                            <img class="social_icon" src="/static/images/global/ico_twitter.svg" alt="twitter icon"><a class="social_link untouched" id="handle_twitter" href="">@johndoe</a>
+                        </div>
+                        <div class="col-sm-6 social_item untouched" id="youtube">
+                            <a target="_blank" href=""> <span class="big_link"></span> </a>
+                            <span class="follower_count" id="count_youtube"> -- </span>
+                            <br>
+                            <img class="social_icon" src="/static/images/global/ico_youtube.svg" alt="youtube icon"> <a class="social_link untouched" id="handle_youtube" href="">johndoe</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--------------------------------
+        ---Preview, Section 2: ANALYTICS---
+        ---------------------------------->
+
+        <div class="container" id="analytics">
+            <h3> <b> Analytics: </b> Youtube</h3>
+            <div class="row padd_adjust">
+                <div class="col-md-3 analytics_item untouched" id="analytics_gender">
+                    <h4>Gender </h4>
+                    <span class="percent " id="gender_female"> -% </span>
+                    <span class="gender "> female </span> 
+                    <span class="percent " id="gender_male"> -% </span>
+                    <span class="gender "> male </span>    
+                </div>
+                <div class="col-md-3 analytics_item untouched" id="analytics_age">
+                    <h4>Age Range</h4>
+                    <div class="agerow">
+                        <div class="age">13-17</div>
+                        <div class="bar_wrapper">
+                            <div class="bar" id="13-17"> </div>      
+                        </div>
+                    </div>
+                    <div class="agerow">
+                        <div class="age">18-24</div>
+                        <div class="bar_wrapper">
+                            <div class="bar" id="18-24"> </div>      
+                        </div>
+                    </div>
+                    <div class="agerow">
+                        <div class="age">25-34</div>
+                        <div class="bar_wrapper">
+                            <div class="bar" id="25-34"> </div>      
+                        </div>
+                    </div>
+                    <div class="agerow">
+                        <div class="age">35-44</div>
+                        <div class="bar_wrapper">
+                            <div class="bar" id="35-44"> </div>      
+                        </div>
+                    </div>
+                    <div class="agerow">
+                        <div class="age">45-54</div>
+                        <div class="bar_wrapper">
+                            <div class="bar" id="45-54"> </div>      
+                        </div>
+                    </div>
+                    <div class="agerow">
+                        <div class="age">55-64</div>
+                        <div class="bar_wrapper">
+                            <div class="bar" id="55-64"> </div>      
+                        </div>
+                    </div>
+                    <div class="agerow">
+                        <div class="age">65+</div>
+                        <div class="bar_wrapper">
+                            <div class="bar" id="65"> </div>      
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 analytics_item untouched" id="analytics_cities">
+                    <h4>Top Cities</h4>
+                    <div> City 1 </div>
+                    <div> City 2 </div>
+                    <div> City 3 </div>
+                    
+                </div>            
+                <div class="col-md-3 analytics_item untouched" id="analytics_countries">
+                    <h4>Top Countries</h4>
+                    <div> Country 1 </div>
+                    <div> Country 2 </div>
+                    <div> Country 3 </div>
+                    
+                </div>
+                <div class="col-md-3 analytics_item untouched" id="analytics_views">
+                    <h4>Avg View / Video</h4>
+                    <span class="featured"> - </span>
+                    
+                </div>   
+                <div class="col-md-3 analytics_item untouched" id="analytics_completion">
+                    <h4>Avg Completion</h4>
+                    <span class="featured"> - </span>
+                    
+                </div>
+                <div class="col-md-3 analytics_item untouched" id="analytics_likes">
+                    <h4>Engagement %: Likes</h4>
+                    <span class="featured"> -% </span>
+                    
+                </div>   
+                <div class="col-md-3 analytics_item untouched" id="analytics_comments">
+                    <h4>Engagement %: Comments</h4>
+                    <span class="featured"> -% </span>
+                    
+                </div>     
+            </div>
+        </div>
+
+        <!----------------------------------------------
+        ---Preview, Section 3: CONTENT, CLIENT, PRESS---
+        ----------------------------------------------->
+
+        <div class="container">
+            <div class="subsection">
+                <h3> <b> Featured Content </b> </h3>
+                <div class="row untouched" id="featuredcontent">
+                    
+                    <div class="col-md-6 content_item insta">
+                        <a target="_blank" href=""> <span class="big_link"></span> </a>
+                        <div class="content_image_wrapper">
+                            <!--Image here-->
+                        </div>
+                        <div class="content_text_wrapper">
+                            <img class="social_icon" src="/static/images/global/ico_instagram_black.svg" alt="instagram icon">
+                            <div class="caption"> Caption goes here </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 content_item youtube">
+                        <a target="_blank" href=""> <span class="big_link"></span> </a>
+                        <div class="content_image_wrapper">
+                            <!--Image here-->
+                        </div>
+                        <div class="content_text_wrapper">
+                            <img class="social_icon" src="/static/images/global/ico_youtube_black.svg" alt="youtube icon">
+                            <div class="caption"> Video title here </div>
+                        </div>
+                    </div>
+
+                </div>       
+            </div>
+
+
+            <div class="subsection">
+                <h3> <b> Clients </b> </h3>
+                <div class="row untouched" id="clientlist">
+                    
+                    <div class="col-md-6 client_item">
+                        <div class="client_image_wrapper">
+                            <!--Image here-->
+                        </div>
+                        <div class="client_text_wrapper">
+                            <div> Client Name </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 client_item">
+                        <div class="client_image_wrapper">
+                            <!--Image here-->
+                        </div>
+                        <div class="client_text_wrapper">
+                            <div> Client Name </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="subsection">
+                <h3> <b> Press </b> </h3>
+                <div class="row untouched" id="presslist">
+                    
+                    <div class="col-md-6 press_item">
+                        <a target="_blank" href=""> <span class="big_link"></span> </a>
+                        <div class="press_image_wrapper">
+                            <!--Image here-->
+                        </div>
+                        <div class="press_text_wrapper">
+                            <div class="source">Source</div>
+                            <div class="title">Title Goes Here</div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 press_item">
+                        <a target="_blank" href=""> <span class="big_link"></span> </a>
+                        <div class="press_image_wrapper">
+                            <!--Image here-->
+                        </div>
+                        <div class="press_text_wrapper">
+                            <div class="source">Source</div>
+                            <div class="title">Title Goes Here</div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script type="text/javascript">
+    $(document).ready(function() {
+        let isLogin = true;
+
+        /*----------------------------------*/
+        /*Initialization Laundry*/
+        /*----------------------------------*/
+        initPlaceholder();
+        $("#section_2").hide();
+        $("#section_3").hide();
+        $("#link_wrapper").hide();
+        $("#thankyou_wrapper").hide();
+        $(".success_box").hide();
+
+        
+        /*----------------------------------*/
+        /* Form's DOM Event Handlers */
+        /*----------------------------------*/
+
+        //next button -> section reveal
+        $(".next_button").click(function() {
+            sectionScroll(this);
+        });
+
+
+        //add additional input field
+        $(".add_button").click(function() {
+            addField(this);
+        });
+
+        //toggle audience analytics: login vs. link
+        $(".alternate_button").click(function() {
+            if (isLogin) {
+                $("#login_wrapper").hide();
+                $( "#link_wrapper" ).fadeIn("slow");
+
+            } else {
+                $("#link_wrapper").hide();
+                $( "#login_wrapper" ).fadeIn("slow");
+            }
+            isLogin = !isLogin
+        });
+
+        //social logins
+        $(".login_button").click(function(){     
+            socialLogin(this);
+        });
+
+        //submit form
+        $("#submit").click(function(){
+            submitForm();
+        });
+
+        //back to editing
+        $("#backto_edit").click(function(){
+            $("#thankyou_wrapper").fadeOut("slow", function(){
+                $("form").fadeIn("slow");
+            });
+        });
+
+
+        /*----------------------------------*/
+        /* Preview Rendering Functions*/
+        /*----------------------------------*/
+
+        $(".short_answer").on("change paste keyup", function() {
+            updateShort(this);
+        });
+
+        $("#f_bio").on("change paste keyup", function() {
+            updateBio($(this).val());
+        });
+    });
+    </script>
+</body>
+
+</html>

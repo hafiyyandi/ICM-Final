@@ -1,0 +1,34 @@
+@import '_colors';
+@import '_typography';
+@import '_form';
+@import '_preview';
+
+html,
+body {
+    height: 100%;
+}
+
+.navigation {
+	font-family: $form-font;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+    width: 100%;
+    z-index: 12;
+    font-size: 0.9rem;
+
+    .form_nav {
+        width: 30%;
+        padding: 20px;
+        background: white;
+        border-right: 1px $soft-grey solid;
+    }
+
+    .preview_nav {
+        width: 70%;
+        padding: 20px;
+        background: $pale-yellow;
+    }
+
+}

@@ -1,0 +1,268 @@
+%icon {
+    height: 15px;
+}
+
+%medium_button {
+    width: 100%;
+    padding: 20px;
+    border-radius: 4px;
+    font-size: $font-md;
+
+    -webkit-transition: all 0.1s ease-out;
+    -moz-transition: all 0.1s ease-out;
+    -o-transition: all 0.1s ease-out;
+    transition: all 0.1s ease-out;
+
+    &:focus {
+        outline: none;
+    }
+}
+
+%aux_button {
+    font-size: $font-md;
+    text-align: left;
+    background: none;
+    border: none;
+    margin: 20px 0;
+    padding: 0;
+    text-decoration: underline;
+    color: $soft-grey;
+
+    -webkit-transition: all 0.1s ease-out;
+    -moz-transition: all 0.1s ease-out;
+    -o-transition: all 0.1s ease-out;
+    transition: all 0.1s ease-out;
+
+    &:focus {
+        outline: none;
+    }
+
+    &:hover {
+        color: black;
+    }
+}
+
+%input_stylings {
+    font-size: $font-lg;
+    font-weight: 300;
+    margin-top: 10px;
+    padding: 10px 10px;
+    border: none;
+    border-bottom: 1px solid $soft-grey;
+    background-color: $bright-grey;
+    width: 100%;
+
+    &::placeholder {
+        color: $soft-grey;
+    }
+
+    &:focus {
+        outline: none;
+        background-color: white;
+        border-bottom: 2px solid $sea-foam;
+        margin-bottom: -1px;
+    }
+
+    &:hover {
+        border-bottom: 2px solid $sea-foam;
+        margin-bottom: -1px;
+    }
+}
+
+
+#form_panel {
+    font-family: $form-font;
+    float: left;
+    width: 30%;
+    height: 100%;
+    overflow-y: auto;
+    padding: 50px 50px 80px 50px;
+    border-right: 1px $soft-grey solid;
+    //background: $bright-grey;
+
+    form {
+
+        .section_label {
+            padding: 10px 15px;
+            border: 1px $soft-grey solid;
+            border-radius: 3px;
+            display: inline-block;
+            margin: 60px 0;
+            background: white;
+
+            h3 {
+                font-weight: 700;
+                font-size: $font-md;
+                margin-bottom: 0;
+            }
+        }
+
+        %next_button {
+            @extend %medium_button;
+            color: white;
+            background: black;
+            font-weight: 700;
+            border: none;
+
+            &:hover {
+                background: $sea-foam;
+            }
+        }
+
+        .next_button {
+            @extend %next_button;
+        }
+
+        .submit_button {
+            @extend %next_button;
+        }
+
+        .add_button {
+            @extend %aux_button;
+        }
+
+        .alternate_button {
+            @extend %aux_button;
+            color: $grey;
+            margin-top: 10px;
+        }
+
+        .login_button {
+            @extend %medium_button;
+            border: 1px $grey solid;
+            margin-bottom: 10px;
+
+            &:hover {
+                background-color: $bright-grey;
+                border: 1px black solid;
+            }
+
+        }
+
+        .question {
+            margin-bottom: 50px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .desc {
+            font-size: $font-sm;
+            color: $grey;
+        }
+
+        input {
+            @extend %input_stylings;
+        }
+
+        textarea {
+            @extend %input_stylings;
+        }
+
+        /*styling for file upload*/
+        .fileContainer {
+            overflow: hidden;
+            position: relative;
+
+            margin-top: 20px;
+            height: 200px;
+            background: $soft-grey;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            .plus {
+                font-size: 3rem;
+                font-weight: 700;
+                color: white;
+            }
+
+            [type=file] {
+                cursor: inherit;
+                display: block;
+                font-size: 999px;
+                filter: alpha(opacity=0);
+                min-height: 100%;
+                min-width: 100%;
+                opacity: 0;
+                position: absolute;
+                right: 0;
+                text-align: right;
+                top: 0;
+            }
+        }
+
+        .sociallogin_wrapper {
+            margin-top: 20px
+        }
+
+        .success_box {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            padding: 20px;
+            margin-bottom: 10px;
+
+            .check {
+                align-self: flex-end;
+            }
+        }
+
+        .sociallink_input {
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+
+            @extend %input_stylings;
+
+            input {
+                border: none;
+                padding: 0;
+                width: 90%;
+                margin: 0;
+            }
+        }
+
+    }
+
+    #thankyou_wrapper {
+        margin: 60px 0;
+        height: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        h3 {
+            font-size: 2.2rem;
+            font-weight: 700;
+        }
+
+        .backto_button {
+            @extend %medium_button;
+            border: 1px $grey solid;
+            color:$soft-grey;
+            margin-top:60px;
+            margin-bottom: 10px;
+
+            &:hover {
+                background-color: $sea-foam;
+                color:white;
+                border: 1px $sea-foam solid;
+            }
+
+        }
+    }
+}
+
+.icon {
+    @extend %icon;
+}
+
+.social_icon {
+    @extend %icon;
+    margin-right: 10px;
+}
