@@ -171,7 +171,7 @@ function placeImage() {
 
 function loadSVG(url) {
     $.get(url, function(data) {
-        let name = url.split('/')[3].split('.')[0];
+        let name = url.split('/')[2].split('.')[0];
 
         let shape = []
         //get drawing commands
