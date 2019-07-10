@@ -10,10 +10,7 @@ h2 {
 
 p {
   font-weight: 300;
-}
-
-.highlight {
-  background-color: rgba(255, 255, 255, 0.6);
+  font-size: 1.2em;
 }
 
 ::selection {
@@ -384,6 +381,7 @@ body {
 }
 #content .paragraph_wrapper {
   margin-top: 40px;
+  margin-bottom: 40px;
   width: 60%;
   left: auto;
   text-align: left;
